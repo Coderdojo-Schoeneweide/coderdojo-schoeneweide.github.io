@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
   );
 
   // Load theme from local storage
-  const theme = localStorage.getItem(THEME_KEY);
+  let theme = localStorage.getItem(THEME_KEY) ?? THEME_LIGHT;
   setTheme(theme);
   slider.checked = theme === THEME_DARK;
 });
