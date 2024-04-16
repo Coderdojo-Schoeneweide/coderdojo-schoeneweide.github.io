@@ -1,111 +1,127 @@
-let showFilter = false;
-let filterArrow;
-let filterWorkshop;
-let filterBlog;
-let resultsBlog;
 let results;
+let section_blogs;
 
-let ageFilter = null;
-let durationFilter = null;
-let readingFilter = null;
-let titleFilter = null;
-let tagBlogFilters = [];
-let tagFilters = [];
+/**
+ * Definitions for all possible filters
+ * @type {Record<string, {value: any, selector: string, type: string, check: (value: any) => boolean}>}
+ */
+const filters = {
+    age: {
+        value: "",
+        selector: "#age-filter",
+        type: "select",
+        check: (value) => filters.age.value.length === 0 || value.toLowerCase() === filters.age.value
+    },
+    duration: {
+        value: "",
+        selector: "#duration-filter",
+        type: "select",
+        check: (value) => filters.duration.value.length === 0 || value.toLowerCase() === filters.duration.value
+    },
+    readingTime: {
+        value: "",
+        selector: "#reading-time-filter",
+        type: "select",
+        check: (value) => filters.readingTime.value.length === 0 || value.toLowerCase() === filters.readingTime.value
+    },
+    title: {
+        value: "",
+        selector: "#title-search-filter",
+        type: "input",
+        check: (value) => filters.title.value.length === 0 || value.toLowerCase().includes(filters.title.value)
+    },
+    tag: {
+        value: [],
+        selector: "#tag-filters input",
+        type: "checkbox",
+        check: (value) => filters.tag.value.length === 0 || filters.tag.value.every(x => value.includes(x))
+    }
+};
 
 document.addEventListener("DOMContentLoaded", () => {
-    filterWorkshop = document.querySelector("#filter");
-    filterBlog = document.querySelector("#filter-blogs");
-    results = document.querySelectorAll("#results li");
-    resultsBlog = document.querySelectorAll("#results-blogs li");
+    const filterSection = document.querySelector("#filter");
+    // Abort this script if there are no filters on this page
+    if (!filterSection) return;
 
-    if (filterWorkshop != null) {
-        const filterToggle = document.querySelector("#filter-toggle");
-        filterArrow = filterToggle.querySelector("span");
-        filterToggle.addEventListener("click", toggleFilterWorkshop);
 
-        filterWorkshop.querySelector("#age-filter").addEventListener("change", event => {
-            ageFilter = event.target.value !== "" ? event.target.value : null;
-            updateFilterWorkshopResults();
-        });
-        filterWorkshop.querySelector("#duration-filter").addEventListener("change", event => {
-            durationFilter = event.target.value !== "" ? event.target.value : null;
-            updateFilterWorkshopResults();
-        });
-        filterWorkshop.querySelectorAll("#tag-filters input")
-            .forEach(checkbox => checkbox.addEventListener("change", event => {
-                if (event.target.checked)
-                    tagFilters.push(event.target.value);
-                else
-                    tagFilters.splice(tagFilters.indexOf(event.target.value), 1);
-                updateFilterWorkshopResults();
-            }));
-    }
+    section_blogs = document.querySelector("#all-posts");
+    results = document.querySelectorAll("#results #result-item");
 
-    if (filterBlog != null) {
-        const filterToggle = document.querySelector("#filter-toggle");
-        filterArrow = filterToggle.querySelector("span");
-        filterToggle.addEventListener("click", toggleFilterBlog);
+    const filterToggle = document.querySelector("#filter-toggle");
+    const filterArrow = filterToggle.querySelector("span");
 
-        filterBlog.querySelectorAll("#tag-filters input").forEach(checkbox => checkbox.addEventListener("change", event => {
-            if (event.target.checked)
-                tagBlogFilters.push(event.target.value);
-            else
-                tagBlogFilters.splice(tagBlogFilters.indexOf(event.target.value), 1);
-            updateFilterBlogResults();
-        }));
+    filterToggle.addEventListener("click", toggleFilter(filterSection, filterArrow));
 
-        filterBlog.querySelector("#title-search-filter").addEventListener("input", event => {
-            titleFilter = event.target.value !== "" ? event.target.value : null;
-            if (titleFilter != null) {
-                titleFilter = titleFilter.toLowerCase();
-            }
-            updateFilterBlogResults();
-        });
-
-        filterBlog.querySelector("#readingTime-filters").addEventListener("change", event => {
-            readingFilter = event.target.value !== "" ? event.target.value : null;
-            updateFilterBlogResults();
-        });
+    for (const filter in filters) {
+        addEventListenerToFilter(filterSection, filters[filter]);
     }
 });
 
-function toggleFilterWorkshop(event) {
-    event.preventDefault();
-    showFilter = !showFilter;
-    if (showFilter) {
-        filterArrow.innerText = "▾";
-        filterWorkshop.classList.add("show");
-    } else {
-        filterArrow.innerText = "▸";
-        filterWorkshop.classList.remove("show");
+function toggleFilter(filterSection, filterArrow) {
+    let showFilter = false;
+
+    return (event) => {
+        event.preventDefault();
+        showFilter = !showFilter;
+        if (showFilter) {
+            filterArrow.innerText = "▾";
+            filterSection.classList.add("show");
+        } else {
+            filterArrow.innerText = "▸";
+            filterSection.classList.remove("show");
+        }
     }
 }
 
-function toggleFilterBlog(event) {
-    event.preventDefault();
-    showFilter = !showFilter;
-    if (showFilter) {
-        filterArrow.innerText = "▾";
-        filterBlog.classList.add("show");
-    } else {
-        filterArrow.innerText = "▸";
-        filterBlog.classList.remove("show");
+/**
+ * Add change event listener to a filter element on the current list page
+ * @param {HTMLElement} filterSection The HTML element containing all the filters
+ * @param {{value: any[], selector: string, type: string}} filter The filter object
+ */
+function addEventListenerToFilter(filterSection, filter) {
+    switch (filter.type) {
+        case "checkbox":
+            filterSection.querySelectorAll(filter.selector)
+                .forEach(checkbox => checkbox.addEventListener("change", (e) => checkboxFilterChange(e, filter)));
+            break;
+        case "input":
+            filterSection.querySelector(filter.selector)?.addEventListener("input", (e) => filterChange(e, filter));
+            break;
+        default:
+            filterSection.querySelector(filter.selector)?.addEventListener("change", (e) => filterChange(e, filter));
+            break;
     }
 }
 
-function updateFilterBlogResults() {
-    resultsBlog.forEach(blog => {
-        blog.hidden = !((!readingFilter || blog.dataset.readingtime === readingFilter) &&
-            (!titleFilter || blog.dataset.title.toLowerCase().includes(titleFilter) === true) &&
-            (tagBlogFilters.length === 0 || tagBlogFilters.every(c => blog.dataset.tags.indexOf(c) >= 0)));
-    });
+function checkboxFilterChange(event, filter) {
+    if (event.target.checked)
+        filter.value.push(event.target.value);
+    else
+        filter.value.splice(filter.value.indexOf(event.target.value), 1);
+    updateFilterResults();
 }
 
-function updateFilterWorkshopResults() {
-    console.log(ageFilter);
-    results.forEach(workshop => {
-        workshop.hidden = !((!ageFilter || workshop.dataset.age === ageFilter) &&
-            (!durationFilter || workshop.dataset.duration === durationFilter) &&
-            (tagFilters.length === 0 || tagFilters.every(c => workshop.dataset.tags.indexOf(c) >= 0)));
-    });
+function filterChange(event, filter) {
+    filter.value = event.target.value.toLowerCase();
+    updateFilterResults();
+}
+
+function updateFilterResults() {
+    if (section_blogs != null) {
+        results.forEach(blog => {
+            blog.hidden = !(
+                filters.readingTime.check(blog.dataset.readingtime) &&
+                filters.title.check(blog.dataset.title) &&
+                filters.tag.check(blog.dataset.tags)
+            );
+        });
+    } else {
+        results.forEach(workshop => {
+            workshop.hidden = !(
+                filters.age.check(workshop.dataset.age.toLowerCase()) &&
+                filters.duration.check(workshop.dataset.duration) &&
+                filters.tag.check(workshop.dataset.tags)
+            );
+        });
+    }
 }
