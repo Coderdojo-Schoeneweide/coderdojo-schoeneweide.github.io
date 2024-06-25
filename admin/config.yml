@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: Coderdojo-Schoeneweide/website-hugo
+  site_domain: brilliant-stardust-d69104.netlify.app
 media_folder: static/images/cms
 public_folder: /images/cms
 collections:
@@ -14,7 +15,7 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Categories', name: 'categories', widget: 'list', default: [berichte] }
+      - { label: 'Categories', name: 'categories', widget: 'list', default: [ berichte ] }
       - { label: 'Tags', name: 'tags', widget: 'list' }
       - { label: 'Author', name: 'authors', widget: 'list' }
       - { label: 'Draft', name: 'draft', widget: "boolean", default: true }
