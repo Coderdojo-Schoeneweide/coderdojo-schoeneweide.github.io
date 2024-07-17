@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /de/impressum
+Disallow: /de/datenschutz
+Disallow: /ar/impressum
+Disallow: /ar/Datenschutz
+Disallow: /en/impressum
+Disallow: /en/Datenschutz
+
+# Erlaubte Suchmaschinen: alle
+User-agent: *
+Disallow: 
+
