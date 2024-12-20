@@ -1,30 +1,163 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Workshops on CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/</link><description>Recent content in Workshops on CoderDojo Schöneweide</description><generator>Hugo</generator><language>ar-YE</language><atom:link href="https://coderdojo-schoeneweide.github.io/ar/workshops/index.xml" rel="self" type="application/rss+xml"/><item><title>أسترو باي - البرمجة في الفضاء</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/python-astropi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/python-astropi/</guid><description>في ورشة العمل عبر الإنترنت &amp;ldquo;أسترو باي - البرمجة في الفضاء&amp;rdquo; كجزء من مشروع &amp;ldquo;Mission Zero&amp;rdquo; التابع لمؤسسة RaspberryPi Foundation، تُتاح الفرصة للمشاركين لكتابة برنامج بايثون يتم تشغيله بعد ذلك على محطة الفضاء الدولية. يمكن للمشاركين إنشاء رسوم متحركة مدتها 30 ثانية كحد أقصى, حيث يتم عرض الرطوبة على الأقل على محطة الفضاء الدولية. بالإضافة إلى ذلك، يمكن للمشاركين تحية رواد الفضاء، وعرض ضغط الهواء ودرجة الحرارة أو إضافة صور. يتم استخدام &amp;ldquo;محاكي &amp;ldquo;محاكي استشعار القبعة على الإنترنت&amp;rdquo; - وهو برنامج يحاكي حاسوب AstroPi مع أجهزة الاستشعار.</description></item><item><title>إنه يتحدث!</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/scratch-lippensynchronisation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/scratch-lippensynchronisation/</guid><description>في ورشة عمل &amp;ldquo;إنها تتكلم!&amp;quot;، سيكتسب المشاركون نظرة ثاقبة على كيفية صنع رسوم متحركة أي سلسة تتكون من صور فردية باستخدام سكراتش. في هذا النوع من الرسوم المتحركة، يتم تشغيل عدة صور واحدة تلو الأخرى, بحيث يتم إنشاء نوع من &amp;ldquo;الفيلم&amp;rdquo; في الذهن - مثل دفتر الصور المتحركة، ولكن رقمي! مزامنة الشفاه هي نوع خاص من الرسوم المتحركة إطارًا تلو الآخر: شخصية رقمية تحرك فمها تقوم شخصية رقمية بتحريك الفم بحيث تتطابق الحركات مع الكلمات المنطوقة.</description></item><item><title>البرمجة الإبداعية مع جودوت</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/godot/</guid><description>تستهدف ورشة عمل &amp;ldquo;البرمجة الإبداعية مع غودو&amp;rdquo; الشباب أو المعلمين والموجهين. بعد مقدمة عن تصميم الألعاب ولمحة عامة عن محرك اللعبة ونظرة عامة عن محرك الألعاب &amp;ldquo;غودو&amp;rdquo;، يمكن للمشاركين تصميم لعبة &amp;ldquo;المنصة&amp;rdquo; الخاصة بهم والبدء في تنفيذها. يمكن للمعلمين استكشاف تحديات وفرص تطوير الألعاب.
-أهداف التعلم:
-سيكون لدى المشاركين فهم أساسي لعملية تطوير اللعبة يعرف المشاركون كيفية العمل مع غودو بشكل عام يمكن للمشاركين استخدام المشاهد الأساسية وشجرة العقد من Godot يمكن للمشاركين قراءة مدخلات لوحة المفاتيح يمكن للمعلمين تقييم مستوى صعوبة وفائدة Godot للمجموعة المستهدفة يحتاج المشاركون:</description></item><item><title>التاريخ المشترك</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/gemeinsame-geschichte/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/gemeinsame-geschichte/</guid><description>في ورشة عمل &amp;ldquo;التاريخ المشترك&amp;rdquo;، يتعلم المشاركون أولاً ما هي البرمجة. هو. يتعلمون أساسيات التفكير الخوارزمي من خلال لعبة &amp;ldquo;الروبوت الحي&amp;rdquo;. التفكير. ثم يمكنهم بعد ذلك اتخاذ خطواتهم الأولى في البرمجة باستخدام سكراتش والتعرف على بيئة البرمجة. بيئة البرمجة.
-بشكل منفصل عن ورشة العمل (على سبيل المثال في دروس اللغة الألمانية والفنون)، يختار المشاركون اختيار قصة (على سبيل المثال إحدى القصص الملحميّة التي تمت تغطيتها). يتم تقسيمها إلى أقسام صغيرة وتقسيمها إلى مقسمة إلى مجموعات من المشاركين.</description></item><item><title>الذكاء الإصطناعي</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/kuenstliche-intelligenz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/kuenstliche-intelligenz/</guid><description>في ورشة عمل &amp;ldquo;الذكاء الاصطناعي&amp;rdquo;، يستكشف المشاركون بأنفسهم كيف يمكن للذكاء الاصطناعي أن يعمل وما يمكن استخدام هذه التكنولوجيا فيه. وما يمكن استخدام هذه التكنولوجيا من أجله. لعبة القرد، يستكشف المشاركون كيف &amp;ldquo;يتعلم&amp;rdquo; الذكاء الاصطناعي. ثم، بمساعدة موقع التعلم الآلي للأطفال لتدريب وتجربة الذكاء الاصطناعي بأنفسهم. يمكن أيضًا استخدام النموذج في سكراتش في النهاية.
-أهداف التعلم:
-يعرف المشاركون ما هو الذكاء الاصطناعي يعرف المشاركون كيف يمكن تدريب الذكاء الاصطناعي. يعرف المشاركون بعض الأمثلة التطبيقية للذكاء الاصطناعي يحتاج المشاركون إلى:</description></item><item><title>المعالجة</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/processing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/processing/</guid><description>يتعرّف المشاركون في ورشة عمل &amp;ldquo;المعالجة&amp;rdquo; على أداة &amp;quot; Processing&amp;quot; التي يمكن استخدامها لإنشاء الصور والرسوم المتحركة. للقيام بذلك، يخطو المشاركون خطواتهم الأولى في البرمجة باستخدام جافا وحل أول ألغازهم قبل ابتكار صورهم الإبداعية الخاصة بهم.
-أهداف التعلم:
-يمكن للمشاركين تشغيل بيئة Processing يتعلم المشاركين أوامر Processing الأساسية يحتاج المشاركون إلى:
-جهاز كمبيوتر مثبت عليه Java 11 و JRE11 و Processing IDE</description></item><item><title>بين الدعسوقة ومكعبات البناء</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/karol-und-kara/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/karol-und-kara/</guid><description>في ورشة العمل &amp;ldquo;بين الخنافس ومكعبات البناء&amp;rdquo;، سيحصل المشاركون على أول نظرة ثاقبة في عالم البرمجة والخوارزميات بمساعدة الخنفساء كارا وروبوت كارول المجسم من الطوب. كارا وروبوت كارول هي بيئات برمجة مصممة للأطفال والشباب. أولاً، يتعرف جميع المشاركين على كارا وكارول ويمكنهم اكتشاف الوظائف والإمكانيات بأنفسهم. ويمكنهم بعد ذلك حل المهام بمستويات مختلفة من الصعوبة أو تحقيق أفكارهم الخاصة، مثل توجيه كارول عبر متاهة ذاتية البناء.
-أهداف التعلم:
-يعرف المشاركون ما هي الخوارزمية ويمكنهم كتابة خوارزميات صغيرة بأنفسهم.</description></item><item><title>تحريك فيديو كليب موسيقي</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/scratch-musikvideo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/scratch-musikvideo/</guid><description>تقدم ورشة العمل عبر الإنترنت بعنوان &amp;ldquo;رسم فيديو موسيقي متحرك&amp;rdquo; للمشاركين نظرة ثاقبة حول كيفية عمل رسوم متحركة بسيطة باستخدام سكراتش, كيفية صنع رسوم متحركة بسيطة باستخدام سكراتش. يتم إنشاء الرسوم المتحركة عن طريق تحريك وتغيير أزياء الشخصيات في سكراتش. واعتماداً على مدى تقدم المشاركين، يمكن إضافة عناصر إضافية مثل مجموعات المسرح.
-أهداف التعلم:
-يمكن للمشاركين التحكم في حركة الشخصيات في سكراتش. يفهم المشاركون الفرق بين الشخصيات والأزياء. يمكن للمشاركين التحكم في أزياء الشخصية برمجياً في سكراتش.</description></item><item><title>تحسين العالم من خلال الألعاب</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/computerspiele-und-gesellschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/computerspiele-und-gesellschaft/</guid><description>في ورشة العمل عبر الإنترنت &amp;ldquo;تحسين العالم بالألعاب&amp;rdquo;، يكتسب المشاركون نظرة أولية عن عمل مصمم الألعاب. في الجزء الأول، يناقش المشاركون في الجزء الأول ما إذا كانت الألعاب يمكن أن تؤثر على المجتمع نحو الأفضل، وإذا كان الأمر كذلك، كيف يمكن للألعاب أن تؤثر على المجتمع نحو الأفضل. ثم يقوم المشاركون بتصميم فكرة اللعبة الخاصة بهم وتُتاح لهم الفرصة لتحقيق جزء من الفكرة باستخدام سكراتش.
-أهداف التعلم:
-سيتكون لدى المشاركين فكرة عما يقوم به مصمم الألعاب.</description></item><item><title>تصميم القصص المصورة والرسوم المتحركة باستخدام سكراتش</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/scratch-animationen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/scratch-animationen/</guid><description>في ورشة العمل هذه، يقوم المشاركون بإنشاء رسوم متحركة حول مواضيع تهمهم في حياتهم اليومية، مثل الصداقة والبيئة. سيتعرف المشاركون على عناصر فيلم الرسوم المتحركة وكيفية إنشائه: العصف الذهني وتصميم القصص المصورة والرسوم المتحركة والاختبار.
-أهداف التعلم:
-يمكن للمشاركين تحديد العناصر الناقلة للمشاعر في فيلم رسوم متحركة. يمكن للمشاركين إنشاء قصة مصورة لمشهد ما. يمكن للمشاركين إنشاء رسومات بسيطة باستخدام محرر رسومات سكراتش. يمكن للمشاركين التحكم في أزياء الشخصية برمجياً في سكراتش.</description></item><item><title>تطبيق الحيوانات الأليفة</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/octostudio-haustierapp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/octostudio-haustierapp/</guid><description>في ورشة عمل &amp;ldquo;تطبيق الحيوانات الأليفة&amp;rdquo;، يكتسب المشاركون نظرة ثاقبة حول كيفية برمجة حيوان أليف رقمي جائع ويحتاج إلى إطعامه. يُستخدم في ذلك تطبيق OctoStudio، وهو تطبيق للأجهزة المحمولة يمكن استخدامه لبرمجة التطبيقات. بعد جولة إلهامية قصيرة، يستخدم المشاركون، مع مرشدهم أو آبائهم أو بمفردهم، التعليمات التي وضعناها لبرمجة تطبيق أساسي للحيوانات الأليفة والتعرف على OctoStudio. في الوقت المتبقي، يمكن للمشاركين بعد ذلك توسيع تطبيقهم.
-أهداف التعلم:
-يمكن للمشاركين تشغيل OctoStudio يمكن للمشاركين إضافة الأشكال والخلفيات يمكن للمشاركين تغيير رؤية الشكل.</description></item><item><title>تطبيق فلتر الصور</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/pocketcode-gesichtserkennung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/pocketcode-gesichtserkennung/</guid><description>في ورشة عمل &amp;ldquo;تطبيق فلتر الصور&amp;rdquo; عبر الإنترنت، سيكتسب المشاركون نظرة ثاقبة حول كيفية برمجة فلاتر الصور الذكية، أو ما يسمى &amp;ldquo;العدسات&amp;rdquo;، مثل تلك الموجودة على Instagram أو SnapChat. ويُستخدم في ذلك تطبيق PocketCode، وهو تطبيق للأجهزة المحمولة يمكن استخدامه لبرمجة التطبيقات. بعد تمرين إحماء إبداعي قصير يقوم فيه المشاركون بتصميم أربعة فلاتر حول مواضيع مختلفة في فترة زمنية قصيرة, مع مرشدهم أو والديهم أو بمفردهم، يستخدم المشاركون التعليمات التي وضعناها معاً لإنشاء فلتر الصور الخاص بهم.</description></item><item><title>دراما مع اللاما</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/scratch-theaterstueck/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/scratch-theaterstueck/</guid><description>في ورشة العمل عبر الإنترنت &amp;ldquo;دراما مع لمسات&amp;rdquo;، يكتسب المشاركون نظرة ثاقبة على كيفية صنع رسوم متحركة بسيطة باستخدام سكراتش. تركز ورشة العمل على الشخصيات التي تتحدث وتتفاعل مع بعضها البعض - تمامًا كما في المسرحيات. ولضمان عدم تداخل ما يُقال، يجب جدولة التفاعل: من يقول ماذا وإلى متى، وبالتالي من ينتظر و كم من الوقت؟ يتعلم المشاركون الأكثر تقدماً كيفية مزامنة تفاعل الشخصيات بشكل أكثر كفاءة, كيفية استخدام أوامر &amp;ldquo;إرسال&amp;rdquo; و&amp;quot;استقبال&amp;quot; سكراتش.</description></item><item><title>صنع بطاقات تهنئة رقمية</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/scratch-grusskarten/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/scratch-grusskarten/</guid><description>في ورشة العمل عبر الإنترنت &amp;ldquo;صنع بطاقات التهنئة الرقمية&amp;rdquo;، سيكتسب المشاركون نظرة ثاقبة حول كيفية صنع رسوم متحركة باستخدام سكراتش وإنشاء بطاقات تهنئة رقمية جميلة. يتم إنشاء الرسوم المتحركة من خلال الحركة وتغيير الأزياء والتأثيرات الرسومية للشخصيات في سكراتش. واعتماداً على مدى تقدم المشاركين، يمكن أيضاً استخدام وسائل أخرى للرسوم المتحركة، مثل استنساخ الشخصيات أو استخدام &amp;ldquo;قلم التلوين&amp;rdquo;.
-أهداف التعلم:
-سيتمكن المشاركون من تشغيل الأصوات في سكراتش. سيتمكن المشاركون من إنشاء رسومات بسيطة باستخدام محرر الرسومات في سكراتش.</description></item><item><title>فن ثلاثي الأبعاد مع بلندر</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/blender/</guid><description>في ورشة عمل &amp;ldquo;الفن ثلاثي الأبعاد مع بلندر&amp;rdquo;، يتعرف المشاركون على أداة بلندر التي يمكن استخدامها لإنشاء نماذج ثلاثية الأبعاد. يمكن تمديد ورشة العمل لمدة ساعتين يقوم فيها المشاركون أيضاً بتحريك النماذج.
-أهداف التعلم:
-يمكن للمشاركين تشغيل بيئة بلندر يمكن للمشاركين إنشاء أشكال ثلاثية الأبعاد بسيطة باستخدام Blender يمكن للمشاركين تلوين النماذج ثلاثية الأبعاد يمكن للمشاركين تحريك نماذج ثلاثية الأبعاد يحتاج المشاركون إلى:
-كمبيوتر مثبت عليه بلندر</description></item><item><title>كمطور برمجيات: تحسين العالم</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/softwareentwicklung-und-gesellschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/softwareentwicklung-und-gesellschaft/</guid><description>في ورشة العمل عبر الإنترنت &amp;ldquo;تحسين العالم كمطور برمجيات&amp;rdquo;، يكتسب المشاركون نظرة أولية عن العمل كمطور برمجيات. في الجزء الأول، يتناول المشاركون في الجزء الأول مواضيع قريبة إلى قلوبهم، مثل حماية المناخ أو المساواة في الحقوق, والتفكير معاً في كيفية تأثير البرمجيات على المجتمع. في الخطوة التالية، يقوم المشاركون بتصميم قطعة برمجية تلفت الانتباه إلى مشكلة اجتماعية أو يعالج مشكلة اجتماعية. وأخيراً، يُسمح للمشاركين بتحقيق جزء من الفكرة باستخدام سكراتش.</description></item><item><title>مرحباً بوت، كيف حالك؟</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/chatbot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/chatbot/</guid><description>في ورشة العمل عبر الإنترنت &amp;ldquo;مرحباً بوت، كيف الحال؟&amp;quot;، يكتسب المشاركون نظرة ثاقبة حول كيفية برمجة روبوتات الدردشة الآلية. روبوتات المحادثة هي برامج يمكنها التحدث إلى المستخدم. يمكن للمشاركين استخدام إما سكراتش أو بايثون.
-واعتماداً على مدى تقدم المشاركين، عند استخدام سكراتش، يمكن استخدام ملحق &amp;ldquo;تحويل النص إلى كلام&amp;rdquo; و يمكن استخدام الكتل المخصصة (المعروفة أيضًا باسم &amp;ldquo;الدوال&amp;rdquo; أو &amp;ldquo;الروتينات الفرعية&amp;rdquo;).
-أهداف التعلم:
-يفهم المشاركون ما هو روبوت الدردشة الآلية يمكن للمشاركين جعل الكمبيوتر يقول شيئاً ما يمكن للمشاركين الاستعلام عن مدخلات المستخدم واستخدامها يمكن للمشاركين استخدام الشروط للاستجابة لمدخلات المستخدم يحتاج المشاركون:</description></item><item><title>مسار مليء بالعقبات mBot</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/mbot-labyrinth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/mbot-labyrinth/</guid><description>في ورشة العمل عبر الإنترنت &amp;ldquo;مسار مليء بالعقبات mBot&amp;rdquo;، يقوم المشاركون بتوجيه روبوت mBot عبر مسار مليء بالعقبات. بعد مرحلة البرمجة، يتنافس فريقان ضد بعضهما البعض: من يستطيع القيام بذلك أولاً؟ من يستطيع تفجير البالون في وسط المسار أولاً؟ يتم استخدام مستشعرات الخط والمسافة لاجتياز المسار.
-تتم مشاركة برامج mBlock للتحكم في الروبوتات mBots من قبل المشاركين مع الموجهين في الموقع, الذين يقومون بعد ذلك بتشغيل البرامج. كما يتم تسجيل برامج mBots بواسطة كاميرا مثبتة على السقف, يمكن للمشاركين متابعة مباشرة ما إذا كانت برامجهم تعمل أم لا.</description></item><item><title>ورشة عمل داشبوت</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/dashbot-challenges/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/dashbot-challenges/</guid><description>في ورشة عمل التحديات مع روبوتات داش، يلعب المشاركون في مهام مختلفة ويتعلمون كيفية التحكم يدوياً في روبوت صغير وبرمجته. تعلم كيفية التحكم يدوياً وبرمجة روبوت صغير بطريقة ممتعة.
-ونظراً لأن المهام مفتوحة للغاية، يمكن للمشاركين تطوير وتجربة أفكارهم الخاصة للحلول.
-روبوتات داشبوت يمكن التحكم في DashBot من خلال جهاز iPad متصل بتطبيق &amp;ldquo;Wonder&amp;rdquo;. في تطبيق &amp;ldquo;ووندر&amp;rdquo;، يمكن التحكم في DashBot يدوياً (وضع التحكم)، ويمكن تشغيل مهام البرمجة الصغيرة (ملحمة الروبوت) و البرمجة الحرة (وضع المطور).</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Workshops on CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/</link><description>Recent content in Workshops on CoderDojo Schöneweide</description><generator>Hugo</generator><language>ar-YE</language><atom:link href="https://coderdojo-schoeneweide.github.io/ar/workshops/index.xml" rel="self" type="application/rss+xml"/><item><title>أسترو باي - البرمجة في الفضاء</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/python-astropi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/python-astropi/</guid><description>&lt;p>في ورشة العمل عبر الإنترنت &amp;ldquo;أسترو باي - البرمجة في الفضاء&amp;rdquo; كجزء من
+مشروع &lt;a href="https://astro-pi.org/mission-zero/">&amp;ldquo;Mission Zero&amp;rdquo; التابع لمؤسسة RaspberryPi Foundation&lt;/a>، تُتاح الفرصة للمشاركين
+لكتابة برنامج بايثون يتم تشغيله بعد ذلك على محطة الفضاء الدولية. يمكن للمشاركين إنشاء رسوم متحركة مدتها 30 ثانية كحد أقصى,
+حيث يتم عرض الرطوبة على الأقل على محطة الفضاء الدولية. بالإضافة إلى ذلك، يمكن للمشاركين تحية رواد الفضاء، وعرض ضغط الهواء ودرجة الحرارة
+أو إضافة صور. يتم استخدام &amp;ldquo;محاكي &amp;ldquo;محاكي استشعار القبعة على الإنترنت&amp;rdquo; - وهو برنامج يحاكي حاسوب AstroPi مع أجهزة الاستشعار.&lt;/p></description></item><item><title>إنه يتحدث!</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/scratch-lippensynchronisation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/scratch-lippensynchronisation/</guid><description>&lt;p>في ورشة عمل &amp;ldquo;إنها تتكلم!&amp;quot;، سيكتسب المشاركون نظرة ثاقبة على
+كيفية صنع رسوم متحركة أي سلسة تتكون من صور فردية باستخدام سكراتش.
+في هذا النوع من الرسوم المتحركة، يتم تشغيل عدة صور واحدة تلو الأخرى,
+بحيث يتم إنشاء نوع من &amp;ldquo;الفيلم&amp;rdquo; في الذهن - مثل دفتر الصور المتحركة، ولكن رقمي!
+مزامنة الشفاه هي نوع خاص من الرسوم المتحركة إطارًا تلو الآخر: شخصية رقمية تحرك فمها
+تقوم شخصية رقمية بتحريك الفم بحيث تتطابق الحركات مع الكلمات المنطوقة.&lt;/p></description></item><item><title>البرمجة الإبداعية مع جودوت</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/godot/</guid><description>&lt;p>تستهدف ورشة عمل &amp;ldquo;البرمجة الإبداعية مع غودو&amp;rdquo; الشباب أو المعلمين والموجهين.
+بعد مقدمة عن تصميم الألعاب ولمحة عامة عن محرك اللعبة
+ونظرة عامة عن محرك الألعاب &amp;ldquo;غودو&amp;rdquo;، يمكن للمشاركين تصميم لعبة &amp;ldquo;المنصة&amp;rdquo; الخاصة بهم والبدء في تنفيذها.
+يمكن للمعلمين استكشاف تحديات وفرص تطوير الألعاب.&lt;/p>
+&lt;p>أهداف التعلم:&lt;/p>
+&lt;ul>
+&lt;li>سيكون لدى المشاركين فهم أساسي لعملية تطوير اللعبة&lt;/li>
+&lt;li>يعرف المشاركون كيفية العمل مع غودو بشكل عام&lt;/li>
+&lt;li>يمكن للمشاركين استخدام المشاهد الأساسية وشجرة العقد من Godot&lt;/li>
+&lt;li>يمكن للمشاركين قراءة مدخلات لوحة المفاتيح&lt;/li>
+&lt;li>يمكن للمعلمين تقييم مستوى صعوبة وفائدة Godot للمجموعة المستهدفة&lt;/li>
+&lt;/ul>
+&lt;p>يحتاج المشاركون:&lt;/p></description></item><item><title>التاريخ المشترك</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/gemeinsame-geschichte/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/gemeinsame-geschichte/</guid><description>&lt;p>في ورشة عمل &amp;ldquo;التاريخ المشترك&amp;rdquo;، يتعلم المشاركون أولاً ما هي البرمجة.
+هو. يتعلمون أساسيات التفكير الخوارزمي من خلال لعبة &amp;ldquo;الروبوت الحي&amp;rdquo;.
+التفكير. ثم يمكنهم بعد ذلك اتخاذ خطواتهم الأولى في البرمجة باستخدام سكراتش والتعرف على بيئة البرمجة.
+بيئة البرمجة.&lt;/p>
+&lt;p>بشكل منفصل عن ورشة العمل (على سبيل المثال في دروس اللغة الألمانية والفنون)، يختار المشاركون
+اختيار قصة (على سبيل المثال إحدى القصص الملحميّة التي تمت تغطيتها). يتم تقسيمها إلى أقسام صغيرة وتقسيمها إلى
+مقسمة إلى مجموعات من المشاركين. يقوم المشاركون برسم الشخصيات والأشياء من القصة.
+يتم مسح هذه الرسومات ضوئيًا وإدراجها في مشروع قالب.&lt;/p></description></item><item><title>الذكاء الإصطناعي</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/kuenstliche-intelligenz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/kuenstliche-intelligenz/</guid><description>&lt;p>في ورشة عمل &amp;ldquo;الذكاء الاصطناعي&amp;rdquo;، يستكشف المشاركون بأنفسهم كيف يمكن للذكاء الاصطناعي أن يعمل وما يمكن استخدام هذه التكنولوجيا فيه.
+وما يمكن استخدام هذه التكنولوجيا من أجله.
+&lt;a href="https://www.aiunplugged.org/german.pdf">لعبة القرد&lt;/a>، يستكشف المشاركون كيف &amp;ldquo;يتعلم&amp;rdquo; الذكاء الاصطناعي. ثم، بمساعدة
+موقع &lt;a href="https://machinelearningforkids.co.uk/">التعلم الآلي للأطفال&lt;/a> لتدريب وتجربة الذكاء الاصطناعي بأنفسهم.
+يمكن أيضًا استخدام النموذج في سكراتش في النهاية.&lt;/p>
+&lt;p>أهداف التعلم:&lt;/p>
+&lt;ul>
+&lt;li>يعرف المشاركون ما هو الذكاء الاصطناعي&lt;/li>
+&lt;li>يعرف المشاركون كيف يمكن تدريب الذكاء الاصطناعي.&lt;/li>
+&lt;li>يعرف المشاركون بعض الأمثلة التطبيقية للذكاء الاصطناعي&lt;/li>
+&lt;/ul>
+&lt;p>يحتاج المشاركون إلى:&lt;/p></description></item><item><title>المعالجة</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/processing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/processing/</guid><description>&lt;p>يتعرّف المشاركون في ورشة عمل &amp;ldquo;المعالجة&amp;rdquo; على أداة &amp;quot; Processing&amp;quot; التي يمكن استخدامها لإنشاء الصور والرسوم المتحركة.
+للقيام بذلك، يخطو المشاركون خطواتهم الأولى في البرمجة باستخدام جافا وحل أول ألغازهم
+قبل ابتكار صورهم الإبداعية الخاصة بهم.&lt;/p>
+&lt;p>أهداف التعلم:&lt;/p>
+&lt;ul>
+&lt;li>يمكن للمشاركين تشغيل بيئة Processing&lt;/li>
+&lt;li>يتعلم المشاركين أوامر Processing الأساسية&lt;/li>
+&lt;/ul>
+&lt;p>يحتاج المشاركون إلى:&lt;/p>
+&lt;ul>
+&lt;li>جهاز كمبيوتر مثبت عليه Java 11 و JRE11 و Processing IDE&lt;/li>
+&lt;/ul></description></item><item><title>بين الدعسوقة ومكعبات البناء</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/karol-und-kara/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/karol-und-kara/</guid><description>&lt;p>في ورشة العمل &amp;ldquo;بين الخنافس ومكعبات البناء&amp;rdquo;، سيحصل المشاركون على أول نظرة ثاقبة في عالم البرمجة والخوارزميات بمساعدة الخنفساء كارا وروبوت كارول المجسم من الطوب. كارا وروبوت كارول هي بيئات برمجة مصممة للأطفال والشباب. أولاً، يتعرف جميع المشاركين على كارا وكارول ويمكنهم اكتشاف الوظائف والإمكانيات بأنفسهم. ويمكنهم بعد ذلك حل المهام بمستويات مختلفة من الصعوبة أو تحقيق أفكارهم الخاصة، مثل توجيه كارول عبر متاهة ذاتية البناء.&lt;/p>
+&lt;p>أهداف التعلم:&lt;/p>
+&lt;ul>
+&lt;li>يعرف المشاركون ما هي الخوارزمية ويمكنهم كتابة خوارزميات صغيرة بأنفسهم.&lt;/li>
+&lt;li>يعرف المشاركون ما هي الخوارزمية الآلية ويمكنهم إعطاء أمثلة عليها&lt;/li>
+&lt;li>يتعلم المشاركون البرمجة من خلال اللعب&lt;/li>
+&lt;li>يمكن للمشاركين فهم مبدأ الأتمتة باستخدام الخنفساء كارا وكتابة خوارزميات باستخدام تمثال كارول الذي يمثل كتلة طرفية&lt;/li>
+&lt;/ul>
+&lt;p>يحتاج المشاركون&lt;/p></description></item><item><title>تحريك فيديو كليب موسيقي</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/scratch-musikvideo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/scratch-musikvideo/</guid><description>&lt;p>تقدم ورشة العمل عبر الإنترنت بعنوان &amp;ldquo;رسم فيديو موسيقي متحرك&amp;rdquo; للمشاركين نظرة ثاقبة حول كيفية عمل رسوم متحركة بسيطة باستخدام سكراتش,
+كيفية صنع رسوم متحركة بسيطة باستخدام سكراتش.
+يتم إنشاء الرسوم المتحركة عن طريق تحريك وتغيير أزياء الشخصيات في سكراتش.
+واعتماداً على مدى تقدم المشاركين، يمكن إضافة عناصر إضافية مثل مجموعات المسرح.&lt;/p>
+&lt;p>أهداف التعلم:&lt;/p>
+&lt;ul>
+&lt;li>يمكن للمشاركين التحكم في حركة الشخصيات في سكراتش.&lt;/li>
+&lt;li>يفهم المشاركون الفرق بين الشخصيات والأزياء.&lt;/li>
+&lt;li>يمكن للمشاركين التحكم في أزياء الشخصية برمجياً في سكراتش.&lt;/li>
+&lt;/ul>
+&lt;p>يحتاج المشاركون إلى&lt;/p></description></item><item><title>تحسين العالم من خلال الألعاب</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/computerspiele-und-gesellschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/computerspiele-und-gesellschaft/</guid><description>&lt;p>في ورشة العمل عبر الإنترنت &amp;ldquo;تحسين العالم بالألعاب&amp;rdquo;، يكتسب المشاركون نظرة أولية عن عمل مصمم الألعاب.
+في الجزء الأول، يناقش المشاركون في الجزء الأول ما إذا كانت الألعاب يمكن أن تؤثر على المجتمع نحو الأفضل، وإذا كان الأمر كذلك، كيف يمكن للألعاب أن تؤثر على المجتمع نحو الأفضل.
+ثم يقوم المشاركون بتصميم فكرة اللعبة الخاصة بهم وتُتاح لهم الفرصة لتحقيق جزء من الفكرة باستخدام سكراتش.&lt;/p>
+&lt;p>أهداف التعلم:&lt;/p>
+&lt;ul>
+&lt;li>سيتكون لدى المشاركين فكرة عما يقوم به مصمم الألعاب.&lt;/li>
+&lt;li>معرفة المشاركين بالعناصر الأساسية لمفهوم اللعبة: القصة، والرسومات، والصوت، والأهداف الجزئية والكلية، والضوابط&lt;/li>
+&lt;li>يعرف المشاركون اللبنات الأساسية لتطوير اللعبة: الفكرة - التصميم - التطوير - الاختبار&lt;/li>
+&lt;li>يمكن للمشاركين استخدام سكراتش لتحقيق الأفكار الصغيرة&lt;/li>
+&lt;/ul>
+&lt;p>يحتاج المشاركون إلى:&lt;/p></description></item><item><title>تصميم القصص المصورة والرسوم المتحركة باستخدام سكراتش</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/scratch-animationen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/scratch-animationen/</guid><description>&lt;p>في ورشة العمل هذه، يقوم المشاركون بإنشاء رسوم متحركة حول مواضيع تهمهم في حياتهم اليومية، مثل الصداقة والبيئة.
+سيتعرف المشاركون على
+عناصر فيلم الرسوم المتحركة وكيفية إنشائه: العصف الذهني وتصميم القصص المصورة والرسوم المتحركة والاختبار.&lt;/p>
+&lt;p>أهداف التعلم:&lt;/p>
+&lt;ul>
+&lt;li>يمكن للمشاركين تحديد العناصر الناقلة للمشاعر في فيلم رسوم متحركة.&lt;/li>
+&lt;li>يمكن للمشاركين إنشاء قصة مصورة لمشهد ما.&lt;/li>
+&lt;li>يمكن للمشاركين إنشاء رسومات بسيطة باستخدام محرر رسومات سكراتش.&lt;/li>
+&lt;li>يمكن للمشاركين التحكم في أزياء الشخصية برمجياً في سكراتش.&lt;/li>
+&lt;li>يمكن للمشاركين التحكم في موضع الشخصيات.&lt;/li>
+&lt;/ul>
+&lt;p>يحتاج المشاركون إلى&lt;/p></description></item><item><title>تطبيق الحيوانات الأليفة</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/octostudio-haustierapp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/octostudio-haustierapp/</guid><description>&lt;p>في ورشة عمل &amp;ldquo;تطبيق الحيوانات الأليفة&amp;rdquo;، يكتسب المشاركون نظرة ثاقبة حول
+كيفية برمجة حيوان أليف رقمي جائع ويحتاج إلى إطعامه.
+يُستخدم في ذلك تطبيق OctoStudio، وهو تطبيق للأجهزة المحمولة يمكن استخدامه لبرمجة التطبيقات.
+بعد جولة إلهامية قصيرة، يستخدم المشاركون، مع مرشدهم أو آبائهم أو بمفردهم، التعليمات التي وضعناها لبرمجة تطبيق أساسي للحيوانات الأليفة والتعرف على OctoStudio. في الوقت المتبقي، يمكن للمشاركين بعد ذلك توسيع تطبيقهم.&lt;/p>
+&lt;p>أهداف التعلم:&lt;/p>
+&lt;ul>
+&lt;li>يمكن للمشاركين تشغيل OctoStudio&lt;/li>
+&lt;li>يمكن للمشاركين إضافة الأشكال والخلفيات&lt;/li>
+&lt;li>يمكن للمشاركين تغيير رؤية الشكل.&lt;/li>
+&lt;li>يمكن للمشاركين استخدام المتغيرات&lt;/li>
+&lt;li>يمكن للمشاركين استخدام أرقام عشوائية&lt;/li>
+&lt;/ul>
+&lt;p>يحتاج المشاركون إلى&lt;/p></description></item><item><title>تطبيق فلتر الصور</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/pocketcode-gesichtserkennung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/pocketcode-gesichtserkennung/</guid><description>&lt;p>في ورشة عمل &amp;ldquo;تطبيق فلتر الصور&amp;rdquo; عبر الإنترنت، سيكتسب المشاركون نظرة ثاقبة حول
+كيفية برمجة فلاتر الصور الذكية، أو ما يسمى &amp;ldquo;العدسات&amp;rdquo;، مثل تلك الموجودة على Instagram أو SnapChat.
+ويُستخدم في ذلك تطبيق PocketCode، وهو تطبيق للأجهزة المحمولة يمكن استخدامه لبرمجة التطبيقات.
+بعد تمرين إحماء إبداعي قصير يقوم فيه المشاركون بتصميم أربعة فلاتر حول مواضيع مختلفة في فترة زمنية قصيرة,
+مع مرشدهم أو والديهم أو بمفردهم، يستخدم المشاركون التعليمات التي وضعناها معاً لإنشاء فلتر الصور الخاص بهم.
+التعليمات لتطوير فلتر الصور الخاص بهم.&lt;/p></description></item><item><title>دراما مع اللاما</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/scratch-theaterstueck/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/scratch-theaterstueck/</guid><description>&lt;p>في ورشة العمل عبر الإنترنت &amp;ldquo;دراما مع لمسات&amp;rdquo;، يكتسب المشاركون نظرة ثاقبة على
+كيفية صنع رسوم متحركة بسيطة باستخدام سكراتش.
+تركز ورشة العمل على الشخصيات التي تتحدث وتتفاعل مع بعضها البعض - تمامًا كما في المسرحيات.
+ولضمان عدم تداخل ما يُقال، يجب جدولة التفاعل:
+من يقول ماذا وإلى متى، وبالتالي من ينتظر و كم من الوقت؟
+يتعلم المشاركون الأكثر تقدماً كيفية مزامنة تفاعل الشخصيات بشكل أكثر كفاءة,
+كيفية استخدام أوامر &amp;ldquo;إرسال&amp;rdquo; و&amp;quot;استقبال&amp;quot; سكراتش.&lt;/p></description></item><item><title>صنع بطاقات تهنئة رقمية</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/scratch-grusskarten/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/scratch-grusskarten/</guid><description>&lt;p>في ورشة العمل عبر الإنترنت &amp;ldquo;صنع بطاقات التهنئة الرقمية&amp;rdquo;، سيكتسب المشاركون نظرة ثاقبة حول
+كيفية صنع رسوم متحركة باستخدام سكراتش وإنشاء بطاقات تهنئة رقمية جميلة.
+يتم إنشاء الرسوم المتحركة من خلال الحركة وتغيير الأزياء والتأثيرات الرسومية للشخصيات في سكراتش.
+واعتماداً على مدى تقدم المشاركين، يمكن أيضاً استخدام وسائل أخرى للرسوم المتحركة، مثل استنساخ الشخصيات أو استخدام &amp;ldquo;قلم التلوين&amp;rdquo;.&lt;/p>
+&lt;p>أهداف التعلم:&lt;/p>
+&lt;ul>
+&lt;li>سيتمكن المشاركون من تشغيل الأصوات في سكراتش.&lt;/li>
+&lt;li>سيتمكن المشاركون من إنشاء رسومات بسيطة باستخدام محرر الرسومات في سكراتش.&lt;/li>
+&lt;li>سيتمكن المشاركون من التحكم برمجياً في أزياء الشخصية في سكراتش.&lt;/li>
+&lt;/ul>
+&lt;p>يحتاج المشاركون إلى&lt;/p></description></item><item><title>فن ثلاثي الأبعاد مع بلندر</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/blender/</guid><description>&lt;p>في ورشة عمل &amp;ldquo;الفن ثلاثي الأبعاد مع بلندر&amp;rdquo;، يتعرف المشاركون على أداة بلندر التي يمكن استخدامها لإنشاء نماذج ثلاثية الأبعاد.
+يمكن تمديد ورشة العمل لمدة ساعتين يقوم فيها المشاركون أيضاً بتحريك النماذج.&lt;/p>
+&lt;p>أهداف التعلم:&lt;/p>
+&lt;ul>
+&lt;li>يمكن للمشاركين تشغيل بيئة بلندر&lt;/li>
+&lt;li>يمكن للمشاركين إنشاء أشكال ثلاثية الأبعاد بسيطة باستخدام Blender&lt;/li>
+&lt;li>يمكن للمشاركين تلوين النماذج ثلاثية الأبعاد&lt;/li>
+&lt;li>يمكن للمشاركين تحريك نماذج ثلاثية الأبعاد&lt;/li>
+&lt;/ul>
+&lt;p>يحتاج المشاركون إلى:&lt;/p>
+&lt;ul>
+&lt;li>كمبيوتر مثبت عليه بلندر&lt;/li>
+&lt;/ul></description></item><item><title>كمطور برمجيات: تحسين العالم</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/softwareentwicklung-und-gesellschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/softwareentwicklung-und-gesellschaft/</guid><description>&lt;p>في ورشة العمل عبر الإنترنت &amp;ldquo;تحسين العالم كمطور برمجيات&amp;rdquo;، يكتسب المشاركون نظرة أولية عن العمل كمطور برمجيات.
+في الجزء الأول، يتناول المشاركون في الجزء الأول مواضيع قريبة إلى قلوبهم، مثل حماية المناخ أو المساواة في الحقوق,
+والتفكير معاً في كيفية تأثير البرمجيات على المجتمع. في الخطوة التالية، يقوم المشاركون بتصميم قطعة برمجية تلفت الانتباه إلى مشكلة اجتماعية
+أو يعالج مشكلة اجتماعية. وأخيراً، يُسمح للمشاركين بتحقيق جزء من الفكرة باستخدام سكراتش.&lt;/p></description></item><item><title>مرحباً بوت، كيف حالك؟</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/chatbot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/chatbot/</guid><description>&lt;p>في ورشة العمل عبر الإنترنت &amp;ldquo;مرحباً بوت، كيف الحال؟&amp;quot;، يكتسب المشاركون نظرة ثاقبة حول
+كيفية برمجة روبوتات الدردشة الآلية. روبوتات المحادثة هي برامج يمكنها التحدث إلى المستخدم.
+يمكن للمشاركين استخدام إما سكراتش أو بايثون.&lt;/p>
+&lt;p>واعتماداً على مدى تقدم المشاركين، عند استخدام سكراتش، يمكن استخدام ملحق &amp;ldquo;تحويل النص إلى كلام&amp;rdquo; و
+يمكن استخدام الكتل المخصصة (المعروفة أيضًا باسم &amp;ldquo;الدوال&amp;rdquo; أو &amp;ldquo;الروتينات الفرعية&amp;rdquo;).&lt;/p>
+&lt;p>أهداف التعلم:&lt;/p>
+&lt;ul>
+&lt;li>يفهم المشاركون ما هو روبوت الدردشة الآلية&lt;/li>
+&lt;li>يمكن للمشاركين جعل الكمبيوتر يقول شيئاً ما&lt;/li>
+&lt;li>يمكن للمشاركين الاستعلام عن مدخلات المستخدم واستخدامها&lt;/li>
+&lt;li>يمكن للمشاركين استخدام الشروط للاستجابة لمدخلات المستخدم&lt;/li>
+&lt;/ul>
+&lt;p>يحتاج المشاركون:&lt;/p></description></item><item><title>مسار مليء بالعقبات mBot</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/mbot-labyrinth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/mbot-labyrinth/</guid><description>&lt;p>في ورشة العمل عبر الإنترنت &amp;ldquo;مسار مليء بالعقبات mBot&amp;rdquo;، يقوم المشاركون بتوجيه روبوت mBot عبر مسار مليء بالعقبات.
+بعد مرحلة البرمجة، يتنافس فريقان ضد بعضهما البعض: من يستطيع القيام بذلك أولاً؟
+من يستطيع تفجير البالون في وسط المسار أولاً؟
+يتم استخدام مستشعرات الخط والمسافة لاجتياز المسار.&lt;/p>
+&lt;p>تتم مشاركة برامج mBlock للتحكم في الروبوتات mBots من قبل المشاركين مع الموجهين في الموقع,
+الذين يقومون بعد ذلك بتشغيل البرامج. كما يتم تسجيل برامج mBots بواسطة كاميرا مثبتة على السقف,
+يمكن للمشاركين متابعة مباشرة ما إذا كانت برامجهم تعمل أم لا.&lt;/p></description></item><item><title>ورشة عمل داشبوت</title><link>https://coderdojo-schoeneweide.github.io/ar/workshops/dashbot-challenges/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/ar/workshops/dashbot-challenges/</guid><description>&lt;p>في ورشة عمل التحديات مع روبوتات داش، يلعب المشاركون في مهام مختلفة ويتعلمون كيفية التحكم يدوياً في روبوت صغير وبرمجته.
+تعلم كيفية التحكم يدوياً وبرمجة روبوت صغير بطريقة ممتعة.&lt;/p>
+&lt;p>ونظراً لأن المهام مفتوحة للغاية، يمكن للمشاركين تطوير وتجربة أفكارهم الخاصة للحلول.&lt;/p>
+&lt;h2 id="روبوتات-داشبوت">روبوتات داشبوت&lt;/h2>
+&lt;p>يمكن التحكم في DashBot من خلال جهاز iPad متصل بتطبيق &amp;ldquo;Wonder&amp;rdquo;.
+في تطبيق &amp;ldquo;ووندر&amp;rdquo;، يمكن التحكم في DashBot يدوياً (وضع التحكم)، ويمكن تشغيل مهام البرمجة الصغيرة (ملحمة الروبوت) و
+البرمجة الحرة (وضع المطور).
+يمكن تجهيز DashBot بمنجنيق صغير.&lt;/p></description></item></channel></rss>

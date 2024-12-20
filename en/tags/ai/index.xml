@@ -1,6 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ai on CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/en/tags/ai/</link><description>Recent content in Ai on CoderDojo Schöneweide</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://coderdojo-schoeneweide.github.io/en/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>Artificial Intelligence</title><link>https://coderdojo-schoeneweide.github.io/en/workshops/kuenstliche-intelligenz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/en/workshops/kuenstliche-intelligenz/</guid><description>In the &amp;ldquo;Artificial Intelligence&amp;rdquo; workshop, participants explore how AI works and what this technology can be used for. Using the Monkey Game as an example, participants discover how AI &amp;ldquo;learns.&amp;rdquo; Then, with the help of the website Machine Learning for Kids they can train and experiment with AI themselves. The model can also be used in Scratch at the end.
-Learning objectives:
-Participants know what AI is. Participants know how AI can be trained.</description></item><item><title>Hello Bot, how are you?</title><link>https://coderdojo-schoeneweide.github.io/en/workshops/chatbot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/en/workshops/chatbot/</guid><description>In the online workshop &amp;ldquo;Hello Bot, how are you?&amp;rdquo; participants will gain insight into how to program chatbots. Chatbots are programs capable of conversing with a user. Participants can choose to use either Scratch or Python.
-Depending on the participants&amp;rsquo; progress, when using Scratch, they can also utilize the &amp;ldquo;Text-to-Speech&amp;rdquo; extension and create their own blocks (also known as &amp;ldquo;functions&amp;rdquo; or &amp;ldquo;subroutines&amp;rdquo;).
-Learning objectives:
-Participants understand what a chatbot is. Participants can make the computer say something.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ai on CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/en/tags/ai/</link><description>Recent content in Ai on CoderDojo Schöneweide</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://coderdojo-schoeneweide.github.io/en/tags/ai/index.xml" rel="self" type="application/rss+xml"/><item><title>Artificial Intelligence</title><link>https://coderdojo-schoeneweide.github.io/en/workshops/kuenstliche-intelligenz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/en/workshops/kuenstliche-intelligenz/</guid><description>&lt;p>In the &amp;ldquo;Artificial Intelligence&amp;rdquo; workshop, participants explore how AI works and what this technology can be used for.
+Using the &lt;a href="https://www.aiunplugged.org/german.pdf">Monkey Game&lt;/a> as an example, participants discover how AI &amp;ldquo;learns.&amp;rdquo;
+Then, with the help of the website &lt;a href="https://machinelearningforkids.co.uk/">Machine Learning for Kids&lt;/a> they can train and experiment with AI themselves.
+The model can also be used in Scratch at the end.&lt;/p>
+&lt;p>Learning objectives:&lt;/p>
+&lt;ul>
+&lt;li>Participants know what AI is.&lt;/li>
+&lt;li>Participants know how AI can be trained.&lt;/li>
+&lt;li>Participants are familiar with some applications of AI.&lt;/li>
+&lt;/ul>
+&lt;p>Participants will need:&lt;/p></description></item><item><title>Hello Bot, how are you?</title><link>https://coderdojo-schoeneweide.github.io/en/workshops/chatbot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/en/workshops/chatbot/</guid><description>&lt;p>In the online workshop &amp;ldquo;Hello Bot, how are you?&amp;rdquo; participants will gain insight into how to program chatbots.
+Chatbots are programs capable of conversing with a user. Participants can choose to use either Scratch or Python.&lt;/p>
+&lt;p>Depending on the participants&amp;rsquo; progress, when using Scratch, they can also utilize the &amp;ldquo;Text-to-Speech&amp;rdquo; extension and create their own blocks (also known as &amp;ldquo;functions&amp;rdquo; or &amp;ldquo;subroutines&amp;rdquo;).&lt;/p>
+&lt;p>Learning objectives:&lt;/p>
+&lt;ul>
+&lt;li>Participants understand what a chatbot is.&lt;/li>
+&lt;li>Participants can make the computer say something.&lt;/li>
+&lt;li>Participants can query and use user input.&lt;/li>
+&lt;li>Participants can use conditions to respond to user input.&lt;/li>
+&lt;/ul>
+&lt;p>Participants will need:&lt;/p></description></item></channel></rss>

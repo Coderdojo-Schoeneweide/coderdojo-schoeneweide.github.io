@@ -1,10 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blender on CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/de/tags/blender/</link><description>Recent content in Blender on CoderDojo Schöneweide</description><generator>Hugo</generator><language>de-DE</language><atom:link href="https://coderdojo-schoeneweide.github.io/de/tags/blender/index.xml" rel="self" type="application/rss+xml"/><item><title>3D-Art with Blender</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/blender/</guid><description>In the workshop &amp;ldquo;3D Art with Blender,&amp;rdquo; participants will learn to use the tool Blender to create 3D models. The workshop can be extended by 2 hours to additionally teach participants how to animate models.
-Learning objectives:
-Participants can navigate the Blender environment. Participants can create simple 3D shapes with Blender. Participants can colorize 3D models. Participants can animate 3D model Participants will need:
-A computer with Blender installed.</description></item><item><title>3D-Kunst mit Blender</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/blender/</guid><description>Im Workshop &amp;ldquo;3D-Kunst mit Blender&amp;rdquo; lernen die Teilnehmenden das Tool Blender kennen, mit dem 3D-Modelle erstellt werden können. Der Workshop kann um 2 Stunden erweitert werden, in denen die Teilnehmenden außerdem Modelle animieren.
-Lernziele:
-Teilnehmende können die Blender-Umgebung bedienen Teilnehmende können einfache 3D-Formen mit Blender erstellen Teilnehmende können 3D-Modelle einfärben Teilnehmende können 3D-Modelle animieren Teilnehmende benötigen:
-Computer mit Blender installiert</description></item><item><title>فن ثلاثي الأبعاد مع بلندر</title><link>https://coderdojo-schoeneweide.github.io/de/ar/workshops/blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/workshops/blender/</guid><description>في ورشة عمل &amp;ldquo;الفن ثلاثي الأبعاد مع بلندر&amp;rdquo;، يتعرف المشاركون على أداة بلندر التي يمكن استخدامها لإنشاء نماذج ثلاثية الأبعاد. يمكن تمديد ورشة العمل لمدة ساعتين يقوم فيها المشاركون أيضاً بتحريك النماذج.
-أهداف التعلم:
-يمكن للمشاركين تشغيل بيئة بلندر يمكن للمشاركين إنشاء أشكال ثلاثية الأبعاد بسيطة باستخدام Blender يمكن للمشاركين تلوين النماذج ثلاثية الأبعاد يمكن للمشاركين تحريك نماذج ثلاثية الأبعاد يحتاج المشاركون إلى:
-كمبيوتر مثبت عليه بلندر</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blender on CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/de/tags/blender/</link><description>Recent content in Blender on CoderDojo Schöneweide</description><generator>Hugo</generator><language>de-DE</language><atom:link href="https://coderdojo-schoeneweide.github.io/de/tags/blender/index.xml" rel="self" type="application/rss+xml"/><item><title>3D-Art with Blender</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/blender/</guid><description>&lt;p>In the workshop &amp;ldquo;3D Art with Blender,&amp;rdquo; participants will learn to use the tool Blender to create 3D models.
+The workshop can be extended by 2 hours to additionally teach participants how to animate models.&lt;/p>
+&lt;p>Learning objectives:&lt;/p>
+&lt;ul>
+&lt;li>Participants can navigate the Blender environment.&lt;/li>
+&lt;li>Participants can create simple 3D shapes with Blender.&lt;/li>
+&lt;li>Participants can colorize 3D models.&lt;/li>
+&lt;li>Participants can animate 3D model&lt;/li>
+&lt;/ul>
+&lt;p>Participants will need:&lt;/p>
+&lt;ul>
+&lt;li>A computer with Blender installed.&lt;/li>
+&lt;/ul></description></item><item><title>3D-Kunst mit Blender</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/blender/</guid><description>&lt;p>Im Workshop &amp;ldquo;3D-Kunst mit Blender&amp;rdquo; lernen die Teilnehmenden das Tool Blender kennen, mit dem 3D-Modelle erstellt werden können.
+Der Workshop kann um 2 Stunden erweitert werden, in denen die Teilnehmenden außerdem Modelle animieren.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Teilnehmende können die Blender-Umgebung bedienen&lt;/li>
+&lt;li>Teilnehmende können einfache 3D-Formen mit Blender erstellen&lt;/li>
+&lt;li>Teilnehmende können 3D-Modelle einfärben&lt;/li>
+&lt;li>Teilnehmende können 3D-Modelle animieren&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p>
+&lt;ul>
+&lt;li>Computer mit Blender installiert&lt;/li>
+&lt;/ul></description></item><item><title>فن ثلاثي الأبعاد مع بلندر</title><link>https://coderdojo-schoeneweide.github.io/de/ar/workshops/blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/workshops/blender/</guid><description>&lt;p>في ورشة عمل &amp;ldquo;الفن ثلاثي الأبعاد مع بلندر&amp;rdquo;، يتعرف المشاركون على أداة بلندر التي يمكن استخدامها لإنشاء نماذج ثلاثية الأبعاد.
+يمكن تمديد ورشة العمل لمدة ساعتين يقوم فيها المشاركون أيضاً بتحريك النماذج.&lt;/p>
+&lt;p>أهداف التعلم:&lt;/p>
+&lt;ul>
+&lt;li>يمكن للمشاركين تشغيل بيئة بلندر&lt;/li>
+&lt;li>يمكن للمشاركين إنشاء أشكال ثلاثية الأبعاد بسيطة باستخدام Blender&lt;/li>
+&lt;li>يمكن للمشاركين تلوين النماذج ثلاثية الأبعاد&lt;/li>
+&lt;li>يمكن للمشاركين تحريك نماذج ثلاثية الأبعاد&lt;/li>
+&lt;/ul>
+&lt;p>يحتاج المشاركون إلى:&lt;/p>
+&lt;ul>
+&lt;li>كمبيوتر مثبت عليه بلندر&lt;/li>
+&lt;/ul></description></item></channel></rss>

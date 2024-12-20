@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Java on CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/en/tags/java/</link><description>Recent content in Java on CoderDojo Schöneweide</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://coderdojo-schoeneweide.github.io/en/tags/java/index.xml" rel="self" type="application/rss+xml"/><item><title>Processing</title><link>https://coderdojo-schoeneweide.github.io/en/workshops/processing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/en/workshops/processing/</guid><description>In the &amp;ldquo;Processing&amp;rdquo; workshop, participants learn about the Processing tool, which can be used to generate images and animations. can be generated. To do this, participants take their first steps in programming with Java and solve their first puzzles before inventing their own creative images.
-Learning objectives:
-Participants can operate the Processing environment Participants know basic processing commands Participants need:
-Computer with Java 11, JRE11 and the Processing IDE installed</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Java on CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/en/tags/java/</link><description>Recent content in Java on CoderDojo Schöneweide</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://coderdojo-schoeneweide.github.io/en/tags/java/index.xml" rel="self" type="application/rss+xml"/><item><title>Processing</title><link>https://coderdojo-schoeneweide.github.io/en/workshops/processing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/en/workshops/processing/</guid><description>&lt;p>In the &amp;ldquo;Processing&amp;rdquo; workshop, participants learn about the Processing tool, which can be used to generate images and animations.
+can be generated. To do this, participants take their first steps in programming with Java and solve their first puzzles
+before inventing their own creative images.&lt;/p>
+&lt;p>Learning objectives:&lt;/p>
+&lt;ul>
+&lt;li>Participants can operate the Processing environment&lt;/li>
+&lt;li>Participants know basic processing commands&lt;/li>
+&lt;/ul>
+&lt;p>Participants need:&lt;/p>
+&lt;ul>
+&lt;li>Computer with Java 11, JRE11 and the Processing IDE installed&lt;/li>
+&lt;/ul></description></item></channel></rss>

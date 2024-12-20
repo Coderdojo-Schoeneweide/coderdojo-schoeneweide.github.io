@@ -1,7 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Godot on CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/de/tags/godot/</link><description>Recent content in Godot on CoderDojo Schöneweide</description><generator>Hugo</generator><language>de-DE</language><atom:link href="https://coderdojo-schoeneweide.github.io/de/tags/godot/index.xml" rel="self" type="application/rss+xml"/><item><title>Creative Programming with Godot</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/godot/</guid><description>The workshop &amp;ldquo;Creative Programming with Godot&amp;rdquo; is aimed at teenagers or educators and mentors. Here, participants can, after an introduction to game design and an overview of the game engine &amp;ldquo;Godot,&amp;rdquo; design their own &amp;ldquo;platformer&amp;rdquo; game and begin implementation. Educators can explore the challenges and opportunities of game development.
-Learning objectives:
-Participants have a basic understanding of the game development process. Participants know how to work with Godot fundamentally. Participants can use basic scenes and node trees from Godot.</description></item><item><title>Kreativ programmieren mit Godot</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/godot/</guid><description>Der Workshop &amp;ldquo;Kreativ programmieren mit Godot&amp;rdquo; richtet sich an Jugendliche oder Lehrpersonen und Mentor:innen. Hier können die Teilnehmenden, nach einer Einführung in Game Design und einem Überblick über die Game-Engine &amp;ldquo;Godot&amp;rdquo;, ihr eigenes &amp;ldquo;Platformer&amp;rdquo;-Spiel designen und beginnen zu implementieren. Lehrpersonen können dabei die Herausforderungen und Chancen der Spielentwicklung erkunden.
-Lernziele:
-Die Teilnehmenden haben ein grundlegendes Verständnis über den Spielentwicklungsprozess Die Teilnehmenden wissen, wie man grundsätzlich mit Godot arbeitet Die Teilnehmenden können grundlegende Szenen und Node-Tree von Godot verwenden Die Teilnehmenden können Keyboard-Input einlesen Lehrpersonen können den Schwierigkeitsgrad und Nutzen von Godot für ihre Zielgruppe einschätzen Teilnehmende benötigen:</description></item><item><title>البرمجة الإبداعية مع جودوت</title><link>https://coderdojo-schoeneweide.github.io/de/ar/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/workshops/godot/</guid><description>تستهدف ورشة عمل &amp;ldquo;البرمجة الإبداعية مع غودو&amp;rdquo; الشباب أو المعلمين والموجهين. بعد مقدمة عن تصميم الألعاب ولمحة عامة عن محرك اللعبة ونظرة عامة عن محرك الألعاب &amp;ldquo;غودو&amp;rdquo;، يمكن للمشاركين تصميم لعبة &amp;ldquo;المنصة&amp;rdquo; الخاصة بهم والبدء في تنفيذها. يمكن للمعلمين استكشاف تحديات وفرص تطوير الألعاب.
-أهداف التعلم:
-سيكون لدى المشاركين فهم أساسي لعملية تطوير اللعبة يعرف المشاركون كيفية العمل مع غودو بشكل عام يمكن للمشاركين استخدام المشاهد الأساسية وشجرة العقد من Godot يمكن للمشاركين قراءة مدخلات لوحة المفاتيح يمكن للمعلمين تقييم مستوى صعوبة وفائدة Godot للمجموعة المستهدفة يحتاج المشاركون:</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Godot on CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/de/tags/godot/</link><description>Recent content in Godot on CoderDojo Schöneweide</description><generator>Hugo</generator><language>de-DE</language><atom:link href="https://coderdojo-schoeneweide.github.io/de/tags/godot/index.xml" rel="self" type="application/rss+xml"/><item><title>Creative Programming with Godot</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/godot/</guid><description>&lt;p>The workshop &amp;ldquo;Creative Programming with Godot&amp;rdquo; is aimed at teenagers or educators and mentors.
+Here, participants can, after an introduction to game design and an overview of the game engine &amp;ldquo;Godot,&amp;rdquo; design their own &amp;ldquo;platformer&amp;rdquo; game and begin implementation.
+Educators can explore the challenges and opportunities of game development.&lt;/p>
+&lt;p>Learning objectives:&lt;/p>
+&lt;ul>
+&lt;li>Participants have a basic understanding of the game development process.&lt;/li>
+&lt;li>Participants know how to work with Godot fundamentally.&lt;/li>
+&lt;li>Participants can use basic scenes and node trees from Godot.&lt;/li>
+&lt;li>Participants can read keyboard input.&lt;/li>
+&lt;li>Educators can assess the difficulty level and benefits of Godot for their target audience.&lt;/li>
+&lt;/ul>
+&lt;p>Participants will need:&lt;/p></description></item><item><title>Kreativ programmieren mit Godot</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/godot/</guid><description>&lt;p>Der Workshop &amp;ldquo;Kreativ programmieren mit Godot&amp;rdquo; richtet sich an Jugendliche oder Lehrpersonen und Mentor:innen.
+Hier können die Teilnehmenden, nach einer Einführung in Game Design
+und einem Überblick über die Game-Engine &amp;ldquo;Godot&amp;rdquo;, ihr eigenes &amp;ldquo;Platformer&amp;rdquo;-Spiel designen und beginnen zu implementieren.
+Lehrpersonen können dabei die Herausforderungen und Chancen der Spielentwicklung erkunden.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Die Teilnehmenden haben ein grundlegendes Verständnis über den Spielentwicklungsprozess&lt;/li>
+&lt;li>Die Teilnehmenden wissen, wie man grundsätzlich mit Godot arbeitet&lt;/li>
+&lt;li>Die Teilnehmenden können grundlegende Szenen und Node-Tree von Godot verwenden&lt;/li>
+&lt;li>Die Teilnehmenden können Keyboard-Input einlesen&lt;/li>
+&lt;li>Lehrpersonen können den Schwierigkeitsgrad und Nutzen von Godot für ihre Zielgruppe einschätzen&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>البرمجة الإبداعية مع جودوت</title><link>https://coderdojo-schoeneweide.github.io/de/ar/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/workshops/godot/</guid><description>&lt;p>تستهدف ورشة عمل &amp;ldquo;البرمجة الإبداعية مع غودو&amp;rdquo; الشباب أو المعلمين والموجهين.
+بعد مقدمة عن تصميم الألعاب ولمحة عامة عن محرك اللعبة
+ونظرة عامة عن محرك الألعاب &amp;ldquo;غودو&amp;rdquo;، يمكن للمشاركين تصميم لعبة &amp;ldquo;المنصة&amp;rdquo; الخاصة بهم والبدء في تنفيذها.
+يمكن للمعلمين استكشاف تحديات وفرص تطوير الألعاب.&lt;/p>
+&lt;p>أهداف التعلم:&lt;/p>
+&lt;ul>
+&lt;li>سيكون لدى المشاركين فهم أساسي لعملية تطوير اللعبة&lt;/li>
+&lt;li>يعرف المشاركون كيفية العمل مع غودو بشكل عام&lt;/li>
+&lt;li>يمكن للمشاركين استخدام المشاهد الأساسية وشجرة العقد من Godot&lt;/li>
+&lt;li>يمكن للمشاركين قراءة مدخلات لوحة المفاتيح&lt;/li>
+&lt;li>يمكن للمعلمين تقييم مستوى صعوبة وفائدة Godot للمجموعة المستهدفة&lt;/li>
+&lt;/ul>
+&lt;p>يحتاج المشاركون:&lt;/p></description></item></channel></rss>

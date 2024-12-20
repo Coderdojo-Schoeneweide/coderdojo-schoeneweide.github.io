@@ -1,10 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Java on CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/de/tags/java/</link><description>Recent content in Java on CoderDojo Schöneweide</description><generator>Hugo</generator><language>de-DE</language><atom:link href="https://coderdojo-schoeneweide.github.io/de/tags/java/index.xml" rel="self" type="application/rss+xml"/><item><title>Processing</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/processing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/processing/</guid><description>In the &amp;ldquo;Processing&amp;rdquo; workshop, participants learn about the Processing tool, which can be used to generate images and animations. can be generated. To do this, participants take their first steps in programming with Java and solve their first puzzles before inventing their own creative images.
-Learning objectives:
-Participants can operate the Processing environment Participants know basic processing commands Participants need:
-Computer with Java 11, JRE11 and the Processing IDE installed</description></item><item><title>Processing</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/processing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/processing/</guid><description>Im Workshop &amp;ldquo;Processing&amp;rdquo; lernen die Teilnehmenden das Tool Processing kennen, mit dem Bilder und Animationen generiert werden können. Dafür machen die Teilnehmenden erste Schritte in der Programmierung mit Java und lösen erste Rätsel bevor sie ihre kreativen eigenen Bilder erfinden.
-Lernziele:
-Teilnehmende können die Processing-Umgebung bedienen Teilnehmende kennen grundlegende Processing-Befehle Teilnehmende benötigen:
-Computer mit Java 11, JRE11 und der Processing IDE installiert</description></item><item><title>المعالجة</title><link>https://coderdojo-schoeneweide.github.io/de/ar/workshops/processing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/workshops/processing/</guid><description>يتعرّف المشاركون في ورشة عمل &amp;ldquo;المعالجة&amp;rdquo; على أداة &amp;quot; Processing&amp;quot; التي يمكن استخدامها لإنشاء الصور والرسوم المتحركة. للقيام بذلك، يخطو المشاركون خطواتهم الأولى في البرمجة باستخدام جافا وحل أول ألغازهم قبل ابتكار صورهم الإبداعية الخاصة بهم.
-أهداف التعلم:
-يمكن للمشاركين تشغيل بيئة Processing يتعلم المشاركين أوامر Processing الأساسية يحتاج المشاركون إلى:
-جهاز كمبيوتر مثبت عليه Java 11 و JRE11 و Processing IDE</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Java on CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/de/tags/java/</link><description>Recent content in Java on CoderDojo Schöneweide</description><generator>Hugo</generator><language>de-DE</language><atom:link href="https://coderdojo-schoeneweide.github.io/de/tags/java/index.xml" rel="self" type="application/rss+xml"/><item><title>Processing</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/processing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/processing/</guid><description>&lt;p>In the &amp;ldquo;Processing&amp;rdquo; workshop, participants learn about the Processing tool, which can be used to generate images and animations.
+can be generated. To do this, participants take their first steps in programming with Java and solve their first puzzles
+before inventing their own creative images.&lt;/p>
+&lt;p>Learning objectives:&lt;/p>
+&lt;ul>
+&lt;li>Participants can operate the Processing environment&lt;/li>
+&lt;li>Participants know basic processing commands&lt;/li>
+&lt;/ul>
+&lt;p>Participants need:&lt;/p>
+&lt;ul>
+&lt;li>Computer with Java 11, JRE11 and the Processing IDE installed&lt;/li>
+&lt;/ul></description></item><item><title>Processing</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/processing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/processing/</guid><description>&lt;p>Im Workshop &amp;ldquo;Processing&amp;rdquo; lernen die Teilnehmenden das Tool Processing kennen, mit dem Bilder und Animationen
+generiert werden können. Dafür machen die Teilnehmenden erste Schritte in der Programmierung mit Java und lösen erste Rätsel
+bevor sie ihre kreativen eigenen Bilder erfinden.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Teilnehmende können die Processing-Umgebung bedienen&lt;/li>
+&lt;li>Teilnehmende kennen grundlegende Processing-Befehle&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p>
+&lt;ul>
+&lt;li>Computer mit Java 11, JRE11 und der Processing IDE installiert&lt;/li>
+&lt;/ul></description></item><item><title>المعالجة</title><link>https://coderdojo-schoeneweide.github.io/de/ar/workshops/processing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/workshops/processing/</guid><description>&lt;p>يتعرّف المشاركون في ورشة عمل &amp;ldquo;المعالجة&amp;rdquo; على أداة &amp;quot; Processing&amp;quot; التي يمكن استخدامها لإنشاء الصور والرسوم المتحركة.
+للقيام بذلك، يخطو المشاركون خطواتهم الأولى في البرمجة باستخدام جافا وحل أول ألغازهم
+قبل ابتكار صورهم الإبداعية الخاصة بهم.&lt;/p>
+&lt;p>أهداف التعلم:&lt;/p>
+&lt;ul>
+&lt;li>يمكن للمشاركين تشغيل بيئة Processing&lt;/li>
+&lt;li>يتعلم المشاركين أوامر Processing الأساسية&lt;/li>
+&lt;/ul>
+&lt;p>يحتاج المشاركون إلى:&lt;/p>
+&lt;ul>
+&lt;li>جهاز كمبيوتر مثبت عليه Java 11 و JRE11 و Processing IDE&lt;/li>
+&lt;/ul></description></item></channel></rss>
