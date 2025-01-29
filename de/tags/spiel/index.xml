@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Spiel on CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/de/tags/spiel/</link><description>Recent content in Spiel on CoderDojo Schöneweide</description><generator>Hugo</generator><language>de-DE</language><lastBuildDate>Sun, 09 Jan 2022 13:00:00 +0100</lastBuildDate><atom:link href="https://coderdojo-schoeneweide.github.io/de/tags/spiel/index.xml" rel="self" type="application/rss+xml"/><item><title>Minecraft Workshop</title><link>https://coderdojo-schoeneweide.github.io/de/ar/blog/2022-01-08-minecraft/</link><pubDate>Sun, 09 Jan 2022 13:00:00 +0100</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/blog/2022-01-08-minecraft/</guid><description>&lt;p>Wir, das CoderDojo Schöneweide, veranstalteten am 08.01.22 einen ehrenamtlichen Workshop an der HTW Berlin auf dem Campus Wilhelminenhof.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Spiel on CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/de/tags/spiel/</link><description>Recent content in Spiel on CoderDojo Schöneweide</description><generator>Hugo</generator><language>de-DE</language><lastBuildDate>Sun, 09 Jan 2022 13:00:00 +0100</lastBuildDate><atom:link href="https://coderdojo-schoeneweide.github.io/de/tags/spiel/index.xml" rel="self" type="application/rss+xml"/><item><title>Kreativ programmieren mit Godot</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/godot/</guid><description>&lt;p>Der Workshop &amp;ldquo;Kreativ programmieren mit Godot&amp;rdquo; richtet sich an Jugendliche oder Lehrpersonen und Mentor:innen.
+Hier können die Teilnehmenden, nach einer Einführung in Game Design
+und einem Überblick über die Game-Engine &amp;ldquo;Godot&amp;rdquo;, ihr eigenes &amp;ldquo;Platformer&amp;rdquo;-Spiel designen und beginnen zu implementieren.
+Lehrpersonen können dabei die Herausforderungen und Chancen der Spielentwicklung erkunden.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Die Teilnehmenden haben ein grundlegendes Verständnis über den Spielentwicklungsprozess&lt;/li>
+&lt;li>Die Teilnehmenden wissen, wie man grundsätzlich mit Godot arbeitet&lt;/li>
+&lt;li>Die Teilnehmenden können grundlegende Szenen und Node-Tree von Godot verwenden&lt;/li>
+&lt;li>Die Teilnehmenden können Keyboard-Input einlesen&lt;/li>
+&lt;li>Lehrpersonen können den Schwierigkeitsgrad und Nutzen von Godot für ihre Zielgruppe einschätzen&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Mit Spielen die Welt verbessern</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/computerspiele-und-gesellschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/computerspiele-und-gesellschaft/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Mit Spielen die Welt verbessern&amp;rdquo; erhalten die Teilnehmenden einen ersten Einblick in die Arbeit als Game Designer:in.
+Im ersten Teil diskutieren Teilnehmende, ob und wenn ja wie Spiele die Gesellschaft zum Guten beeinflussen können.
+Dann entwerfen Teilnehmende eine eigene Spielidee und erhalten die Gelegenheit, einen Teil der Idee mit Scratch umzusetzen.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Die Teilnehmenden haben einen Eindruck davon, was ein:e Game Designer:in tut&lt;/li>
+&lt;li>Die Teilnehmenden kennen grundlegende Elemente eines Spielkonzeptes: Story, Grafik, Klang, Mikro- und Makroziele, Steuerung&lt;/li>
+&lt;li>Die Teilnehmenden kennen die Grundbausteine der Spieleentwicklung: Idee - Design - Entwicklung - Test&lt;/li>
+&lt;li>Die Teilnehmenden können Scratch verwenden, um kleine Ideen umzusetzen&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Minecraft Workshop</title><link>https://coderdojo-schoeneweide.github.io/de/ar/blog/2022-01-08-minecraft/</link><pubDate>Sun, 09 Jan 2022 13:00:00 +0100</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/blog/2022-01-08-minecraft/</guid><description>&lt;p>Wir, das CoderDojo Schöneweide, veranstalteten am 08.01.22 einen ehrenamtlichen Workshop an der HTW Berlin auf dem Campus Wilhelminenhof.&lt;/p>
 &lt;p>&lt;img src="https://coderdojo-schoeneweide.github.io/images/cms/minecraft_image1.jpg" alt="">&lt;/p>
 &lt;p>Das Motto dieses Mal war &amp;ldquo;MINECRAFT&amp;rdquo;! Beziehungsweise Minecraft Redstone. Redstone ist ein Gegenstand, der als Herstellungsrezept dient. Damit ist es möglich, Leitungen zu bauen, die aus sogenanntem Redstone-Staub bestehen. Diese Leitungen können dann Redstone-Signale übertragen. Das ermöglicht auch den Bau größerer Redstone-Schaltkreise. Wir zeigten unseren jungen Teilnehmer:innen, wie es möglich ist in Minecraft kleine Schaltungen zu bauen.&lt;/p></description></item><item><title>Minecraft Workshop</title><link>https://coderdojo-schoeneweide.github.io/de/blog/2022-01-08-minecraft/</link><pubDate>Sun, 09 Jan 2022 13:00:00 +0100</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/blog/2022-01-08-minecraft/</guid><description>&lt;p>Wir, das CoderDojo Schöneweide, veranstalteten am 08.01.22 einen ehrenamtlichen Workshop an der HTW Berlin auf dem Campus Wilhelminenhof.&lt;/p>
 &lt;p>&lt;img src="https://coderdojo-schoeneweide.github.io/images/cms/minecraft_image1.jpg" alt="">&lt;/p>
@@ -171,29 +193,7 @@ Dabei haben wir überlegt, was Computer überhaupt sind, und wo überall ein Com
 Es folgte ein kleines Experiment: Eine unserer Mentorinnen spielte einen Roboter, der von den Teilnehmer:innen
 Befehle entgegennahm. Ziel war es, eine Käsestulle zuzubereiten. Wenn dann die Butter auf der Unterseite des Brötchens
 verteilt wurde, statt auf der aufgeschnittenen Seite, sorgte dass nicht nur für Spaß, sondern auch die Erkenntniss,
-dass man bei Computerbefehlen wirklich ganz genau sein muss, denn der Computer macht genau das, was man befiehlt.&lt;/p></description></item><item><title>Kreativ programmieren mit Godot</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/godot/</guid><description>&lt;p>Der Workshop &amp;ldquo;Kreativ programmieren mit Godot&amp;rdquo; richtet sich an Jugendliche oder Lehrpersonen und Mentor:innen.
-Hier können die Teilnehmenden, nach einer Einführung in Game Design
-und einem Überblick über die Game-Engine &amp;ldquo;Godot&amp;rdquo;, ihr eigenes &amp;ldquo;Platformer&amp;rdquo;-Spiel designen und beginnen zu implementieren.
-Lehrpersonen können dabei die Herausforderungen und Chancen der Spielentwicklung erkunden.&lt;/p>
-&lt;p>Lernziele:&lt;/p>
-&lt;ul>
-&lt;li>Die Teilnehmenden haben ein grundlegendes Verständnis über den Spielentwicklungsprozess&lt;/li>
-&lt;li>Die Teilnehmenden wissen, wie man grundsätzlich mit Godot arbeitet&lt;/li>
-&lt;li>Die Teilnehmenden können grundlegende Szenen und Node-Tree von Godot verwenden&lt;/li>
-&lt;li>Die Teilnehmenden können Keyboard-Input einlesen&lt;/li>
-&lt;li>Lehrpersonen können den Schwierigkeitsgrad und Nutzen von Godot für ihre Zielgruppe einschätzen&lt;/li>
-&lt;/ul>
-&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Mit Spielen die Welt verbessern</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/computerspiele-und-gesellschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/computerspiele-und-gesellschaft/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Mit Spielen die Welt verbessern&amp;rdquo; erhalten die Teilnehmenden einen ersten Einblick in die Arbeit als Game Designer:in.
-Im ersten Teil diskutieren Teilnehmende, ob und wenn ja wie Spiele die Gesellschaft zum Guten beeinflussen können.
-Dann entwerfen Teilnehmende eine eigene Spielidee und erhalten die Gelegenheit, einen Teil der Idee mit Scratch umzusetzen.&lt;/p>
-&lt;p>Lernziele:&lt;/p>
-&lt;ul>
-&lt;li>Die Teilnehmenden haben einen Eindruck davon, was ein:e Game Designer:in tut&lt;/li>
-&lt;li>Die Teilnehmenden kennen grundlegende Elemente eines Spielkonzeptes: Story, Grafik, Klang, Mikro- und Makroziele, Steuerung&lt;/li>
-&lt;li>Die Teilnehmenden kennen die Grundbausteine der Spieleentwicklung: Idee - Design - Entwicklung - Test&lt;/li>
-&lt;li>Die Teilnehmenden können Scratch verwenden, um kleine Ideen umzusetzen&lt;/li>
-&lt;/ul>
-&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>البرمجة الإبداعية مع جودوت</title><link>https://coderdojo-schoeneweide.github.io/de/ar/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/workshops/godot/</guid><description>&lt;p>تستهدف ورشة عمل &amp;ldquo;البرمجة الإبداعية مع غودو&amp;rdquo; الشباب أو المعلمين والموجهين.
+dass man bei Computerbefehlen wirklich ganz genau sein muss, denn der Computer macht genau das, was man befiehlt.&lt;/p></description></item><item><title>البرمجة الإبداعية مع جودوت</title><link>https://coderdojo-schoeneweide.github.io/de/ar/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/workshops/godot/</guid><description>&lt;p>تستهدف ورشة عمل &amp;ldquo;البرمجة الإبداعية مع غودو&amp;rdquo; الشباب أو المعلمين والموجهين.
 بعد مقدمة عن تصميم الألعاب ولمحة عامة عن محرك اللعبة
 ونظرة عامة عن محرك الألعاب &amp;ldquo;غودو&amp;rdquo;، يمكن للمشاركين تصميم لعبة &amp;ldquo;المنصة&amp;rdquo; الخاصة بهم والبدء في تنفيذها.
 يمكن للمعلمين استكشاف تحديات وفرص تطوير الألعاب.&lt;/p>

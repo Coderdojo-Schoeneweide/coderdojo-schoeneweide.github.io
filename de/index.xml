@@ -1,9 +1,92 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/de/</link><description>Recent content on CoderDojo Schöneweide</description><generator>Hugo</generator><language>de-DE</language><lastBuildDate>Wed, 26 Jul 2023 19:08:24 +0200</lastBuildDate><atom:link href="https://coderdojo-schoeneweide.github.io/de/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://coderdojo-schoeneweide.github.io/de/ar/home/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/home/contact/</guid><description/></item><item><title>Team</title><link>https://coderdojo-schoeneweide.github.io/de/ar/home/team/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/home/team/</guid><description/></item><item><title>Team</title><link>https://coderdojo-schoeneweide.github.io/de/en/home/team/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/home/team/</guid><description/></item><item><title>عنا</title><link>https://coderdojo-schoeneweide.github.io/de/ar/home/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/home/about/</guid><description>&lt;p>نادي CoderDojo Schöneweide هو نادٍ للأطفال والشباب الذين تتراوح أعمارهم بين 7 و17 عاماً,
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/de/</link><description>Recent content on CoderDojo Schöneweide</description><generator>Hugo</generator><language>de-DE</language><lastBuildDate>Wed, 26 Jul 2023 19:08:24 +0200</lastBuildDate><atom:link href="https://coderdojo-schoeneweide.github.io/de/index.xml" rel="self" type="application/rss+xml"/><item><title>3D-Kunst mit Blender</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/blender/</guid><description>&lt;p>Im Workshop &amp;ldquo;3D-Kunst mit Blender&amp;rdquo; lernen die Teilnehmenden das Tool Blender kennen, mit dem 3D-Modelle erstellt werden können.
+Der Workshop kann um 2 Stunden erweitert werden, in denen die Teilnehmenden außerdem Modelle animieren.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Teilnehmende können die Blender-Umgebung bedienen&lt;/li>
+&lt;li>Teilnehmende können einfache 3D-Formen mit Blender erstellen&lt;/li>
+&lt;li>Teilnehmende können 3D-Modelle einfärben&lt;/li>
+&lt;li>Teilnehmende können 3D-Modelle animieren&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p>
+&lt;ul>
+&lt;li>Computer mit Blender installiert&lt;/li>
+&lt;/ul></description></item><item><title>Astro Pi - Code im Weltraum</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/python-astropi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/python-astropi/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Astro Pi - Code im Weltraum&amp;rdquo; im Rahmen des
+Projektes &lt;a href="https://astro-pi.org/mission-zero/">&amp;ldquo;Mission Zero&amp;rdquo; der RaspberryPi Foundation&lt;/a> erhalten die Teilnehmenden die Möglichkeit,
+ein Python Programm zu schreiben, das dann auf der ISS abgespielt wird. Die Teilnehmenden können dafür eine maximal 30 Sekunden lange Animation machen,
+bei der mindestens die Luftfeuchtigkeit auf der ISS angezeigt wird. Zusätzlich können Teilnehmende die Astronaut:innen grüßen, Luftdruck und Temperatur anzeigen lassen
+oder Bilder hinzufügen. Benutzt wird der &amp;ldquo;Online Sense HAT Emulator&amp;rdquo; - ein Programm, was den AstroPi-Computer mit Sensoren simuliert.&lt;/p></description></item><item><title>Contact</title><link>https://coderdojo-schoeneweide.github.io/de/ar/home/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/home/contact/</guid><description/></item><item><title>Kreativ programmieren mit Godot</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/godot/</guid><description>&lt;p>Der Workshop &amp;ldquo;Kreativ programmieren mit Godot&amp;rdquo; richtet sich an Jugendliche oder Lehrpersonen und Mentor:innen.
+Hier können die Teilnehmenden, nach einer Einführung in Game Design
+und einem Überblick über die Game-Engine &amp;ldquo;Godot&amp;rdquo;, ihr eigenes &amp;ldquo;Platformer&amp;rdquo;-Spiel designen und beginnen zu implementieren.
+Lehrpersonen können dabei die Herausforderungen und Chancen der Spielentwicklung erkunden.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Die Teilnehmenden haben ein grundlegendes Verständnis über den Spielentwicklungsprozess&lt;/li>
+&lt;li>Die Teilnehmenden wissen, wie man grundsätzlich mit Godot arbeitet&lt;/li>
+&lt;li>Die Teilnehmenden können grundlegende Szenen und Node-Tree von Godot verwenden&lt;/li>
+&lt;li>Die Teilnehmenden können Keyboard-Input einlesen&lt;/li>
+&lt;li>Lehrpersonen können den Schwierigkeitsgrad und Nutzen von Godot für ihre Zielgruppe einschätzen&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Künstliche Intelligenz</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/kuenstliche-intelligenz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/kuenstliche-intelligenz/</guid><description>&lt;p>Im Workshop &amp;ldquo;Künstliche Intelligenz&amp;rdquo; erkunden die Teilnehmenden selber wie eine KI funktionieren kann
+und wofür diese Technologie verwendet werden kann.
+An Hand des &lt;a href="https://www.aiunplugged.org/german.pdf">Äffchenspiels&lt;/a> erkunden die Teilnehmenden, wie KI &amp;ldquo;lernt&amp;rdquo;. Dann können sie mit Hilfe
+der Website &lt;a href="https://machinelearningforkids.co.uk/">Machine Learning for Kids&lt;/a> selbst eine KI trainieren und ausprobieren.
+Das Modell kann am Ende auch in Scratch verwendet werden.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Teilnehmende wissen, was eine KI ist&lt;/li>
+&lt;li>Teilnehmende wissen, wie eine KI trainiert werden kann&lt;/li>
+&lt;li>Teilnehmende kennen einige Anwendungsbeispiele für KI&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Processing</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/processing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/processing/</guid><description>&lt;p>Im Workshop &amp;ldquo;Processing&amp;rdquo; lernen die Teilnehmenden das Tool Processing kennen, mit dem Bilder und Animationen
+generiert werden können. Dafür machen die Teilnehmenden erste Schritte in der Programmierung mit Java und lösen erste Rätsel
+bevor sie ihre kreativen eigenen Bilder erfinden.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Teilnehmende können die Processing-Umgebung bedienen&lt;/li>
+&lt;li>Teilnehmende kennen grundlegende Processing-Befehle&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p>
+&lt;ul>
+&lt;li>Computer mit Java 11, JRE11 und der Processing IDE installiert&lt;/li>
+&lt;/ul></description></item><item><title>Team</title><link>https://coderdojo-schoeneweide.github.io/de/ar/home/team/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/home/team/</guid><description/></item><item><title>Team</title><link>https://coderdojo-schoeneweide.github.io/de/en/home/team/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/home/team/</guid><description/></item><item><title>عنا</title><link>https://coderdojo-schoeneweide.github.io/de/ar/home/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/home/about/</guid><description>&lt;p>نادي CoderDojo Schöneweide هو نادٍ للأطفال والشباب الذين تتراوح أعمارهم بين 7 و17 عاماً,
 الذين يهتمون ويستمتعون باستخدام الحواسيب بشكل خلاق، ويساعدون في تشكيل العالم الرقمي
 وحل المشاكل الصعبة.
-يقدم CoderDojo Schöneweide ورش عمل مجانية قائمة على المشاريع.&lt;/p></description></item><item><title>About Us</title><link>https://coderdojo-schoeneweide.github.io/de/en/home/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/home/about/</guid><description>&lt;p>The CoderDojo Schöneweide is a club for children and teenagers between 7 and 17 years old who are interested in and enjoy creatively using computers, shaping the digital world, and solving tricky problems. The CoderDojo Schöneweide offers free, project-based workshops.&lt;/p></description></item><item><title>Contact</title><link>https://coderdojo-schoeneweide.github.io/de/en/home/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/home/contact/</guid><description/></item><item><title>Donations</title><link>https://coderdojo-schoeneweide.github.io/de/en/home/donate/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/home/donate/</guid><description>&lt;p>Would you like to support the work of CoderDojo Schöneweide? &lt;a href="https://coderdojo-deutschland.de/spenden">Donate to CoderDojo Deutschland e.V.&lt;/a> with the purpose &amp;ldquo;Spende Schöneweide&amp;rdquo;.&lt;/p></description></item><item><title>Events</title><link>https://coderdojo-schoeneweide.github.io/de/en/home/events/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/home/events/</guid><description>&lt;p>Events take place twice a month, on Saturdays from 11:00 am to 1:00 pm at the HTW in Schöneweide (Wilhelminenhofstr. 75A, 12459 Berlin). Typically, there is one workshop and a &amp;ldquo;Coding in the Dojo&amp;rdquo; session. No prior knowledge is required!&lt;/p>
+يقدم CoderDojo Schöneweide ورش عمل مجانية قائمة على المشاريع.&lt;/p></description></item><item><title>About Us</title><link>https://coderdojo-schoeneweide.github.io/de/en/home/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/home/about/</guid><description>&lt;p>The CoderDojo Schöneweide is a club for children and teenagers between 7 and 17 years old who are interested in and enjoy creatively using computers, shaping the digital world, and solving tricky problems. The CoderDojo Schöneweide offers free, project-based workshops.&lt;/p></description></item><item><title>Als Softwareentwickler:in die Welt verbessern</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/softwareentwicklung-und-gesellschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/softwareentwicklung-und-gesellschaft/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Als Softwareentwickler:in die Welt verbessern&amp;rdquo; erhalten die Teilnehmenden einen ersten Einblick in die Arbeit als Softwareentwickler:in.
+Im ersten Teil setzen sich die Teilnehmenden mit Themen auseinander, die ihnen am Herzen liegen, zum Beispiel Klimaschutz oder Gleichberechtigung,
+und überlegen gemeinsam, wie Software die Gesellschaft beeinflusst. Im nächsten Schritt entwerfen die Teilnehmenden eine Software, die auf ein gesellschaftliches Thema
+aufmerksam macht, oder die ein gesellschaftliches Problem angeht. Schließlich dürfen die Teilnehmenden noch einen Teil der Idee mit Scratch umsetzen.&lt;/p></description></item><item><title>Contact</title><link>https://coderdojo-schoeneweide.github.io/de/en/home/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/home/contact/</guid><description/></item><item><title>Dashbot Workshop</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/dashbot-challenges/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/dashbot-challenges/</guid><description>&lt;p>Beim Challenges-Workshop mit den Dash Robotern durchspielen die Teilnehmenden unterschiedliche Aufgabestellungen und lernen
+so spielerisch das manuelle Steuern sowie das Programmieren eines kleinen Roboters.&lt;/p>
+&lt;p>Da die Aufgaben sehr frei sind, können die Teilnehmenden dabei ganz eigene Lösungsideen entwickeln und ausprobieren.&lt;/p>
+&lt;h2 id="die-dashbots">Die DashBots&lt;/h2>
+&lt;p>Ein DashBot lässt sich über ein verbundenes iPad mit der &amp;ldquo;Wonder&amp;rdquo; App steuern.
+In der Wonder App kann der DashBot manuell gesteuert werden (Steuerung), kleine Programmieraufgaben durchgespielt (Roboter-Saga) und
+frei programmiert werden (Entwickler-Modus).
+Ein DashBot kann mit einem kleinen Katapult ausgerüstet werden.&lt;/p></description></item><item><title>Donations</title><link>https://coderdojo-schoeneweide.github.io/de/en/home/donate/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/home/donate/</guid><description>&lt;p>Would you like to support the work of CoderDojo Schöneweide? &lt;a href="https://coderdojo-deutschland.de/spenden">Donate to CoderDojo Deutschland e.V.&lt;/a> with the purpose &amp;ldquo;Spende Schöneweide&amp;rdquo;.&lt;/p></description></item><item><title>Es spricht!</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-lippensynchronisation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-lippensynchronisation/</guid><description>&lt;p>Im Workshop &amp;ldquo;Es spricht!&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
+wie man mit Scratch flüssige Animationen bestehend aus Einzelbildern machen kann.
+Bei dieser Art der Animation werden mehrere Bilder hintereinander abgespielt,
+sodass im Kopf eine Art &amp;ldquo;Film&amp;rdquo; entsteht - wie bei einem Daumenkino, aber digital!
+Eine besondere Art der Bild-für-Bild-Animation ist die Lippensynchronisation: Eine
+digitale Figur bewegt den Mund so, dass die Bewegungen zu den gesagten Worten passen.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Die Teilnehmenden können mit Scratch Tonaufnahmen machen.&lt;/li>
+&lt;li>Die Teilnehmenden können mit Hilfe des Scratch-Grafikeditors einfache Grafiken erstellen.&lt;/li>
+&lt;li>Die Teilnehmenden können bei Scratch die Kostüme einer Figur programmatisch kontrollieren.&lt;/li>
+&lt;li>Die Teilnehmenden verstehen den Zusammenhang zwischen gesagten Buchstaben und der Position der Lippe und Zunge dabei.&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Events</title><link>https://coderdojo-schoeneweide.github.io/de/en/home/events/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/home/events/</guid><description>&lt;p>Events take place twice a month, on Saturdays from 11:00 am to 1:00 pm at the HTW in Schöneweide (Wilhelminenhofstr. 75A, 12459 Berlin). Typically, there is one workshop and a &amp;ldquo;Coding in the Dojo&amp;rdquo; session. No prior knowledge is required!&lt;/p>
 &lt;p>&lt;strong>Workshops&lt;/strong> | Gain insight into a specific topic from the digital world.&lt;/p>
-&lt;p>&lt;strong>Coding in the Dojo&lt;/strong> | Bring your project and get help from our mentors, or start a new project.&lt;/p></description></item><item><title>Parents - Newsletter</title><link>https://coderdojo-schoeneweide.github.io/de/en/home/newsletter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/home/newsletter/</guid><description>&lt;p>Are you a parent and want to stay updated on the latest workshop offerings from CoderDojo Schöneweide? Then sign up for the email newsletter! There, you&amp;rsquo;ll receive all the information about our upcoming workshops for the next month one to two times per month.&lt;/p>
+&lt;p>&lt;strong>Coding in the Dojo&lt;/strong> | Bring your project and get help from our mentors, or start a new project.&lt;/p></description></item><item><title>Gemeinsame Geschichte</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/gemeinsame-geschichte/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/gemeinsame-geschichte/</guid><description>&lt;p>Im Workshop &amp;ldquo;Gemeinsame Geschichte&amp;rdquo; lernen die Teilnehmenden zunächst, was Programmieren
+ist. Mit dem Spiel &amp;ldquo;Lebendiger Roboter&amp;rdquo; lernen sie die Grundlagen algorithmischen Denkens
+kennen. Dann können sie mit Scratch erste Schritte in der Programmierung tun und die Programmierumgebung
+kennenlernen.&lt;/p>
+&lt;p>Separat vom Workshop (z.B. im Deutsch- und Kunstunterricht) wählen die Teilnehmenden
+eine Geschichte aus (z.B. eine behandelte Sage). Diese wird in kleine Abschnitte untergliedert und auf
+Teilnehmendengruppen verteilt. Die Teilnehmenden malen die Figuren und Objekte aus der Geschichte.
+Diese Grafiken werden eingescannt und in ein Template-Projekt eingefügt.&lt;/p></description></item><item><title>Haustier-App</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/octostudio-haustierapp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/octostudio-haustierapp/</guid><description>&lt;p>Im Workshop &amp;ldquo;Haustier-App&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
+wie man ein digitales Haustier programmiert, das Hunger hat und gefüttert werden muss.
+Dafür wird OctoStudio verwendet, eine App für mobile Geräte, mit der man Apps programmieren kann.
+Nach einer kurzen Inspirationsrunde verwenden die Teilnehmenden zusammen mit ihren Mentor:innen, Eltern, oder alleine die von uns zusammengestellte Anleitung, um eine grundlegende Haustier-App zu programmieren und so OctoStudio kennenzulernen. In der verbliebenen Zeit können die Teilnehmenden ihre App dann erweitern.&lt;/p></description></item><item><title>Parents - Newsletter</title><link>https://coderdojo-schoeneweide.github.io/de/en/home/newsletter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/home/newsletter/</guid><description>&lt;p>Are you a parent and want to stay updated on the latest workshop offerings from CoderDojo Schöneweide? Then sign up for the email newsletter! There, you&amp;rsquo;ll receive all the information about our upcoming workshops for the next month one to two times per month.&lt;/p>
 &lt;p>To subscribe to the newsletter, simply send a casual email to &lt;a href="mailto:schoeneweide.berlin@coderdojo.com">schoeneweide.berlin@coderdojo.com&lt;/a> or click the following button:&lt;/p>
 &lt;a href="mailto:schoeneweide.berlin@coderdojo.com?subject=Newsletter%20Subscription&amp;amp;body=I%20would%20like%20to%20subscribe%20to%20the%20parent%20newsletter%20from%20CoderDojo" class="button shortcode">
  Subscribe to Newsletter
@@ -21,13 +104,83 @@ Or are you lacking ideas on what to do with the new tablets?&lt;/p></description
  المواعيد والتسجيل
 &lt;/a></description></item><item><title>تبرع</title><link>https://coderdojo-schoeneweide.github.io/de/ar/home/donate/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/home/donate/</guid><description>&lt;p>هل ترغب في دعم عمل كودر دوجو شونه فايده؟&lt;/p>
 &lt;p>&lt;a href="https://coderdojo-deutschland.de/spenden">تبرع لنا&lt;/a>
-سبب التبرع &amp;ldquo;Spende Schöneweide&amp;rdquo;.&lt;/p></description></item><item><title>SDG</title><link>https://coderdojo-schoeneweide.github.io/de/ar/home/sdg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/home/sdg/</guid><description/></item><item><title>SDG</title><link>https://coderdojo-schoeneweide.github.io/de/en/home/sdg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/home/sdg/</guid><description/></item><item><title>النشرة الإخبارية للوالدين</title><link>https://coderdojo-schoeneweide.github.io/de/ar/home/newsletter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/home/newsletter/</guid><description>&lt;p>هل أنت والد وترغب في البقاء على اطلاع دائم بعروض ورش العمل الحالية لـ CoderDojo Schöneweide؟
+سبب التبرع &amp;ldquo;Spende Schöneweide&amp;rdquo;.&lt;/p></description></item><item><title>Ein Musikvideo animieren</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-musikvideo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-musikvideo/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Ein Musikvideo animieren&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
+wie man mit Scratch einfache Animationen machen kann.
+Die Animationen werden dabei durch die Bewegung und den Kostümwechsel von Figuren in Scratch erzeugt.
+Je nach Fortschritt der Teilnehmenden können zusätzliche Elemente wie Bühnenbilder hinzukommen.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Die Teilnehmenden können bei Scratch die Bewegung von Figuren kontrollieren.&lt;/li>
+&lt;li>Die Teilnehmenden verstehen den Unterschied zwischen Figuren und Kostümen.&lt;/li>
+&lt;li>Die Teilnehmenden können bei Scratch die Kostüme einer Figur programmatisch kontrollieren.&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Foto-Filter-App</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/pocketcode-gesichtserkennung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/pocketcode-gesichtserkennung/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Foto-Filter-App&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
+wie man intelligente Foto-Filter, so genannte &amp;ldquo;Lenses&amp;rdquo;, wie es sie zum Beispiel bei Instagram oder SnapChat gibt, programmiert.
+Dafür wird PocketCode verwendet, eine App für mobile Geräte, mit der man Apps programmieren kann.
+Nach einer kurzen, kreativen Aufwärmübung bei der die Teilnehmenden in kurzer Zeit vier Filter zu verschiedenen Themen entwerfen,
+verwenden die Teilnehmenden zusammen mit ihren Mentor:innen, Eltern, oder alleine die von uns zusammengestellte
+Anleitung, um einen eigenen Foto-Filter zu entwickeln.&lt;/p></description></item><item><title>mBot-Hindernisparkour</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/mbot-labyrinth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/mbot-labyrinth/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;mBot Hindernisparkour&amp;rdquo; steuern die Teilnehmenden einen mBot durch einen Hindernisparkour.
+Nach einer Phase des Programmierens treten zwei Teams gegeneinander an: Wer schafft es zuerst,
+den Luftballon in der Mitte des Parkours zum Platzen zu bringen?
+Für die Durchquerung des Parkours werden Linien- und Abstandssensoren verwendet.&lt;/p>
+&lt;p>Die mBlock-Programme zum Steuern der mBots werden von den Teilnehmenden mit Mentor:innen vor Ort geteilt,
+die die Programme dann ausführen lassen. Da die mBots von einer an der Decke montierten Kamera aufgenommen werden,
+können die Teilnehmenden live verfolgen, ob ihr Programm funktioniert.&lt;/p></description></item><item><title>Mit Spielen die Welt verbessern</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/computerspiele-und-gesellschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/computerspiele-und-gesellschaft/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Mit Spielen die Welt verbessern&amp;rdquo; erhalten die Teilnehmenden einen ersten Einblick in die Arbeit als Game Designer:in.
+Im ersten Teil diskutieren Teilnehmende, ob und wenn ja wie Spiele die Gesellschaft zum Guten beeinflussen können.
+Dann entwerfen Teilnehmende eine eigene Spielidee und erhalten die Gelegenheit, einen Teil der Idee mit Scratch umzusetzen.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Die Teilnehmenden haben einen Eindruck davon, was ein:e Game Designer:in tut&lt;/li>
+&lt;li>Die Teilnehmenden kennen grundlegende Elemente eines Spielkonzeptes: Story, Grafik, Klang, Mikro- und Makroziele, Steuerung&lt;/li>
+&lt;li>Die Teilnehmenden kennen die Grundbausteine der Spieleentwicklung: Idee - Design - Entwicklung - Test&lt;/li>
+&lt;li>Die Teilnehmenden können Scratch verwenden, um kleine Ideen umzusetzen&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>SDG</title><link>https://coderdojo-schoeneweide.github.io/de/ar/home/sdg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/home/sdg/</guid><description/></item><item><title>SDG</title><link>https://coderdojo-schoeneweide.github.io/de/en/home/sdg/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/home/sdg/</guid><description/></item><item><title>النشرة الإخبارية للوالدين</title><link>https://coderdojo-schoeneweide.github.io/de/ar/home/newsletter/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/home/newsletter/</guid><description>&lt;p>هل أنت والد وترغب في البقاء على اطلاع دائم بعروض ورش العمل الحالية لـ CoderDojo Schöneweide؟
 ثم اشترك في النشرة الإخبارية عبر البريد الإلكتروني!
 هناك ستتلقى مرة أو مرتين في الشهر جميع المعلومات حول ورش العمل القادمة للشهر المقبل.&lt;/p>
 &lt;p>وللاشتراك في النشرة الإخبارية ، ما عليك سوى إرسال رسالة بريد إلكتروني غير رسمية إلى &lt;a href="mailto:schoeneweide.berlin@coderdojo.com">schoeneweide.berlin@coderdojo.com&lt;/a> أو النقر على الزر التالي&lt;/p>
 &lt;a href="mailto:schoeneweide.berlin@coderdojo.com?subject=Anmeldung%20zum%20Newsletter&amp;amp;body=Ich%20m%c3%b6chte%20mich%20gerne%20f%c3%bcr%20den%20Eltern-Newsletter%20des%20CoderDojo%20anmelden" class="button shortcode">
  الاشتراك في النشرة الإخبارية
-&lt;/a></description></item><item><title>Find me from Ottikar</title><link>https://coderdojo-schoeneweide.github.io/de/en/dojo-projects/finde_mich/</link><pubDate>Wed, 26 Jul 2023 19:08:24 +0200</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/dojo-projects/finde_mich/</guid><description>&lt;p>Developed by one of our ninjas.&lt;/p></description></item><item><title>ابحث عني بواسطة أوتيكار</title><link>https://coderdojo-schoeneweide.github.io/de/ar/dojo-projects/finde_mich/</link><pubDate>Wed, 26 Jul 2023 19:08:24 +0200</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/dojo-projects/finde_mich/</guid><description>&lt;p>تم تطويره بواسطة أحد النينجا لدينا.&lt;/p></description></item><item><title>Fifa in Better</title><link>https://coderdojo-schoeneweide.github.io/de/en/dojo-projects/fifa_in_besser/</link><pubDate>Sat, 08 Jul 2023 11:00:00 +0200</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/dojo-projects/fifa_in_besser/</guid><description>&lt;p>The football game Fifa is not good enough? Then here is a good alternative from Jujamm.&lt;/p></description></item><item><title>فيفا في الأفضل</title><link>https://coderdojo-schoeneweide.github.io/de/ar/dojo-projects/fifa_in_besser/</link><pubDate>Sat, 08 Jul 2023 11:00:00 +0200</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/dojo-projects/fifa_in_besser/</guid><description>&lt;p>لعبة كرة القدم فيفا ليست جيدة بما فيه الكفاية؟ إذن إليك بديل جيد من جوجام.&lt;/p></description></item><item><title>Interdisciplinary experience at the HTW</title><link>https://coderdojo-schoeneweide.github.io/de/en/blog/2023-06-28-interdisziplin%C3%A4re-erfahrung-an-der-htw/</link><pubDate>Wed, 28 Jun 2023 14:53:49 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/blog/2023-06-28-interdisziplin%C3%A4re-erfahrung-an-der-htw/</guid><description>&lt;p>*This experience report about the work in CoderDojo was written by a former member in March 2022 (editor&amp;rsquo;s note).&lt;/p>
+&lt;/a></description></item><item><title>Digitale Grußkarten basteln</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-grusskarten/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-grusskarten/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Digitale Grußkarten basteln&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
+wie man mit Scratch Animationen machen kann und schöne digitale Grußkarten bastelt.
+Die Animationen werden dabei durch die Bewegung, den Kostümwechsel und Grafikeffekte von Figuren in Scratch erzeugt.
+Je nach Fortschritt der Teilnehmenden können auch andere Mittel der Animation, wie das Klonen von Figuren oder die Nutzung des &amp;ldquo;Malstifts&amp;rdquo; verwendet werden.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Die Teilnehmenden können bei Scratch Klänge abspielen&lt;/li>
+&lt;li>Die Teilnehmenden können mit Hilfe des Scratch-Grafikeditors einfache Grafiken erstellen.&lt;/li>
+&lt;li>Die Teilnehmenden können bei Scratch die Kostüme einer Figur programmatisch kontrollieren.&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Dramas mit Lamas</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-theaterstueck/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-theaterstueck/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Dramas mit Lamas&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
+wie man mit Scratch einfache Animationen machen kann.
+Der Fokus des Workshops liegt darauf, dass Figuren sprechen und miteinander interagieren - wie bei einem Theaterstück.
+Damit das Gesagte sich nicht überschneidet, müssen die Interaktion zeitlich geplant werden:
+wer sagt was wie lange, und wer wartet also wie lange?
+Um die Interaktion der Figuren effizienter zu synchronisieren, lernen fortgeschrittenere Teilnehmende,
+wie sie die &amp;ldquo;senden&amp;rdquo;- und &amp;ldquo;emfangen&amp;rdquo;-Befehle von Scratch einsetzen.&lt;/p></description></item><item><title>Hallo Bot, wie gehts?</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/chatbot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/chatbot/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Hallo Bot, wie gehts?&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
+wie man Chatbots programmiert. Chatbots sind Programme, die sich mit einem User unterhalten können.
+Teilnehmende können wahlweise Scratch oder Python verwenden.&lt;/p>
+&lt;p>Je nach Fortschritt der Teilnehmenden können bei der Verwendung von Scratch auch die &amp;ldquo;Text-zu-Sprache&amp;rdquo;-Erweiterung und
+eigene Blöcke (auch bekannt als &amp;ldquo;Funktionen&amp;rdquo; oder &amp;ldquo;Subroutinen&amp;rdquo;) benutzt werden.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Die Teilnehmenden verstehen, was ein Chatbot ist&lt;/li>
+&lt;li>Die Teilnehmenden können den Computer etwas sagen lassen&lt;/li>
+&lt;li>Die Teilnehmenden können User-Input abfragen und benutzen&lt;/li>
+&lt;li>Die Teilnehmenden können Bedingungen nutzen, um auf User-Input zu reagieren&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Storyboarding und Animationen mit Scratch</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-animationen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-animationen/</guid><description>&lt;p>In diesem Workshop konzipieren die Teilnehmenden Animationen zu Themen, die sie im Alltag
+beschäftigen, wie z.B. Freundschaft und Umwelt. Die Teilnehmenden erhalten einen Einblick in
+Elemente eines Animationsfilms und wie er entsteht: Ideenfindung, Storyboarding, Animation und Test.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Die Teilnehmenden können Emotionen-transportierende Elemente eines Animationsfilmkonzepts identifizieren.&lt;/li>
+&lt;li>Die Teilnehmenden können ein Storyboard für eine Szene erstellen.&lt;/li>
+&lt;li>Die Teilnehmenden können mit Hilfe des Scratch-Grafikeditors einfache Grafiken erstellen.&lt;/li>
+&lt;li>Die Teilnehmenden können in Scratch die Kostüme einer Figur programmatisch kontrollieren.&lt;/li>
+&lt;li>Die Teilnehmenden können die Position von Figuren steuern.&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Zwischen Marienkäfern und Bauklötzen</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/karol-und-kara/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/karol-und-kara/</guid><description>&lt;p>Im Workshop &amp;ldquo;Zwischen Käfern und Bauklötzen&amp;rdquo; erhalten die Teilnehmenden, mit Hilfe unseres Marienkäfer Kara und unserer Klemmbausteinfigur Robot Karol, einen ersten Einblick in die Welt der Programmierung und der Algorithmen. Kara und Robot Karol sind Programmierumgebungen, designt für Kinder und Jugendliche. Zuerst machen sich alle Teilnehmenden mit Kara und Karol vertraut und können Funktionen und Möglichkeiten selbst entdecken. Anschließend können Aufgaben mit verschiedenen Schwierigkeitsstufen gelöst oder eigene Ideen umsetzen, wie zum Beispiel Karol durch ein selbstgebautes Labyrinth zu führen.&lt;/p></description></item><item><title>Find me from Ottikar</title><link>https://coderdojo-schoeneweide.github.io/de/en/dojo-projects/finde_mich/</link><pubDate>Wed, 26 Jul 2023 19:08:24 +0200</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/dojo-projects/finde_mich/</guid><description>&lt;p>Developed by one of our ninjas.&lt;/p></description></item><item><title>ابحث عني بواسطة أوتيكار</title><link>https://coderdojo-schoeneweide.github.io/de/ar/dojo-projects/finde_mich/</link><pubDate>Wed, 26 Jul 2023 19:08:24 +0200</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/dojo-projects/finde_mich/</guid><description>&lt;p>تم تطويره بواسطة أحد النينجا لدينا.&lt;/p></description></item><item><title>Fifa in Better</title><link>https://coderdojo-schoeneweide.github.io/de/en/dojo-projects/fifa_in_besser/</link><pubDate>Sat, 08 Jul 2023 11:00:00 +0200</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/dojo-projects/fifa_in_besser/</guid><description>&lt;p>The football game Fifa is not good enough? Then here is a good alternative from Jujamm.&lt;/p></description></item><item><title>فيفا في الأفضل</title><link>https://coderdojo-schoeneweide.github.io/de/ar/dojo-projects/fifa_in_besser/</link><pubDate>Sat, 08 Jul 2023 11:00:00 +0200</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/dojo-projects/fifa_in_besser/</guid><description>&lt;p>لعبة كرة القدم فيفا ليست جيدة بما فيه الكفاية؟ إذن إليك بديل جيد من جوجام.&lt;/p></description></item><item><title>Interdisciplinary experience at the HTW</title><link>https://coderdojo-schoeneweide.github.io/de/en/blog/2023-06-28-interdisziplin%C3%A4re-erfahrung-an-der-htw/</link><pubDate>Wed, 28 Jun 2023 14:53:49 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/blog/2023-06-28-interdisziplin%C3%A4re-erfahrung-an-der-htw/</guid><description>&lt;p>*This experience report about the work in CoderDojo was written by a former member in March 2022 (editor&amp;rsquo;s note).&lt;/p>
 &lt;p>In the third semester of the Master&amp;rsquo;s degree course in Business Communication, I was able to encounter the development of the project and soon-to-be association CoderDojo Schöneweide at HTW Berlin. At the information event, I particularly liked the motivation and vision of confronting children of a young age with the world of programming in a playful way. I have no in-depth understanding of this myself, but wanted to support the young team with other knowledge and skills.&lt;/p></description></item><item><title>Interdisziplinäre Erfahrung an der HTW</title><link>https://coderdojo-schoeneweide.github.io/de/ar/blog/2023-06-28-interdisziplin%C3%A4re-erfahrung-an-der-htw/</link><pubDate>Wed, 28 Jun 2023 14:53:49 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/blog/2023-06-28-interdisziplin%C3%A4re-erfahrung-an-der-htw/</guid><description>&lt;p>&lt;em>Dieser Erfahrungsbericht über die Arbeit im CoderDojo wurde von einem ehemaligen Mitglied im März 2022 geschrieben (Anmerkung der Redaktion).&lt;/em>&lt;/p>
 &lt;p>Im dritten Semester des Masterstudiengangs Wirtschaftskommunikation durfte ich die Entwicklung des Projektes und baldigen Vereins CoderDojo Schöneweide an der HTW Berlin begegnen. In der Informationsveranstaltung hat mir besonders die Motivation und Vision, Kinder im jungen Alter spielerisch mit der Programmierwelt zu konfrontieren, gefallen. Ich selbst habe darin kein tiefergehendes Verständnis, aber wollte mit anderen Wissen und Fähigkeiten das junge Team unterstützen.&lt;/p></description></item><item><title>Interdisziplinäre Erfahrung an der HTW</title><link>https://coderdojo-schoeneweide.github.io/de/blog/2023-06-28-interdisziplin%C3%A4re-erfahrung-an-der-htw/</link><pubDate>Wed, 28 Jun 2023 14:53:49 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/blog/2023-06-28-interdisziplin%C3%A4re-erfahrung-an-der-htw/</guid><description>&lt;p>&lt;em>Dieser Erfahrungsbericht über die Arbeit im CoderDojo wurde von einem ehemaligen Mitglied im März 2022 geschrieben (Anmerkung der Redaktion).&lt;/em>&lt;/p>
 &lt;p>Im dritten Semester des Masterstudiengangs Wirtschaftskommunikation durfte ich die Entwicklung des Projektes und baldigen Vereins CoderDojo Schöneweide an der HTW Berlin begegnen. In der Informationsveranstaltung hat mir besonders die Motivation und Vision, Kinder im jungen Alter spielerisch mit der Programmierwelt zu konfrontieren, gefallen. Ich selbst habe darin kein tiefergehendes Verständnis, aber wollte mit anderen Wissen und Fähigkeiten das junge Team unterstützen.&lt;/p></description></item><item><title>Myth Workshop at Karlshorst Elementary School</title><link>https://coderdojo-schoeneweide.github.io/de/en/blog/2023-06-16-sagen-workshop-an-der-grundschule-karlshorst/</link><pubDate>Fri, 16 Jun 2023 09:25:19 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/blog/2023-06-16-sagen-workshop-an-der-grundschule-karlshorst/</guid><description>&lt;p>On 17.05.2023 and 24.05.2023 we were at the Karlshorst elementary school and organized a Scratch workshop on the topic of sagas together with the 6th grade students.&lt;/p>
@@ -434,22 +587,7 @@ The workshop can be extended by 2 hours to additionally teach participants how t
 &lt;p>Participants will need:&lt;/p>
 &lt;ul>
 &lt;li>A computer with Blender installed.&lt;/li>
-&lt;/ul></description></item><item><title>3D-Kunst mit Blender</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/blender/</guid><description>&lt;p>Im Workshop &amp;ldquo;3D-Kunst mit Blender&amp;rdquo; lernen die Teilnehmenden das Tool Blender kennen, mit dem 3D-Modelle erstellt werden können.
-Der Workshop kann um 2 Stunden erweitert werden, in denen die Teilnehmenden außerdem Modelle animieren.&lt;/p>
-&lt;p>Lernziele:&lt;/p>
-&lt;ul>
-&lt;li>Teilnehmende können die Blender-Umgebung bedienen&lt;/li>
-&lt;li>Teilnehmende können einfache 3D-Formen mit Blender erstellen&lt;/li>
-&lt;li>Teilnehmende können 3D-Modelle einfärben&lt;/li>
-&lt;li>Teilnehmende können 3D-Modelle animieren&lt;/li>
-&lt;/ul>
-&lt;p>Teilnehmende benötigen:&lt;/p>
-&lt;ul>
-&lt;li>Computer mit Blender installiert&lt;/li>
-&lt;/ul></description></item><item><title>Als Softwareentwickler:in die Welt verbessern</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/softwareentwicklung-und-gesellschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/softwareentwicklung-und-gesellschaft/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Als Softwareentwickler:in die Welt verbessern&amp;rdquo; erhalten die Teilnehmenden einen ersten Einblick in die Arbeit als Softwareentwickler:in.
-Im ersten Teil setzen sich die Teilnehmenden mit Themen auseinander, die ihnen am Herzen liegen, zum Beispiel Klimaschutz oder Gleichberechtigung,
-und überlegen gemeinsam, wie Software die Gesellschaft beeinflusst. Im nächsten Schritt entwerfen die Teilnehmenden eine Software, die auf ein gesellschaftliches Thema
-aufmerksam macht, oder die ein gesellschaftliches Problem angeht. Schließlich dürfen die Teilnehmenden noch einen Teil der Idee mit Scratch umsetzen.&lt;/p></description></item><item><title>Animating a music video</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/scratch-musikvideo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/scratch-musikvideo/</guid><description>&lt;p>In the online workshop &amp;ldquo;Animating a music video&amp;rdquo;, participants gain an insight into
+&lt;/ul></description></item><item><title>Animating a music video</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/scratch-musikvideo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/scratch-musikvideo/</guid><description>&lt;p>In the online workshop &amp;ldquo;Animating a music video&amp;rdquo;, participants gain an insight into
 how to make simple animations with Scratch.
 The animations are created by moving and changing the costumes of characters in Scratch.
 Depending on the progress of the participants, additional elements such as stage sets can be added.&lt;/p>
@@ -469,11 +607,7 @@ The model can also be used in Scratch at the end.&lt;/p>
 &lt;li>Participants know how AI can be trained.&lt;/li>
 &lt;li>Participants are familiar with some applications of AI.&lt;/li>
 &lt;/ul>
-&lt;p>Participants will need:&lt;/p></description></item><item><title>Astro Pi - Code im Weltraum</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/python-astropi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/python-astropi/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Astro Pi - Code im Weltraum&amp;rdquo; im Rahmen des
-Projektes &lt;a href="https://astro-pi.org/mission-zero/">&amp;ldquo;Mission Zero&amp;rdquo; der RaspberryPi Foundation&lt;/a> erhalten die Teilnehmenden die Möglichkeit,
-ein Python Programm zu schreiben, das dann auf der ISS abgespielt wird. Die Teilnehmenden können dafür eine maximal 30 Sekunden lange Animation machen,
-bei der mindestens die Luftfeuchtigkeit auf der ISS angezeigt wird. Zusätzlich können Teilnehmende die Astronaut:innen grüßen, Luftdruck und Temperatur anzeigen lassen
-oder Bilder hinzufügen. Benutzt wird der &amp;ldquo;Online Sense HAT Emulator&amp;rdquo; - ein Programm, was den AstroPi-Computer mit Sensoren simuliert.&lt;/p></description></item><item><title>Astro Pi - Code in Space</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/python-astropi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/python-astropi/</guid><description>&lt;p>In the online workshop &amp;ldquo;Astro Pi - Code in Space&amp;rdquo; as part of the
+&lt;p>Participants will need:&lt;/p></description></item><item><title>Astro Pi - Code in Space</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/python-astropi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/python-astropi/</guid><description>&lt;p>In the online workshop &amp;ldquo;Astro Pi - Code in Space&amp;rdquo; as part of the
 project &lt;a href="https://astro-pi.org/mission-zero/">&amp;ldquo;Mission Zero&amp;rdquo; of the RaspberryPi Foundation&lt;/a>, participants will be given the opportunity to write a Python programme,
 to write a Python programme that will then be played on the ISS. Participants can create an animation lasting a maximum of 30 seconds,
 in which at least the humidity on the ISS is displayed. In addition, participants can greet the astronauts, display the air pressure and temperature
@@ -506,14 +640,7 @@ Educators can explore the challenges and opportunities of game development.&lt;/
 &lt;h2 id="the-dashbots">The DashBots&lt;/h2>
 &lt;p>A DashBot can be controlled via a connected iPad using the &amp;ldquo;Wonder&amp;rdquo; app.
 In the Wonder app, the DashBot can be manually controlled (Control), small programming tasks can be played (Robot Saga), and it can be freely programmed (Developer mode).
-A DashBot can be equipped with a small catapult.&lt;/p></description></item><item><title>Dashbot Workshop</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/dashbot-challenges/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/dashbot-challenges/</guid><description>&lt;p>Beim Challenges-Workshop mit den Dash Robotern durchspielen die Teilnehmenden unterschiedliche Aufgabestellungen und lernen
-so spielerisch das manuelle Steuern sowie das Programmieren eines kleinen Roboters.&lt;/p>
-&lt;p>Da die Aufgaben sehr frei sind, können die Teilnehmenden dabei ganz eigene Lösungsideen entwickeln und ausprobieren.&lt;/p>
-&lt;h2 id="die-dashbots">Die DashBots&lt;/h2>
-&lt;p>Ein DashBot lässt sich über ein verbundenes iPad mit der &amp;ldquo;Wonder&amp;rdquo; App steuern.
-In der Wonder App kann der DashBot manuell gesteuert werden (Steuerung), kleine Programmieraufgaben durchgespielt (Roboter-Saga) und
-frei programmiert werden (Entwickler-Modus).
-Ein DashBot kann mit einem kleinen Katapult ausgerüstet werden.&lt;/p></description></item><item><title>Datenschutzerklärung</title><link>https://coderdojo-schoeneweide.github.io/de/datenschutz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/datenschutz/</guid><description>&lt;p>In dieser Datenschutzerklärung (Stand: 26.07.2023) erläutern wir basierend auf der
+A DashBot can be equipped with a small catapult.&lt;/p></description></item><item><title>Datenschutzerklärung</title><link>https://coderdojo-schoeneweide.github.io/de/datenschutz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/datenschutz/</guid><description>&lt;p>In dieser Datenschutzerklärung (Stand: 26.07.2023) erläutern wir basierend auf der
 &lt;a href="https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&amp;amp;from=DE&amp;amp;tid=312528560#d1e2269-1-1">Datenschutz-Grundverordnung (EU) 2016/679&lt;/a>
 und anwendbaren nationalen Gesetzen, welche personenbezogenen Daten (kurz Daten) wir als
 Verantwortliche – und die von uns beauftragten Auftragsverarbeiter:innen (z. B. Provider) – verarbeiten,
@@ -536,79 +663,13 @@ nicht nur konsumieren, sondern diese Welt auch gestalten können.&lt;/p>
 &lt;hr>
 &lt;h2 id="workshops-für-lehrkräfte">Workshops für Lehrkräfte&lt;/h2>
 &lt;p>Ihr habt einen Klassensatz Roboter, der im Schrank verstaubt, weil niemand weiß, wie man ihn verwendet?
-Oder euch fehlen Ideen was ihr mit den neuen Tablets überhaupt machen könnt?&lt;/p></description></item><item><title>Digitale Grußkarten basteln</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-grusskarten/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-grusskarten/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Digitale Grußkarten basteln&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
-wie man mit Scratch Animationen machen kann und schöne digitale Grußkarten bastelt.
-Die Animationen werden dabei durch die Bewegung, den Kostümwechsel und Grafikeffekte von Figuren in Scratch erzeugt.
-Je nach Fortschritt der Teilnehmenden können auch andere Mittel der Animation, wie das Klonen von Figuren oder die Nutzung des &amp;ldquo;Malstifts&amp;rdquo; verwendet werden.&lt;/p>
-&lt;p>Lernziele:&lt;/p>
-&lt;ul>
-&lt;li>Die Teilnehmenden können bei Scratch Klänge abspielen&lt;/li>
-&lt;li>Die Teilnehmenden können mit Hilfe des Scratch-Grafikeditors einfache Grafiken erstellen.&lt;/li>
-&lt;li>Die Teilnehmenden können bei Scratch die Kostüme einer Figur programmatisch kontrollieren.&lt;/li>
-&lt;/ul>
-&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Dramas mit Lamas</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-theaterstueck/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-theaterstueck/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Dramas mit Lamas&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
-wie man mit Scratch einfache Animationen machen kann.
-Der Fokus des Workshops liegt darauf, dass Figuren sprechen und miteinander interagieren - wie bei einem Theaterstück.
-Damit das Gesagte sich nicht überschneidet, müssen die Interaktion zeitlich geplant werden:
-wer sagt was wie lange, und wer wartet also wie lange?
-Um die Interaktion der Figuren effizienter zu synchronisieren, lernen fortgeschrittenere Teilnehmende,
-wie sie die &amp;ldquo;senden&amp;rdquo;- und &amp;ldquo;emfangen&amp;rdquo;-Befehle von Scratch einsetzen.&lt;/p></description></item><item><title>Dramas with llamas</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/scratch-theaterstueck/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/scratch-theaterstueck/</guid><description>&lt;p>In the online workshop &amp;ldquo;Dramas with llamas&amp;rdquo;, participants gain an insight into
+Oder euch fehlen Ideen was ihr mit den neuen Tablets überhaupt machen könnt?&lt;/p></description></item><item><title>Dramas with llamas</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/scratch-theaterstueck/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/scratch-theaterstueck/</guid><description>&lt;p>In the online workshop &amp;ldquo;Dramas with llamas&amp;rdquo;, participants gain an insight into
 how to make simple animations with Scratch.
 The focus of the workshop is on characters speaking and interacting with each other - just like in a theatre play.
 To ensure that what is said does not overlap, the interaction must be planned in terms of timing:
 who says what for how long, and so who waits how long?
 More advanced participants learn how to synchronise the interaction of the characters more efficiently,
-how to use Scratch&amp;rsquo;s &amp;ldquo;send&amp;rdquo; and &amp;ldquo;receive&amp;rdquo; commands.&lt;/p></description></item><item><title>Ein Musikvideo animieren</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-musikvideo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-musikvideo/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Ein Musikvideo animieren&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
-wie man mit Scratch einfache Animationen machen kann.
-Die Animationen werden dabei durch die Bewegung und den Kostümwechsel von Figuren in Scratch erzeugt.
-Je nach Fortschritt der Teilnehmenden können zusätzliche Elemente wie Bühnenbilder hinzukommen.&lt;/p>
-&lt;p>Lernziele:&lt;/p>
-&lt;ul>
-&lt;li>Die Teilnehmenden können bei Scratch die Bewegung von Figuren kontrollieren.&lt;/li>
-&lt;li>Die Teilnehmenden verstehen den Unterschied zwischen Figuren und Kostümen.&lt;/li>
-&lt;li>Die Teilnehmenden können bei Scratch die Kostüme einer Figur programmatisch kontrollieren.&lt;/li>
-&lt;/ul>
-&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Es spricht!</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-lippensynchronisation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-lippensynchronisation/</guid><description>&lt;p>Im Workshop &amp;ldquo;Es spricht!&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
-wie man mit Scratch flüssige Animationen bestehend aus Einzelbildern machen kann.
-Bei dieser Art der Animation werden mehrere Bilder hintereinander abgespielt,
-sodass im Kopf eine Art &amp;ldquo;Film&amp;rdquo; entsteht - wie bei einem Daumenkino, aber digital!
-Eine besondere Art der Bild-für-Bild-Animation ist die Lippensynchronisation: Eine
-digitale Figur bewegt den Mund so, dass die Bewegungen zu den gesagten Worten passen.&lt;/p>
-&lt;p>Lernziele:&lt;/p>
-&lt;ul>
-&lt;li>Die Teilnehmenden können mit Scratch Tonaufnahmen machen.&lt;/li>
-&lt;li>Die Teilnehmenden können mit Hilfe des Scratch-Grafikeditors einfache Grafiken erstellen.&lt;/li>
-&lt;li>Die Teilnehmenden können bei Scratch die Kostüme einer Figur programmatisch kontrollieren.&lt;/li>
-&lt;li>Die Teilnehmenden verstehen den Zusammenhang zwischen gesagten Buchstaben und der Position der Lippe und Zunge dabei.&lt;/li>
-&lt;/ul>
-&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Foto-Filter-App</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/pocketcode-gesichtserkennung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/pocketcode-gesichtserkennung/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Foto-Filter-App&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
-wie man intelligente Foto-Filter, so genannte &amp;ldquo;Lenses&amp;rdquo;, wie es sie zum Beispiel bei Instagram oder SnapChat gibt, programmiert.
-Dafür wird PocketCode verwendet, eine App für mobile Geräte, mit der man Apps programmieren kann.
-Nach einer kurzen, kreativen Aufwärmübung bei der die Teilnehmenden in kurzer Zeit vier Filter zu verschiedenen Themen entwerfen,
-verwenden die Teilnehmenden zusammen mit ihren Mentor:innen, Eltern, oder alleine die von uns zusammengestellte
-Anleitung, um einen eigenen Foto-Filter zu entwickeln.&lt;/p></description></item><item><title>Gemeinsame Geschichte</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/gemeinsame-geschichte/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/gemeinsame-geschichte/</guid><description>&lt;p>Im Workshop &amp;ldquo;Gemeinsame Geschichte&amp;rdquo; lernen die Teilnehmenden zunächst, was Programmieren
-ist. Mit dem Spiel &amp;ldquo;Lebendiger Roboter&amp;rdquo; lernen sie die Grundlagen algorithmischen Denkens
-kennen. Dann können sie mit Scratch erste Schritte in der Programmierung tun und die Programmierumgebung
-kennenlernen.&lt;/p>
-&lt;p>Separat vom Workshop (z.B. im Deutsch- und Kunstunterricht) wählen die Teilnehmenden
-eine Geschichte aus (z.B. eine behandelte Sage). Diese wird in kleine Abschnitte untergliedert und auf
-Teilnehmendengruppen verteilt. Die Teilnehmenden malen die Figuren und Objekte aus der Geschichte.
-Diese Grafiken werden eingescannt und in ein Template-Projekt eingefügt.&lt;/p></description></item><item><title>Hallo Bot, wie gehts?</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/chatbot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/chatbot/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Hallo Bot, wie gehts?&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
-wie man Chatbots programmiert. Chatbots sind Programme, die sich mit einem User unterhalten können.
-Teilnehmende können wahlweise Scratch oder Python verwenden.&lt;/p>
-&lt;p>Je nach Fortschritt der Teilnehmenden können bei der Verwendung von Scratch auch die &amp;ldquo;Text-zu-Sprache&amp;rdquo;-Erweiterung und
-eigene Blöcke (auch bekannt als &amp;ldquo;Funktionen&amp;rdquo; oder &amp;ldquo;Subroutinen&amp;rdquo;) benutzt werden.&lt;/p>
-&lt;p>Lernziele:&lt;/p>
-&lt;ul>
-&lt;li>Die Teilnehmenden verstehen, was ein Chatbot ist&lt;/li>
-&lt;li>Die Teilnehmenden können den Computer etwas sagen lassen&lt;/li>
-&lt;li>Die Teilnehmenden können User-Input abfragen und benutzen&lt;/li>
-&lt;li>Die Teilnehmenden können Bedingungen nutzen, um auf User-Input zu reagieren&lt;/li>
-&lt;/ul>
-&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Haustier-App</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/octostudio-haustierapp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/octostudio-haustierapp/</guid><description>&lt;p>Im Workshop &amp;ldquo;Haustier-App&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
-wie man ein digitales Haustier programmiert, das Hunger hat und gefüttert werden muss.
-Dafür wird OctoStudio verwendet, eine App für mobile Geräte, mit der man Apps programmieren kann.
-Nach einer kurzen Inspirationsrunde verwenden die Teilnehmenden zusammen mit ihren Mentor:innen, Eltern, oder alleine die von uns zusammengestellte Anleitung, um eine grundlegende Haustier-App zu programmieren und so OctoStudio kennenzulernen. In der verbliebenen Zeit können die Teilnehmenden ihre App dann erweitern.&lt;/p></description></item><item><title>Hello Bot, how are you?</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/chatbot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/chatbot/</guid><description>&lt;p>In the online workshop &amp;ldquo;Hello Bot, how are you?&amp;rdquo; participants will gain insight into how to program chatbots.
+how to use Scratch&amp;rsquo;s &amp;ldquo;send&amp;rdquo; and &amp;ldquo;receive&amp;rdquo; commands.&lt;/p></description></item><item><title>Hello Bot, how are you?</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/chatbot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/chatbot/</guid><description>&lt;p>In the online workshop &amp;ldquo;Hello Bot, how are you?&amp;rdquo; participants will gain insight into how to program chatbots.
 Chatbots are programs capable of conversing with a user. Participants can choose to use either Scratch or Python.&lt;/p>
 &lt;p>Depending on the participants&amp;rsquo; progress, when using Scratch, they can also utilize the &amp;ldquo;Text-to-Speech&amp;rdquo; extension and create their own blocks (also known as &amp;ldquo;functions&amp;rdquo; or &amp;ldquo;subroutines&amp;rdquo;).&lt;/p>
 &lt;p>Learning objectives:&lt;/p>
@@ -668,30 +729,7 @@ how to make fluid animations consisting of individual images with Scratch.
 In this type of animation, several images are played one after the other,
 so that a kind of &amp;ldquo;film&amp;rdquo; is created in the mind - like a flip book, but digital!
 Lip synchronisation is a special type of frame-by-frame animation: a digital figure moves its mouth
-A digital figure moves the mouth so that the movements match the words spoken.&lt;/p></description></item><item><title>Kreativ programmieren mit Godot</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/godot/</guid><description>&lt;p>Der Workshop &amp;ldquo;Kreativ programmieren mit Godot&amp;rdquo; richtet sich an Jugendliche oder Lehrpersonen und Mentor:innen.
-Hier können die Teilnehmenden, nach einer Einführung in Game Design
-und einem Überblick über die Game-Engine &amp;ldquo;Godot&amp;rdquo;, ihr eigenes &amp;ldquo;Platformer&amp;rdquo;-Spiel designen und beginnen zu implementieren.
-Lehrpersonen können dabei die Herausforderungen und Chancen der Spielentwicklung erkunden.&lt;/p>
-&lt;p>Lernziele:&lt;/p>
-&lt;ul>
-&lt;li>Die Teilnehmenden haben ein grundlegendes Verständnis über den Spielentwicklungsprozess&lt;/li>
-&lt;li>Die Teilnehmenden wissen, wie man grundsätzlich mit Godot arbeitet&lt;/li>
-&lt;li>Die Teilnehmenden können grundlegende Szenen und Node-Tree von Godot verwenden&lt;/li>
-&lt;li>Die Teilnehmenden können Keyboard-Input einlesen&lt;/li>
-&lt;li>Lehrpersonen können den Schwierigkeitsgrad und Nutzen von Godot für ihre Zielgruppe einschätzen&lt;/li>
-&lt;/ul>
-&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Künstliche Intelligenz</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/kuenstliche-intelligenz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/kuenstliche-intelligenz/</guid><description>&lt;p>Im Workshop &amp;ldquo;Künstliche Intelligenz&amp;rdquo; erkunden die Teilnehmenden selber wie eine KI funktionieren kann
-und wofür diese Technologie verwendet werden kann.
-An Hand des &lt;a href="https://www.aiunplugged.org/german.pdf">Äffchenspiels&lt;/a> erkunden die Teilnehmenden, wie KI &amp;ldquo;lernt&amp;rdquo;. Dann können sie mit Hilfe
-der Website &lt;a href="https://machinelearningforkids.co.uk/">Machine Learning for Kids&lt;/a> selbst eine KI trainieren und ausprobieren.
-Das Modell kann am Ende auch in Scratch verwendet werden.&lt;/p>
-&lt;p>Lernziele:&lt;/p>
-&lt;ul>
-&lt;li>Teilnehmende wissen, was eine KI ist&lt;/li>
-&lt;li>Teilnehmende wissen, wie eine KI trainiert werden kann&lt;/li>
-&lt;li>Teilnehmende kennen einige Anwendungsbeispiele für KI&lt;/li>
-&lt;/ul>
-&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Legal Notice</title><link>https://coderdojo-schoeneweide.github.io/de/en/impressum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/impressum/</guid><description>&lt;p>Information according to § 5 TMG. JavaScript must be enabled to display contact details.&lt;/p>
+A digital figure moves the mouth so that the movements match the words spoken.&lt;/p></description></item><item><title>Legal Notice</title><link>https://coderdojo-schoeneweide.github.io/de/en/impressum/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/impressum/</guid><description>&lt;p>Information according to § 5 TMG. JavaScript must be enabled to display contact details.&lt;/p>
 &lt;p>Contact person: Linda Fernsel
 Address: &lt;span id="address">&lt;button onclick="show('address', '-ZQUI201ZI00MHAvDHtuwvBH9MZTQV')">Show Address&lt;/button>&lt;/span>&lt;/p>
 &lt;p>Email: &lt;span id="email">&lt;button onclick="show('email', '0KPWMVM4MQLMCJMZTQVFKWLMZLWRWCKWU')">Show Email&lt;/button>&lt;/span>&lt;/p>
@@ -711,23 +749,7 @@ Depending on the progress of the participants, other means of animation can also
 After a programming phase, two teams compete against each other: Who can be the first to burst the balloon in the middle of the course?
 Line and proximity sensors are used for traversing the course.&lt;/p>
 &lt;p>The mBlock programs for controlling the mBots are shared by the participants with on-site mentors, who then execute the programs.
-Since the mBots are captured by a camera mounted on the ceiling, participants can follow live to see if their program is working.&lt;/p></description></item><item><title>mBot-Hindernisparkour</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/mbot-labyrinth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/mbot-labyrinth/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;mBot Hindernisparkour&amp;rdquo; steuern die Teilnehmenden einen mBot durch einen Hindernisparkour.
-Nach einer Phase des Programmierens treten zwei Teams gegeneinander an: Wer schafft es zuerst,
-den Luftballon in der Mitte des Parkours zum Platzen zu bringen?
-Für die Durchquerung des Parkours werden Linien- und Abstandssensoren verwendet.&lt;/p>
-&lt;p>Die mBlock-Programme zum Steuern der mBots werden von den Teilnehmenden mit Mentor:innen vor Ort geteilt,
-die die Programme dann ausführen lassen. Da die mBots von einer an der Decke montierten Kamera aufgenommen werden,
-können die Teilnehmenden live verfolgen, ob ihr Programm funktioniert.&lt;/p></description></item><item><title>Mit Spielen die Welt verbessern</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/computerspiele-und-gesellschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/computerspiele-und-gesellschaft/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Mit Spielen die Welt verbessern&amp;rdquo; erhalten die Teilnehmenden einen ersten Einblick in die Arbeit als Game Designer:in.
-Im ersten Teil diskutieren Teilnehmende, ob und wenn ja wie Spiele die Gesellschaft zum Guten beeinflussen können.
-Dann entwerfen Teilnehmende eine eigene Spielidee und erhalten die Gelegenheit, einen Teil der Idee mit Scratch umzusetzen.&lt;/p>
-&lt;p>Lernziele:&lt;/p>
-&lt;ul>
-&lt;li>Die Teilnehmenden haben einen Eindruck davon, was ein:e Game Designer:in tut&lt;/li>
-&lt;li>Die Teilnehmenden kennen grundlegende Elemente eines Spielkonzeptes: Story, Grafik, Klang, Mikro- und Makroziele, Steuerung&lt;/li>
-&lt;li>Die Teilnehmenden kennen die Grundbausteine der Spieleentwicklung: Idee - Design - Entwicklung - Test&lt;/li>
-&lt;li>Die Teilnehmenden können Scratch verwenden, um kleine Ideen umzusetzen&lt;/li>
-&lt;/ul>
-&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Pet App</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/octostudio-haustierapp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/octostudio-haustierapp/</guid><description>&lt;p>In the &amp;ldquo;Pet App&amp;rdquo; workshop, participants get an insight into how to program a digital pet that gets hungry and needs to be fed. OctoStudio is used for this purpose, which is an app for mobile devices that allows you to program apps. After a short round of inspiration, participants, together with their mentors, parents, or alone, use the guide provided by us to program a basic pet app and get to know OctoStudio. In the remaining time, participants can then expand their app.&lt;/p></description></item><item><title>Photo filter app</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/pocketcode-gesichtserkennung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/pocketcode-gesichtserkennung/</guid><description>&lt;p>In the online workshop &amp;ldquo;Photo filter app&amp;rdquo;, participants gain an insight into
+Since the mBots are captured by a camera mounted on the ceiling, participants can follow live to see if their program is working.&lt;/p></description></item><item><title>Pet App</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/octostudio-haustierapp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/octostudio-haustierapp/</guid><description>&lt;p>In the &amp;ldquo;Pet App&amp;rdquo; workshop, participants get an insight into how to program a digital pet that gets hungry and needs to be fed. OctoStudio is used for this purpose, which is an app for mobile devices that allows you to program apps. After a short round of inspiration, participants, together with their mentors, parents, or alone, use the guide provided by us to program a basic pet app and get to know OctoStudio. In the remaining time, participants can then expand their app.&lt;/p></description></item><item><title>Photo filter app</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/pocketcode-gesichtserkennung/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/pocketcode-gesichtserkennung/</guid><description>&lt;p>In the online workshop &amp;ldquo;Photo filter app&amp;rdquo;, participants gain an insight into
 how to programme intelligent photo filters, so-called &amp;ldquo;lenses&amp;rdquo;, such as those found on Instagram or SnapChat.
 PocketCode, an app for mobile devices that can be used to programme apps, is used for this.
 After a short, creative warm-up exercise in which the participants design four filters on different topics in a short space of time,
@@ -743,17 +765,6 @@ before inventing their own creative images.&lt;/p>
 &lt;p>Participants need:&lt;/p>
 &lt;ul>
 &lt;li>Computer with Java 11, JRE11 and the Processing IDE installed&lt;/li>
-&lt;/ul></description></item><item><title>Processing</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/processing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/processing/</guid><description>&lt;p>Im Workshop &amp;ldquo;Processing&amp;rdquo; lernen die Teilnehmenden das Tool Processing kennen, mit dem Bilder und Animationen
-generiert werden können. Dafür machen die Teilnehmenden erste Schritte in der Programmierung mit Java und lösen erste Rätsel
-bevor sie ihre kreativen eigenen Bilder erfinden.&lt;/p>
-&lt;p>Lernziele:&lt;/p>
-&lt;ul>
-&lt;li>Teilnehmende können die Processing-Umgebung bedienen&lt;/li>
-&lt;li>Teilnehmende kennen grundlegende Processing-Befehle&lt;/li>
-&lt;/ul>
-&lt;p>Teilnehmende benötigen:&lt;/p>
-&lt;ul>
-&lt;li>Computer mit Java 11, JRE11 und der Processing IDE installiert&lt;/li>
 &lt;/ul></description></item><item><title>Shared Story</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/gemeinsame-geschichte/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/gemeinsame-geschichte/</guid><description>&lt;p>In the &amp;ldquo;Shared Story&amp;rdquo; workshop, participants first learn what programming is. With the game &amp;ldquo;Living Robot,&amp;rdquo; they get to know the basics of algorithmic thinking. Then, they can take their first steps in programming with Scratch and get to know the programming environment.&lt;/p>
 &lt;p>Separately from the workshop (e.g., in German and art classes), participants choose a story (e.g., a myth they have studied). This story is divided into small sections and distributed among participant groups. Participants illustrate the characters and objects from the story. These graphics are scanned and inserted into a template project.&lt;/p></description></item><item><title>Storyboarding and animations with Scratch</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/scratch-animationen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/scratch-animationen/</guid><description>&lt;p>In this workshop, participants design animations on topics that concern them in everyday life,
 such as friendship and the environment. Participants will gain an insight into
@@ -766,18 +777,7 @@ elements of an animated film and how it is created: Brainstorming, storyboarding
 &lt;li>Participants can control the costumes of a character programmatically in Scratch.&lt;/li>
 &lt;li>Participants will be able to control the position of characters.&lt;/li>
 &lt;/ul>
-&lt;p>Participants need:&lt;/p></description></item><item><title>Storyboarding und Animationen mit Scratch</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-animationen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-animationen/</guid><description>&lt;p>In diesem Workshop konzipieren die Teilnehmenden Animationen zu Themen, die sie im Alltag
-beschäftigen, wie z.B. Freundschaft und Umwelt. Die Teilnehmenden erhalten einen Einblick in
-Elemente eines Animationsfilms und wie er entsteht: Ideenfindung, Storyboarding, Animation und Test.&lt;/p>
-&lt;p>Lernziele:&lt;/p>
-&lt;ul>
-&lt;li>Die Teilnehmenden können Emotionen-transportierende Elemente eines Animationsfilmkonzepts identifizieren.&lt;/li>
-&lt;li>Die Teilnehmenden können ein Storyboard für eine Szene erstellen.&lt;/li>
-&lt;li>Die Teilnehmenden können mit Hilfe des Scratch-Grafikeditors einfache Grafiken erstellen.&lt;/li>
-&lt;li>Die Teilnehmenden können in Scratch die Kostüme einer Figur programmatisch kontrollieren.&lt;/li>
-&lt;li>Die Teilnehmenden können die Position von Figuren steuern.&lt;/li>
-&lt;/ul>
-&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Verein</title><link>https://coderdojo-schoeneweide.github.io/de/verein/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/verein/</guid><description>&lt;p>Das CoderDojo Schöneweide ist ein eingetragener, gemeinnütziger Verein.
+&lt;p>Participants need:&lt;/p></description></item><item><title>Verein</title><link>https://coderdojo-schoeneweide.github.io/de/verein/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/verein/</guid><description>&lt;p>Das CoderDojo Schöneweide ist ein eingetragener, gemeinnütziger Verein.
 Wir sind außerdem Mitgliedsdojo im &lt;a href="https://coderdojo-deutschland.de/">CoderDojo Deutschland e.V.&lt;/a>.&lt;/p>
 &lt;h3 id="mitgliedschaft">Mitgliedschaft&lt;/h3>
 &lt;p>Jede:r kann Mitglied werden. Schicke uns dafür einen formlosen Mitgliedschaftsantrag per Mail.
@@ -803,7 +803,7 @@ You can find a short teaser video &lt;a href="https://www.youtube.com/watch?v=Ny
 &lt;h2 id="can-my-child-take-part">Can my child take part?&lt;/h2>
 &lt;p>Yes.&lt;/p>
 &lt;p>However, it would be helpful if they can already read. We also have an upper age limit of 17 years (17 years is ok, 18 is not).
-After that, you are welcome to join as a mentor :)&lt;/p></description></item><item><title>Zwischen Marienkäfern und Bauklötzen</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/karol-und-kara/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/karol-und-kara/</guid><description>&lt;p>Im Workshop &amp;ldquo;Zwischen Käfern und Bauklötzen&amp;rdquo; erhalten die Teilnehmenden, mit Hilfe unseres Marienkäfer Kara und unserer Klemmbausteinfigur Robot Karol, einen ersten Einblick in die Welt der Programmierung und der Algorithmen. Kara und Robot Karol sind Programmierumgebungen, designt für Kinder und Jugendliche. Zuerst machen sich alle Teilnehmenden mit Kara und Karol vertraut und können Funktionen und Möglichkeiten selbst entdecken. Anschließend können Aufgaben mit verschiedenen Schwierigkeitsstufen gelöst oder eigene Ideen umsetzen, wie zum Beispiel Karol durch ein selbstgebautes Labyrinth zu führen.&lt;/p></description></item><item><title>أسترو باي - البرمجة في الفضاء</title><link>https://coderdojo-schoeneweide.github.io/de/ar/workshops/python-astropi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/workshops/python-astropi/</guid><description>&lt;p>في ورشة العمل عبر الإنترنت &amp;ldquo;أسترو باي - البرمجة في الفضاء&amp;rdquo; كجزء من
+After that, you are welcome to join as a mentor :)&lt;/p></description></item><item><title>أسترو باي - البرمجة في الفضاء</title><link>https://coderdojo-schoeneweide.github.io/de/ar/workshops/python-astropi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/workshops/python-astropi/</guid><description>&lt;p>في ورشة العمل عبر الإنترنت &amp;ldquo;أسترو باي - البرمجة في الفضاء&amp;rdquo; كجزء من
 مشروع &lt;a href="https://astro-pi.org/mission-zero/">&amp;ldquo;Mission Zero&amp;rdquo; التابع لمؤسسة RaspberryPi Foundation&lt;/a>، تُتاح الفرصة للمشاركين
 لكتابة برنامج بايثون يتم تشغيله بعد ذلك على محطة الفضاء الدولية. يمكن للمشاركين إنشاء رسوم متحركة مدتها 30 ثانية كحد أقصى,
 حيث يتم عرض الرطوبة على الأقل على محطة الفضاء الدولية. بالإضافة إلى ذلك، يمكن للمشاركين تحية رواد الفضاء، وعرض ضغط الهواء ودرجة الحرارة

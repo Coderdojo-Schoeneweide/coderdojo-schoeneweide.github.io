@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Processing on CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/de/tags/processing/</link><description>Recent content in Processing on CoderDojo Schöneweide</description><generator>Hugo</generator><language>de-DE</language><lastBuildDate>Fri, 10 Mar 2023 11:33:14 +0000</lastBuildDate><atom:link href="https://coderdojo-schoeneweide.github.io/de/tags/processing/index.xml" rel="self" type="application/rss+xml"/><item><title>Processing Workshop: Bilder und Animationen Programmieren</title><link>https://coderdojo-schoeneweide.github.io/de/ar/blog/2023-03-10-processing-workshop-bilder-und-animationen-programmieren/</link><pubDate>Fri, 10 Mar 2023 11:33:14 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/blog/2023-03-10-processing-workshop-bilder-und-animationen-programmieren/</guid><description>&lt;p>Am 04. März gab es bei uns den &lt;em>Processing-Worksop&lt;/em>. Dabei haben wir uns mit Kindern ab 12 Jahren das Programm „&lt;em>Processing&lt;/em>“ angeschaut - für viele das erste mal Programmieren mit Text. Wie aufregend! Und wirklich gut gemeistert.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Processing on CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/de/tags/processing/</link><description>Recent content in Processing on CoderDojo Schöneweide</description><generator>Hugo</generator><language>de-DE</language><lastBuildDate>Fri, 10 Mar 2023 11:33:14 +0000</lastBuildDate><atom:link href="https://coderdojo-schoeneweide.github.io/de/tags/processing/index.xml" rel="self" type="application/rss+xml"/><item><title>Processing</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/processing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/processing/</guid><description>&lt;p>Im Workshop &amp;ldquo;Processing&amp;rdquo; lernen die Teilnehmenden das Tool Processing kennen, mit dem Bilder und Animationen
+generiert werden können. Dafür machen die Teilnehmenden erste Schritte in der Programmierung mit Java und lösen erste Rätsel
+bevor sie ihre kreativen eigenen Bilder erfinden.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Teilnehmende können die Processing-Umgebung bedienen&lt;/li>
+&lt;li>Teilnehmende kennen grundlegende Processing-Befehle&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p>
+&lt;ul>
+&lt;li>Computer mit Java 11, JRE11 und der Processing IDE installiert&lt;/li>
+&lt;/ul></description></item><item><title>Processing Workshop: Bilder und Animationen Programmieren</title><link>https://coderdojo-schoeneweide.github.io/de/ar/blog/2023-03-10-processing-workshop-bilder-und-animationen-programmieren/</link><pubDate>Fri, 10 Mar 2023 11:33:14 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/blog/2023-03-10-processing-workshop-bilder-und-animationen-programmieren/</guid><description>&lt;p>Am 04. März gab es bei uns den &lt;em>Processing-Worksop&lt;/em>. Dabei haben wir uns mit Kindern ab 12 Jahren das Programm „&lt;em>Processing&lt;/em>“ angeschaut - für viele das erste mal Programmieren mit Text. Wie aufregend! Und wirklich gut gemeistert.&lt;/p>
 &lt;p>&lt;img src="https://coderdojo-schoeneweide.github.io/images/cms/processing_examples.jpg" alt="processing_examples" title="Processing Beispiele">&lt;/p>
 &lt;p>&lt;a href="">&lt;/a>Ziel des Worshops war es, spielerisch einen Einstieg in das Programmieren zu finden, indem wir mit &lt;em>Processing&lt;/em> Bilder und Animationen erzeugten. Für die Teilnehmenden gab es eine kleine Einführung in die Farblehre des RGB-Systems, wie es von Computerbildschirmen genutzt wird.&lt;/p></description></item><item><title>Processing Workshop: Bilder und Animationen Programmieren</title><link>https://coderdojo-schoeneweide.github.io/de/blog/2023-03-10-processing-workshop-bilder-und-animationen-programmieren/</link><pubDate>Fri, 10 Mar 2023 11:33:14 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/blog/2023-03-10-processing-workshop-bilder-und-animationen-programmieren/</guid><description>&lt;p>Am 04. März gab es bei uns den &lt;em>Processing-Worksop&lt;/em>. Dabei haben wir uns mit Kindern ab 12 Jahren das Programm „&lt;em>Processing&lt;/em>“ angeschaut - für viele das erste mal Programmieren mit Text. Wie aufregend! Und wirklich gut gemeistert.&lt;/p>
 &lt;p>&lt;img src="https://coderdojo-schoeneweide.github.io/images/cms/processing_examples.jpg" alt="processing_examples" title="Processing Beispiele">&lt;/p>
@@ -15,17 +26,6 @@ before inventing their own creative images.&lt;/p>
 &lt;p>Participants need:&lt;/p>
 &lt;ul>
 &lt;li>Computer with Java 11, JRE11 and the Processing IDE installed&lt;/li>
-&lt;/ul></description></item><item><title>Processing</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/processing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/processing/</guid><description>&lt;p>Im Workshop &amp;ldquo;Processing&amp;rdquo; lernen die Teilnehmenden das Tool Processing kennen, mit dem Bilder und Animationen
-generiert werden können. Dafür machen die Teilnehmenden erste Schritte in der Programmierung mit Java und lösen erste Rätsel
-bevor sie ihre kreativen eigenen Bilder erfinden.&lt;/p>
-&lt;p>Lernziele:&lt;/p>
-&lt;ul>
-&lt;li>Teilnehmende können die Processing-Umgebung bedienen&lt;/li>
-&lt;li>Teilnehmende kennen grundlegende Processing-Befehle&lt;/li>
-&lt;/ul>
-&lt;p>Teilnehmende benötigen:&lt;/p>
-&lt;ul>
-&lt;li>Computer mit Java 11, JRE11 und der Processing IDE installiert&lt;/li>
 &lt;/ul></description></item><item><title>المعالجة</title><link>https://coderdojo-schoeneweide.github.io/de/ar/workshops/processing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/workshops/processing/</guid><description>&lt;p>يتعرّف المشاركون في ورشة عمل &amp;ldquo;المعالجة&amp;rdquo; على أداة &amp;quot; Processing&amp;quot; التي يمكن استخدامها لإنشاء الصور والرسوم المتحركة.
 للقيام بذلك، يخطو المشاركون خطواتهم الأولى في البرمجة باستخدام جافا وحل أول ألغازهم
 قبل ابتكار صورهم الإبداعية الخاصة بهم.&lt;/p>

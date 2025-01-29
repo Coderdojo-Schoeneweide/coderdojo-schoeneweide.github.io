@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Design on CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/de/tags/design/</link><description>Recent content in Design on CoderDojo Schöneweide</description><generator>Hugo</generator><language>de-DE</language><lastBuildDate>Wed, 25 Jan 2023 16:27:22 +0100</lastBuildDate><atom:link href="https://coderdojo-schoeneweide.github.io/de/tags/design/index.xml" rel="self" type="application/rss+xml"/><item><title>Figma Prototyping Workshop: Adventskalender-App</title><link>https://coderdojo-schoeneweide.github.io/de/ar/blog/2022-12-17-figma-workshop/</link><pubDate>Wed, 25 Jan 2023 16:27:22 +0100</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/blog/2022-12-17-figma-workshop/</guid><description>&lt;p>Kurz vor Weihnachten fand ein Figma Prototyping Workshop für Kinder im Alter von 6 bis 12 Jahren statt. Bei diesem Workshop ging es darum, einen individuellen Adventskalender mit der Design-Software Figma zu erstellen. Die Teilnehmenden wurden mit einem vorgegebenen Adventskalender-Template ausgestattet, das sie nach ihren eigenen kreativen Vorstellungen gestalten sollten.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Design on CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/de/tags/design/</link><description>Recent content in Design on CoderDojo Schöneweide</description><generator>Hugo</generator><language>de-DE</language><lastBuildDate>Wed, 25 Jan 2023 16:27:22 +0100</lastBuildDate><atom:link href="https://coderdojo-schoeneweide.github.io/de/tags/design/index.xml" rel="self" type="application/rss+xml"/><item><title>Kreativ programmieren mit Godot</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/godot/</guid><description>&lt;p>Der Workshop &amp;ldquo;Kreativ programmieren mit Godot&amp;rdquo; richtet sich an Jugendliche oder Lehrpersonen und Mentor:innen.
+Hier können die Teilnehmenden, nach einer Einführung in Game Design
+und einem Überblick über die Game-Engine &amp;ldquo;Godot&amp;rdquo;, ihr eigenes &amp;ldquo;Platformer&amp;rdquo;-Spiel designen und beginnen zu implementieren.
+Lehrpersonen können dabei die Herausforderungen und Chancen der Spielentwicklung erkunden.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Die Teilnehmenden haben ein grundlegendes Verständnis über den Spielentwicklungsprozess&lt;/li>
+&lt;li>Die Teilnehmenden wissen, wie man grundsätzlich mit Godot arbeitet&lt;/li>
+&lt;li>Die Teilnehmenden können grundlegende Szenen und Node-Tree von Godot verwenden&lt;/li>
+&lt;li>Die Teilnehmenden können Keyboard-Input einlesen&lt;/li>
+&lt;li>Lehrpersonen können den Schwierigkeitsgrad und Nutzen von Godot für ihre Zielgruppe einschätzen&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Als Softwareentwickler:in die Welt verbessern</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/softwareentwicklung-und-gesellschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/softwareentwicklung-und-gesellschaft/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Als Softwareentwickler:in die Welt verbessern&amp;rdquo; erhalten die Teilnehmenden einen ersten Einblick in die Arbeit als Softwareentwickler:in.
+Im ersten Teil setzen sich die Teilnehmenden mit Themen auseinander, die ihnen am Herzen liegen, zum Beispiel Klimaschutz oder Gleichberechtigung,
+und überlegen gemeinsam, wie Software die Gesellschaft beeinflusst. Im nächsten Schritt entwerfen die Teilnehmenden eine Software, die auf ein gesellschaftliches Thema
+aufmerksam macht, oder die ein gesellschaftliches Problem angeht. Schließlich dürfen die Teilnehmenden noch einen Teil der Idee mit Scratch umsetzen.&lt;/p></description></item><item><title>Mit Spielen die Welt verbessern</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/computerspiele-und-gesellschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/computerspiele-und-gesellschaft/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Mit Spielen die Welt verbessern&amp;rdquo; erhalten die Teilnehmenden einen ersten Einblick in die Arbeit als Game Designer:in.
+Im ersten Teil diskutieren Teilnehmende, ob und wenn ja wie Spiele die Gesellschaft zum Guten beeinflussen können.
+Dann entwerfen Teilnehmende eine eigene Spielidee und erhalten die Gelegenheit, einen Teil der Idee mit Scratch umzusetzen.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Die Teilnehmenden haben einen Eindruck davon, was ein:e Game Designer:in tut&lt;/li>
+&lt;li>Die Teilnehmenden kennen grundlegende Elemente eines Spielkonzeptes: Story, Grafik, Klang, Mikro- und Makroziele, Steuerung&lt;/li>
+&lt;li>Die Teilnehmenden kennen die Grundbausteine der Spieleentwicklung: Idee - Design - Entwicklung - Test&lt;/li>
+&lt;li>Die Teilnehmenden können Scratch verwenden, um kleine Ideen umzusetzen&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Digitale Grußkarten basteln</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-grusskarten/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-grusskarten/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Digitale Grußkarten basteln&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
+wie man mit Scratch Animationen machen kann und schöne digitale Grußkarten bastelt.
+Die Animationen werden dabei durch die Bewegung, den Kostümwechsel und Grafikeffekte von Figuren in Scratch erzeugt.
+Je nach Fortschritt der Teilnehmenden können auch andere Mittel der Animation, wie das Klonen von Figuren oder die Nutzung des &amp;ldquo;Malstifts&amp;rdquo; verwendet werden.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Die Teilnehmenden können bei Scratch Klänge abspielen&lt;/li>
+&lt;li>Die Teilnehmenden können mit Hilfe des Scratch-Grafikeditors einfache Grafiken erstellen.&lt;/li>
+&lt;li>Die Teilnehmenden können bei Scratch die Kostüme einer Figur programmatisch kontrollieren.&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Figma Prototyping Workshop: Adventskalender-App</title><link>https://coderdojo-schoeneweide.github.io/de/ar/blog/2022-12-17-figma-workshop/</link><pubDate>Wed, 25 Jan 2023 16:27:22 +0100</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/blog/2022-12-17-figma-workshop/</guid><description>&lt;p>Kurz vor Weihnachten fand ein Figma Prototyping Workshop für Kinder im Alter von 6 bis 12 Jahren statt. Bei diesem Workshop ging es darum, einen individuellen Adventskalender mit der Design-Software Figma zu erstellen. Die Teilnehmenden wurden mit einem vorgegebenen Adventskalender-Template ausgestattet, das sie nach ihren eigenen kreativen Vorstellungen gestalten sollten.&lt;/p>
 &lt;figure>&lt;img src="https://coderdojo-schoeneweide.github.io/de/ar/blog/2022-12-17-figma-workshop/images/figma-advent-template.png"
  alt="Adventskalender-Template in Figma" width="80%">&lt;figcaption>
  &lt;p>Adventskalender-Template in Figma&lt;/p>
@@ -60,10 +95,7 @@ aber immerhin einen Einstieg konnten wir den Teilnehmer:innen unseres Online-Wor
 &lt;p>Nachdem wir zusammen unsere Lieblingsspiele auf ihre Story, Ziel, Funktion und künstlerische Aspekte untersucht haben,
 haben die Teilnehmer:innen auf Papier ihr eigenes Spiel entworfen. Nach einer kurzen Einführung in Scratch nutzten sie die block-basierte Programmiersprache
 als Werkzeug, um einen Prototypen für einzelne Teile ihrer Spiele zu programmieren. &lt;a href="https://de.wikipedia.org/wiki/Prototyp_%28Technik%29">Prototypen&lt;/a>
-helfen Ideen greifbarer zu machen und durch Testen Probleme im Design zu erkennen.&lt;/p></description></item><item><title>Als Softwareentwickler:in die Welt verbessern</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/softwareentwicklung-und-gesellschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/softwareentwicklung-und-gesellschaft/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Als Softwareentwickler:in die Welt verbessern&amp;rdquo; erhalten die Teilnehmenden einen ersten Einblick in die Arbeit als Softwareentwickler:in.
-Im ersten Teil setzen sich die Teilnehmenden mit Themen auseinander, die ihnen am Herzen liegen, zum Beispiel Klimaschutz oder Gleichberechtigung,
-und überlegen gemeinsam, wie Software die Gesellschaft beeinflusst. Im nächsten Schritt entwerfen die Teilnehmenden eine Software, die auf ein gesellschaftliches Thema
-aufmerksam macht, oder die ein gesellschaftliches Problem angeht. Schließlich dürfen die Teilnehmenden noch einen Teil der Idee mit Scratch umsetzen.&lt;/p></description></item><item><title>Creative Programming with Godot</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/godot/</guid><description>&lt;p>The workshop &amp;ldquo;Creative Programming with Godot&amp;rdquo; is aimed at teenagers or educators and mentors.
+helfen Ideen greifbarer zu machen und durch Testen Probleme im Design zu erkennen.&lt;/p></description></item><item><title>Creative Programming with Godot</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/godot/</guid><description>&lt;p>The workshop &amp;ldquo;Creative Programming with Godot&amp;rdquo; is aimed at teenagers or educators and mentors.
 Here, participants can, after an introduction to game design and an overview of the game engine &amp;ldquo;Godot,&amp;rdquo; design their own &amp;ldquo;platformer&amp;rdquo; game and begin implementation.
 Educators can explore the challenges and opportunities of game development.&lt;/p>
 &lt;p>Learning objectives:&lt;/p>
@@ -74,17 +106,7 @@ Educators can explore the challenges and opportunities of game development.&lt;/
 &lt;li>Participants can read keyboard input.&lt;/li>
 &lt;li>Educators can assess the difficulty level and benefits of Godot for their target audience.&lt;/li>
 &lt;/ul>
-&lt;p>Participants will need:&lt;/p></description></item><item><title>Digitale Grußkarten basteln</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-grusskarten/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-grusskarten/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Digitale Grußkarten basteln&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
-wie man mit Scratch Animationen machen kann und schöne digitale Grußkarten bastelt.
-Die Animationen werden dabei durch die Bewegung, den Kostümwechsel und Grafikeffekte von Figuren in Scratch erzeugt.
-Je nach Fortschritt der Teilnehmenden können auch andere Mittel der Animation, wie das Klonen von Figuren oder die Nutzung des &amp;ldquo;Malstifts&amp;rdquo; verwendet werden.&lt;/p>
-&lt;p>Lernziele:&lt;/p>
-&lt;ul>
-&lt;li>Die Teilnehmenden können bei Scratch Klänge abspielen&lt;/li>
-&lt;li>Die Teilnehmenden können mit Hilfe des Scratch-Grafikeditors einfache Grafiken erstellen.&lt;/li>
-&lt;li>Die Teilnehmenden können bei Scratch die Kostüme einer Figur programmatisch kontrollieren.&lt;/li>
-&lt;/ul>
-&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Improving the world as a software developer</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/softwareentwicklung-und-gesellschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/softwareentwicklung-und-gesellschaft/</guid><description>&lt;p>In the online workshop &amp;ldquo;Improving the world as a software developer&amp;rdquo;, participants gain an initial insight into working as a software developer.
+&lt;p>Participants will need:&lt;/p></description></item><item><title>Improving the world as a software developer</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/softwareentwicklung-und-gesellschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/softwareentwicklung-und-gesellschaft/</guid><description>&lt;p>In the online workshop &amp;ldquo;Improving the world as a software developer&amp;rdquo;, participants gain an initial insight into working as a software developer.
 In the first part, the participants deal with topics that are close to their hearts, such as climate protection or equal rights,
 and think together about how software influences society. In the next step, the participants design a piece of software that draws attention to a social issue
 or that addresses a social problem. Finally, the participants are allowed to realise part of the idea using Scratch.&lt;/p></description></item><item><title>Improving the World Through Games</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/computerspiele-und-gesellschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/computerspiele-und-gesellschaft/</guid><description>&lt;p>In the online workshop &amp;ldquo;Improving the World Through Games,&amp;rdquo; participants will get a first glimpse into the work of a game designer.
@@ -97,19 +119,7 @@ Then, participants will design their own game idea and have the opportunity to i
 &lt;li>Participants will understand the basic components of game development: idea - design - development - testing.&lt;/li>
 &lt;li>Participants will be able to use Scratch to implement small ideas.&lt;/li>
 &lt;/ul>
-&lt;p>Participants will need:&lt;/p></description></item><item><title>Kreativ programmieren mit Godot</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/godot/</guid><description>&lt;p>Der Workshop &amp;ldquo;Kreativ programmieren mit Godot&amp;rdquo; richtet sich an Jugendliche oder Lehrpersonen und Mentor:innen.
-Hier können die Teilnehmenden, nach einer Einführung in Game Design
-und einem Überblick über die Game-Engine &amp;ldquo;Godot&amp;rdquo;, ihr eigenes &amp;ldquo;Platformer&amp;rdquo;-Spiel designen und beginnen zu implementieren.
-Lehrpersonen können dabei die Herausforderungen und Chancen der Spielentwicklung erkunden.&lt;/p>
-&lt;p>Lernziele:&lt;/p>
-&lt;ul>
-&lt;li>Die Teilnehmenden haben ein grundlegendes Verständnis über den Spielentwicklungsprozess&lt;/li>
-&lt;li>Die Teilnehmenden wissen, wie man grundsätzlich mit Godot arbeitet&lt;/li>
-&lt;li>Die Teilnehmenden können grundlegende Szenen und Node-Tree von Godot verwenden&lt;/li>
-&lt;li>Die Teilnehmenden können Keyboard-Input einlesen&lt;/li>
-&lt;li>Lehrpersonen können den Schwierigkeitsgrad und Nutzen von Godot für ihre Zielgruppe einschätzen&lt;/li>
-&lt;/ul>
-&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Making digital greeting cards</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/scratch-grusskarten/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/scratch-grusskarten/</guid><description>&lt;p>In the online workshop &amp;ldquo;Making digital greeting cards&amp;rdquo;, participants will gain an insight into
+&lt;p>Participants will need:&lt;/p></description></item><item><title>Making digital greeting cards</title><link>https://coderdojo-schoeneweide.github.io/de/en/workshops/scratch-grusskarten/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/en/workshops/scratch-grusskarten/</guid><description>&lt;p>In the online workshop &amp;ldquo;Making digital greeting cards&amp;rdquo;, participants will gain an insight into
 how to make animations with Scratch and create beautiful digital greeting cards.
 The animations are created through the movement, costume changes and graphic effects of characters in Scratch.
 Depending on the progress of the participants, other means of animation can also be used, such as cloning figures or using the &amp;ldquo;colouring pen&amp;rdquo;.&lt;/p>
@@ -119,17 +129,7 @@ Depending on the progress of the participants, other means of animation can also
 &lt;li>Participants can create simple graphics using the Scratch graphics editor.&lt;/li>
 &lt;li>Participants will be able to programmatically control the costumes of a character in Scratch.&lt;/li>
 &lt;/ul>
-&lt;p>Participants need:&lt;/p></description></item><item><title>Mit Spielen die Welt verbessern</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/computerspiele-und-gesellschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/computerspiele-und-gesellschaft/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Mit Spielen die Welt verbessern&amp;rdquo; erhalten die Teilnehmenden einen ersten Einblick in die Arbeit als Game Designer:in.
-Im ersten Teil diskutieren Teilnehmende, ob und wenn ja wie Spiele die Gesellschaft zum Guten beeinflussen können.
-Dann entwerfen Teilnehmende eine eigene Spielidee und erhalten die Gelegenheit, einen Teil der Idee mit Scratch umzusetzen.&lt;/p>
-&lt;p>Lernziele:&lt;/p>
-&lt;ul>
-&lt;li>Die Teilnehmenden haben einen Eindruck davon, was ein:e Game Designer:in tut&lt;/li>
-&lt;li>Die Teilnehmenden kennen grundlegende Elemente eines Spielkonzeptes: Story, Grafik, Klang, Mikro- und Makroziele, Steuerung&lt;/li>
-&lt;li>Die Teilnehmenden kennen die Grundbausteine der Spieleentwicklung: Idee - Design - Entwicklung - Test&lt;/li>
-&lt;li>Die Teilnehmenden können Scratch verwenden, um kleine Ideen umzusetzen&lt;/li>
-&lt;/ul>
-&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>البرمجة الإبداعية مع جودوت</title><link>https://coderdojo-schoeneweide.github.io/de/ar/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/workshops/godot/</guid><description>&lt;p>تستهدف ورشة عمل &amp;ldquo;البرمجة الإبداعية مع غودو&amp;rdquo; الشباب أو المعلمين والموجهين.
+&lt;p>Participants need:&lt;/p></description></item><item><title>البرمجة الإبداعية مع جودوت</title><link>https://coderdojo-schoeneweide.github.io/de/ar/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/ar/workshops/godot/</guid><description>&lt;p>تستهدف ورشة عمل &amp;ldquo;البرمجة الإبداعية مع غودو&amp;rdquo; الشباب أو المعلمين والموجهين.
 بعد مقدمة عن تصميم الألعاب ولمحة عامة عن محرك اللعبة
 ونظرة عامة عن محرك الألعاب &amp;ldquo;غودو&amp;rdquo;، يمكن للمشاركين تصميم لعبة &amp;ldquo;المنصة&amp;rdquo; الخاصة بهم والبدء في تنفيذها.
 يمكن للمعلمين استكشاف تحديات وفرص تطوير الألعاب.&lt;/p>
