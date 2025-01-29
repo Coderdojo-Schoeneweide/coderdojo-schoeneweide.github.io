@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: Coderdojo-Schoeneweide/website-hugo
-  site_domain: brilliant-stardust-d69104.netlify.app
+  base_url: https://auth.kaes3kuch3n.de
 media_folder: static/images/cms
 public_folder: /images/cms
 collections:
