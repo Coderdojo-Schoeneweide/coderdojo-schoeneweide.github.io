@@ -1,0 +1,68 @@
+<!doctype html><html lang=de-DE dir=ltr><head><title>CoderDojo Schöneweide</title>
+<meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1"><meta name=description content="Melde Dich zum eMail-Newsletter des CoderDojo Schöneweide an, um regelmäßig über bevorstehende Workshops informiert zu werden."><meta name=keywords content="Newsletter CoderDojo Schöneweide,Newsletter,eMail-Newsletter,Updates,aktuell"><link rel=canonical href=https://coderdojo-schoeneweide.github.io/de/newsletter/><link rel=stylesheet type=text/css href=/scss/style.min.a7fd2234f0213aced63da7c13c667a5ffab02632e143bcde3759dfeaa64dbd65.css><script src=/js/obfuscate.js></script><script src=/js/color-theme-switch.js></script></head><body><header class="site-header wrapper" role=banner><div style=display:flex;justify-content:space-between><ul style=list-style:none;padding-left:0;display:flex;gap:1em></ul><label id=switch class=switch><input type=checkbox id=slider>
+<span class="slider round"></span></label></div><a class="site-title site-title-light" href=/><img class=site-logo src=/images/logo.webp alt="CoderDojo Schoeneweide Logo">
+</a><a class="site-title site-title-dark" href=/><img class=site-logo src=/images/logo_dark.webp alt="CoderDojo Schoeneweide Logo"></a><nav><input type=checkbox id=nav-trigger>
+<label for=nav-trigger>Menü</label><ul class=trigger><li><a href=/de/>Das Dojo</a></li><li><a href=/de/workshops/>Workshops</a></li><li><a href=/de/blog/>Blog</a></li><li><a href=/de/parents/>Für Eltern</a></li><li><a href=/de/schools/>Für Schulen</a></li><li><a href=/de/dojo-projects/>Projekte</a></li><li><a href=/de/verein/>Verein</a></li></ul></nav></header><main id=content class="wrapper columns" aria-label=Content><section><h1>Newsletter</h1><p>Du bist Elternteil und möchtest immer über das aktuelle Veranstaltungsangebot des CoderDojo Schöneweide auf dem Laufenden gehalten werden? Dann melde dich für den E-Mail-Newsletter an! Dort bekommst du ein bis zwei Mal im Monat alle Infos zu unseren bevorstehenden Workshops.</p><hr><form class=newsletter><label><span>Gib deine E-Mail-Adresse ein, um dich anzumelden:</span>
+<input type=email name=email placeholder=E-Mail-Adresse></label><aside>Gib bitte deine E-Mail-Adresse für die Anmeldung an, z. B. abc@xyz.com.</aside><label><input type=checkbox name=accept-privacy-policy>
+<span>Ich möchte den Newsletter erhalten und akzeptiere die Datenschutzerklärung.</span></label><aside>Du kannst den Newsletter jederzeit über den Link in unserem Newsletter abbestellen.</aside><p>Wir verwenden Brevo als unsere Marketing-Plattform. Indem du das Formular absendest, erklärst du dich einverstanden, dass die von dir angegebenen persönlichen Informationen an Brevo zur Bearbeitung übertragen werden gemäß den <a href=https://www.brevo.com/de/legal/privacypolicy/>Datenschutzrichtlinien von Brevo</a>.</p><div class=frc-captcha data-sitekey=FCMHLE7HBO6O0OM3></div><button class=button disabled>Anmelden</button></form><p id=confirmation hidden>Deine Anmeldung zum Newsletter wurde erfolgreich abgeschickt. Vielen Dank! Du erhältst in den nächsten Minuten eine Bestätigungsmail. Bitte klicke auf den Link in dieser Mail, um Deine Anmeldung zum Newsletter zu bestätigen.</p><p id=error hidden>Hoppla! Bei Deiner Anmeldung zum Newsletter ist ein Fehler aufgetreten. Bitte lade die Seite neu und versuche es erneut. Wenn der Fehler weiterhin auftritt, kontaktiere uns bitte unter <a href=mailto:schoeneweide.berlin@coderdojo.com>schoeneweide.berlin@coderdojo.com</a>.</p><script type=module>
+    import { FriendlyCaptchaSDK } from "/js/friendlycaptcha/sdk.min.js";
+
+    const sdk = new FriendlyCaptchaSDK();
+
+    const mount = document.querySelector(".frc-captcha");
+
+    const captcha = sdk.createWidget({
+        element: mount,
+        sitekey: mount.dataset.sitekey
+    });
+
+    const form = document.querySelector('form.newsletter');
+
+    function showError(error, code) {
+        const errors = {
+            "captcha-not-verified": "Beim Lösen des Captchas ist ein Fehler aufgetreten. Bitte lade die Seite neu und versuche es erneut.",
+            "privacy-policy-not-accepted": "Die Datenschutzerklärung muss akzeptiert werden. Bitte lade die Seite neu und versuche es erneut.",
+            "missing-email": "Es wurde keine E-Mail-Adresse angegeben. Bitte lade die Seite neu, gebe eine E-Mail-Adresse ein und versuche es erneut.",
+        };
+        const message = errors[code];
+        console.error(error);
+        form.hidden = true;
+        const text = document.querySelector('p#error');
+        if (message) text.innerText = message;
+        text.hidden = false;
+    }
+
+    const submit = form.querySelector("button");
+
+    form.addEventListener('submit', (event) => {
+        event.preventDefault();
+        submit.disabled = true;
+        submit.innerText = "Anmeldung wird verarbeitet...";
+        const data = new FormData(event.target);
+        console.log(new URLSearchParams(data.entries()).toString());
+        fetch("https://auth.kaes3kuch3n.de/newsletter", {
+            method: "POST",
+            body: new URLSearchParams(data.entries()).toString(),
+            headers: {
+                "Content-Type": "application/x-www-form-urlencoded"
+            }
+        }).then(response => {
+            if (response.ok) {
+                form.hidden = true;
+                document.querySelector('#confirmation').hidden = false;
+            } else {
+                response.text().then(code => showError(`${response.statusText} - ${code}`, code));
+            }
+        }).catch(error => {
+            showError(error);
+        });
+    });
+
+    const email = form.querySelector('[name="email"]');
+    const privacyPolicy = form.querySelector('[name="accept-privacy-policy"]');
+
+    const handleSubmitButtonState = () => submit.disabled = !privacyPolicy.checked || captcha.state !== 'completed' || !email.value;
+    email.addEventListener('input', handleSubmitButtonState);
+    privacyPolicy.addEventListener('change', handleSubmitButtonState);
+    captcha.addEventListener('frc:widget.statechange', handleSubmitButtonState);
+</script></section></main><footer class=wrapper><p>Mit &lt;3 gemacht vom CoderDojo Schöneweide Team</p><p>Auf GitHub gehostet</p><ul><li><a href=/de/impressum/>Impressum</a></li><li><a href=/de/datenschutz/>Datenschutz</a></li></ul></footer><script src=/js/filters.js></script></body></html>
