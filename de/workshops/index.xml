@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Workshops on CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/</link><description>Recent content in Workshops on CoderDojo Schöneweide</description><generator>Hugo</generator><language>de-DE</language><atom:link href="https://coderdojo-schoeneweide.github.io/de/workshops/index.xml" rel="self" type="application/rss+xml"/><item><title>3D-Kunst mit Blender</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/blender/</guid><description>&lt;p>Im Workshop &amp;ldquo;3D-Kunst mit Blender&amp;rdquo; lernen die Teilnehmenden das Tool Blender kennen, mit dem 3D-Modelle erstellt werden können.
-Der Workshop kann um 2 Stunden erweitert werden, in denen die Teilnehmenden außerdem Modelle animieren.&lt;/p>
-&lt;p>Lernziele:&lt;/p>
-&lt;ul>
-&lt;li>Teilnehmende können die Blender-Umgebung bedienen&lt;/li>
-&lt;li>Teilnehmende können einfache 3D-Formen mit Blender erstellen&lt;/li>
-&lt;li>Teilnehmende können 3D-Modelle einfärben&lt;/li>
-&lt;li>Teilnehmende können 3D-Modelle animieren&lt;/li>
-&lt;/ul>
-&lt;p>Teilnehmende benötigen:&lt;/p>
-&lt;ul>
-&lt;li>Computer mit Blender installiert&lt;/li>
-&lt;/ul></description></item><item><title>Astro Pi - Code im Weltraum</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/python-astropi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/python-astropi/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Astro Pi - Code im Weltraum&amp;rdquo; im Rahmen des
-Projektes &lt;a href="https://astro-pi.org/mission-zero/">&amp;ldquo;Mission Zero&amp;rdquo; der RaspberryPi Foundation&lt;/a> erhalten die Teilnehmenden die Möglichkeit,
-ein Python Programm zu schreiben, das dann auf der ISS abgespielt wird. Die Teilnehmenden können dafür eine maximal 30 Sekunden lange Animation machen,
-bei der mindestens die Luftfeuchtigkeit auf der ISS angezeigt wird. Zusätzlich können Teilnehmende die Astronaut:innen grüßen, Luftdruck und Temperatur anzeigen lassen
-oder Bilder hinzufügen. Benutzt wird der &amp;ldquo;Online Sense HAT Emulator&amp;rdquo; - ein Programm, was den AstroPi-Computer mit Sensoren simuliert.&lt;/p></description></item><item><title>Coding im Dojo</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/coding_im_dojo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/coding_im_dojo/</guid><description>&lt;p>Bei unserem Coding im Dojo kann man seine eigenen Programmier-Projekte mitbringen und frei daran arbeiten.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Workshops on CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/</link><description>Recent content in Workshops on CoderDojo Schöneweide</description><generator>Hugo</generator><language>de-DE</language><atom:link href="https://coderdojo-schoeneweide.github.io/de/workshops/index.xml" rel="self" type="application/rss+xml"/><item><title>Coding im Dojo</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/coding_im_dojo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/coding_im_dojo/</guid><description>&lt;p>Bei unserem Coding im Dojo kann man seine eigenen Programmier-Projekte mitbringen und frei daran arbeiten.
 Wenn man noch nicht weiß, was man machen möchte, haben wir auch einige Ideen zum Inspirieren parat und zeigen dir coole Dinge, die man machen kann :)&lt;/p>
 &lt;h2 id="teilnehmende-benötigen">Teilnehmende benötigen&lt;/h2>
 &lt;ul>
@@ -29,30 +13,17 @@ Wenn man noch nicht weiß, was man machen möchte, haben wir auch einige Ideen z
 &lt;li>&lt;a href="https://coderdojo-schoeneweide.de/docs/howtos/HTML%20%26%20CSS%20Cheat%20Sheet%20extended.pdf">HTML &amp;amp; CSS&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://coderdojo-schoeneweide.de/docs/howtos/OpenProcessing%20Cheat%20Sheet.pdf">OpenProcessing&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://coderdojo-schoeneweide.de/docs/howtos/Processing%20Cheat%20Sheet.pdf">Processing&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Kreativ programmieren mit Godot</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/godot/</guid><description>&lt;p>Der Workshop &amp;ldquo;Kreativ programmieren mit Godot&amp;rdquo; richtet sich an Jugendliche oder Lehrpersonen und Mentor:innen.
-Hier können die Teilnehmenden, nach einer Einführung in Game Design
-und einem Überblick über die Game-Engine &amp;ldquo;Godot&amp;rdquo;, ihr eigenes &amp;ldquo;Platformer&amp;rdquo;-Spiel designen und beginnen zu implementieren.
-Lehrpersonen können dabei die Herausforderungen und Chancen der Spielentwicklung erkunden.&lt;/p>
-&lt;p>Lernziele:&lt;/p>
+&lt;/ul></description></item><item><title>Lua dein eigenes Minecraft</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/luanti/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/luanti/</guid><description>&lt;p>In diesem Workshop lernst du die Programmiersprache Lua kennen – und zwar auf spielerische Weise mit Luanti, einem Spiel ähnlich wie Minecraft.
+Hier kannst du eigene Welten erschaffen, Blöcke platzieren und mit Code lebendig machen!&lt;/p>
+&lt;h2 id="teilnehmende-benötigen">Teilnehmende benötigen&lt;/h2>
 &lt;ul>
-&lt;li>Die Teilnehmenden haben ein grundlegendes Verständnis über den Spielentwicklungsprozess&lt;/li>
-&lt;li>Die Teilnehmenden wissen, wie man grundsätzlich mit Godot arbeitet&lt;/li>
-&lt;li>Die Teilnehmenden können grundlegende Szenen und Node-Tree von Godot verwenden&lt;/li>
-&lt;li>Die Teilnehmenden können Keyboard-Input einlesen&lt;/li>
-&lt;li>Lehrpersonen können den Schwierigkeitsgrad und Nutzen von Godot für ihre Zielgruppe einschätzen&lt;/li>
+&lt;li>Laptop (oder reservieren sich ein Computer-Ticket)&lt;/li>
 &lt;/ul>
-&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Künstliche Intelligenz</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/kuenstliche-intelligenz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/kuenstliche-intelligenz/</guid><description>&lt;p>Im Workshop &amp;ldquo;Künstliche Intelligenz&amp;rdquo; erkunden die Teilnehmenden selber wie eine KI funktionieren kann
-und wofür diese Technologie verwendet werden kann.
-An Hand des &lt;a href="https://www.aiunplugged.org/german.pdf">Äffchenspiels&lt;/a> erkunden die Teilnehmenden, wie KI &amp;ldquo;lernt&amp;rdquo;. Dann können sie mit Hilfe
-der Website &lt;a href="https://machinelearningforkids.co.uk/">Machine Learning for Kids&lt;/a> selbst eine KI trainieren und ausprobieren.
-Das Modell kann am Ende auch in Scratch verwendet werden.&lt;/p>
-&lt;p>Lernziele:&lt;/p>
+&lt;h2 id="anleitungen">Anleitungen&lt;/h2>
 &lt;ul>
-&lt;li>Teilnehmende wissen, was eine KI ist&lt;/li>
-&lt;li>Teilnehmende wissen, wie eine KI trainiert werden kann&lt;/li>
-&lt;li>Teilnehmende kennen einige Anwendungsbeispiele für KI&lt;/li>
-&lt;/ul>
-&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Processing</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/processing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/processing/</guid><description>&lt;p>Im Workshop &amp;ldquo;Processing&amp;rdquo; lernen die Teilnehmenden das Tool Processing kennen, mit dem Bilder und Animationen
+&lt;li>&lt;a href="https://drive.google.com/file/d/1znlq1f47hj_TJj0PsmttjgEPBuoLoq6t/view?usp=sharing">Installation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://coderdojo-schoeneweide.de/docs/howtos/AnleitungLuanti.pdf">Anleitung&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Processing</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/processing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/processing/</guid><description>&lt;p>Im Workshop &amp;ldquo;Processing&amp;rdquo; lernen die Teilnehmenden das Tool Processing kennen, mit dem Bilder und Animationen
 generiert werden können. Dafür machen die Teilnehmenden erste Schritte in der Programmierung mit Java und lösen erste Rätsel
 bevor sie ihre kreativen eigenen Bilder erfinden.&lt;/p>
 &lt;p>Lernziele:&lt;/p>
@@ -63,10 +34,26 @@ bevor sie ihre kreativen eigenen Bilder erfinden.&lt;/p>
 &lt;p>Teilnehmende benötigen:&lt;/p>
 &lt;ul>
 &lt;li>Computer mit Java 11, JRE11 und der Processing IDE installiert&lt;/li>
+&lt;/ul></description></item><item><title>3D-Kunst mit Blender</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/blender/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/blender/</guid><description>&lt;p>Im Workshop &amp;ldquo;3D-Kunst mit Blender&amp;rdquo; lernen die Teilnehmenden das Tool Blender kennen, mit dem 3D-Modelle erstellt werden können.
+Der Workshop kann um 2 Stunden erweitert werden, in denen die Teilnehmenden außerdem Modelle animieren.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Teilnehmende können die Blender-Umgebung bedienen&lt;/li>
+&lt;li>Teilnehmende können einfache 3D-Formen mit Blender erstellen&lt;/li>
+&lt;li>Teilnehmende können 3D-Modelle einfärben&lt;/li>
+&lt;li>Teilnehmende können 3D-Modelle animieren&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p>
+&lt;ul>
+&lt;li>Computer mit Blender installiert&lt;/li>
 &lt;/ul></description></item><item><title>Als Softwareentwickler:in die Welt verbessern</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/softwareentwicklung-und-gesellschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/softwareentwicklung-und-gesellschaft/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Als Softwareentwickler:in die Welt verbessern&amp;rdquo; erhalten die Teilnehmenden einen ersten Einblick in die Arbeit als Softwareentwickler:in.
 Im ersten Teil setzen sich die Teilnehmenden mit Themen auseinander, die ihnen am Herzen liegen, zum Beispiel Klimaschutz oder Gleichberechtigung,
 und überlegen gemeinsam, wie Software die Gesellschaft beeinflusst. Im nächsten Schritt entwerfen die Teilnehmenden eine Software, die auf ein gesellschaftliches Thema
-aufmerksam macht, oder die ein gesellschaftliches Problem angeht. Schließlich dürfen die Teilnehmenden noch einen Teil der Idee mit Scratch umsetzen.&lt;/p></description></item><item><title>Dashbot Workshop</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/dashbot-challenges/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/dashbot-challenges/</guid><description>&lt;p>Beim Challenges-Workshop mit den Dash Robotern durchspielen die Teilnehmenden unterschiedliche Aufgabestellungen und lernen
+aufmerksam macht, oder die ein gesellschaftliches Problem angeht. Schließlich dürfen die Teilnehmenden noch einen Teil der Idee mit Scratch umsetzen.&lt;/p></description></item><item><title>Astro Pi - Code im Weltraum</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/python-astropi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/python-astropi/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Astro Pi - Code im Weltraum&amp;rdquo; im Rahmen des
+Projektes &lt;a href="https://astro-pi.org/mission-zero/">&amp;ldquo;Mission Zero&amp;rdquo; der RaspberryPi Foundation&lt;/a> erhalten die Teilnehmenden die Möglichkeit,
+ein Python Programm zu schreiben, das dann auf der ISS abgespielt wird. Die Teilnehmenden können dafür eine maximal 30 Sekunden lange Animation machen,
+bei der mindestens die Luftfeuchtigkeit auf der ISS angezeigt wird. Zusätzlich können Teilnehmende die Astronaut:innen grüßen, Luftdruck und Temperatur anzeigen lassen
+oder Bilder hinzufügen. Benutzt wird der &amp;ldquo;Online Sense HAT Emulator&amp;rdquo; - ein Programm, was den AstroPi-Computer mit Sensoren simuliert.&lt;/p></description></item><item><title>Dashbot Workshop</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/dashbot-challenges/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/dashbot-challenges/</guid><description>&lt;p>Beim Challenges-Workshop mit den Dash Robotern durchspielen die Teilnehmenden unterschiedliche Aufgabestellungen und lernen
 so spielerisch das manuelle Steuern sowie das Programmieren eines kleinen Roboters.&lt;/p>
 &lt;p>Da die Aufgaben sehr frei sind, können die Teilnehmenden dabei ganz eigene Lösungsideen entwickeln und ausprobieren.&lt;/p>
 &lt;h2 id="die-dashbots">Die DashBots&lt;/h2>
@@ -96,7 +83,30 @@ Teilnehmendengruppen verteilt. Die Teilnehmenden malen die Figuren und Objekte a
 Diese Grafiken werden eingescannt und in ein Template-Projekt eingefügt.&lt;/p></description></item><item><title>Haustier-App</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/octostudio-haustierapp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/octostudio-haustierapp/</guid><description>&lt;p>Im Workshop &amp;ldquo;Haustier-App&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
 wie man ein digitales Haustier programmiert, das Hunger hat und gefüttert werden muss.
 Dafür wird OctoStudio verwendet, eine App für mobile Geräte, mit der man Apps programmieren kann.
-Nach einer kurzen Inspirationsrunde verwenden die Teilnehmenden zusammen mit ihren Mentor:innen, Eltern, oder alleine die von uns zusammengestellte Anleitung, um eine grundlegende Haustier-App zu programmieren und so OctoStudio kennenzulernen. In der verbliebenen Zeit können die Teilnehmenden ihre App dann erweitern.&lt;/p></description></item><item><title>Ein Musikvideo animieren</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-musikvideo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-musikvideo/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Ein Musikvideo animieren&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
+Nach einer kurzen Inspirationsrunde verwenden die Teilnehmenden zusammen mit ihren Mentor:innen, Eltern, oder alleine die von uns zusammengestellte Anleitung, um eine grundlegende Haustier-App zu programmieren und so OctoStudio kennenzulernen. In der verbliebenen Zeit können die Teilnehmenden ihre App dann erweitern.&lt;/p></description></item><item><title>Kreativ programmieren mit Godot</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/godot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/godot/</guid><description>&lt;p>Der Workshop &amp;ldquo;Kreativ programmieren mit Godot&amp;rdquo; richtet sich an Jugendliche oder Lehrpersonen und Mentor:innen.
+Hier können die Teilnehmenden, nach einer Einführung in Game Design
+und einem Überblick über die Game-Engine &amp;ldquo;Godot&amp;rdquo;, ihr eigenes &amp;ldquo;Platformer&amp;rdquo;-Spiel designen und beginnen zu implementieren.
+Lehrpersonen können dabei die Herausforderungen und Chancen der Spielentwicklung erkunden.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Die Teilnehmenden haben ein grundlegendes Verständnis über den Spielentwicklungsprozess&lt;/li>
+&lt;li>Die Teilnehmenden wissen, wie man grundsätzlich mit Godot arbeitet&lt;/li>
+&lt;li>Die Teilnehmenden können grundlegende Szenen und Node-Tree von Godot verwenden&lt;/li>
+&lt;li>Die Teilnehmenden können Keyboard-Input einlesen&lt;/li>
+&lt;li>Lehrpersonen können den Schwierigkeitsgrad und Nutzen von Godot für ihre Zielgruppe einschätzen&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Künstliche Intelligenz</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/kuenstliche-intelligenz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/kuenstliche-intelligenz/</guid><description>&lt;p>Im Workshop &amp;ldquo;Künstliche Intelligenz&amp;rdquo; erkunden die Teilnehmenden selber wie eine KI funktionieren kann
+und wofür diese Technologie verwendet werden kann.
+An Hand des &lt;a href="https://www.aiunplugged.org/german.pdf">Äffchenspiels&lt;/a> erkunden die Teilnehmenden, wie KI &amp;ldquo;lernt&amp;rdquo;. Dann können sie mit Hilfe
+der Website &lt;a href="https://machinelearningforkids.co.uk/">Machine Learning for Kids&lt;/a> selbst eine KI trainieren und ausprobieren.
+Das Modell kann am Ende auch in Scratch verwendet werden.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Teilnehmende wissen, was eine KI ist&lt;/li>
+&lt;li>Teilnehmende wissen, wie eine KI trainiert werden kann&lt;/li>
+&lt;li>Teilnehmende kennen einige Anwendungsbeispiele für KI&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Ein Musikvideo animieren</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-musikvideo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-musikvideo/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Ein Musikvideo animieren&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
 wie man mit Scratch einfache Animationen machen kann.
 Die Animationen werden dabei durch die Bewegung und den Kostümwechsel von Figuren in Scratch erzeugt.
 Je nach Fortschritt der Teilnehmenden können zusätzliche Elemente wie Bühnenbilder hinzukommen.&lt;/p>
