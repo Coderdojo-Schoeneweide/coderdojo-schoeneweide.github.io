@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Scratch on CoderDojo Schöneweide</title><link>https://coderdojo-schoeneweide.github.io/de/tags/scratch/</link><description>Recent content in Scratch on CoderDojo Schöneweide</description><generator>Hugo</generator><language>de-DE</language><lastBuildDate>Fri, 16 Jun 2023 09:25:19 +0000</lastBuildDate><atom:link href="https://coderdojo-schoeneweide.github.io/de/tags/scratch/index.xml" rel="self" type="application/rss+xml"/><item><title>Freies Coden</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/coding_im_dojo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/coding_im_dojo/</guid><description>&lt;p>Beim Freien Coden kann man seine eigenen Programmier-Projekte mitbringen und frei daran arbeiten.
+Wenn man noch nicht weiß, was man machen möchte, haben wir auch einige Ideen zum Inspirieren parat und zeigen dir coole Dinge, die man machen kann :)&lt;/p>
+&lt;h2 id="teilnehmende-benötigen">Teilnehmende benötigen&lt;/h2>
+&lt;ul>
+&lt;li>Laptop, Tablet oder Handy (oder reservieren sich ein Computer-Ticket)&lt;/li>
+&lt;/ul>
+&lt;h2 id="anleitungen">Anleitungen&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://coderdojo-schoeneweide.de/docs/howtos/Scratch%20-%20Pattern%20I.pdf">Scratch Pattern I&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://coderdojo-schoeneweide.de/docs/howtos/Scratch%20-%20Pattern%20II.pdf">Scratch Pattern II&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://coderdojo-schoeneweide.de/docs/howtos/Scratch%20Pattern%20III.pdf">Scratch Pattern III&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://coderdojo-schoeneweide.de/docs/howtos/HTML%20%26%20CSS%20Cheat%20Sheet%20extended.pdf">HTML &amp;amp; CSS&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://coderdojo-schoeneweide.de/docs/howtos/HTML%20%26%20CSS%20Cheat%20Sheet%20extended.pdf">HTML &amp;amp; CSS&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://coderdojo-schoeneweide.de/docs/howtos/OpenProcessing%20Cheat%20Sheet.pdf">OpenProcessing&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://coderdojo-schoeneweide.de/docs/howtos/Processing%20Cheat%20Sheet.pdf">Processing&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://coderdojo-schoeneweide.de/docs/anleitung-netzwerke.pdf">Vernetzte Geschichten&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Als Softwareentwickler:in die Welt verbessern</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/softwareentwicklung-und-gesellschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/softwareentwicklung-und-gesellschaft/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Als Softwareentwickler:in die Welt verbessern&amp;rdquo; erhalten die Teilnehmenden einen ersten Einblick in die Arbeit als Softwareentwickler:in.
+Im ersten Teil setzen sich die Teilnehmenden mit Themen auseinander, die ihnen am Herzen liegen, zum Beispiel Klimaschutz oder Gleichberechtigung,
+und überlegen gemeinsam, wie Software die Gesellschaft beeinflusst. Im nächsten Schritt entwerfen die Teilnehmenden eine Software, die auf ein gesellschaftliches Thema
+aufmerksam macht, oder die ein gesellschaftliches Problem angeht. Schließlich dürfen die Teilnehmenden noch einen Teil der Idee mit Scratch umsetzen.&lt;/p></description></item><item><title>Es spricht!</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-lippensynchronisation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-lippensynchronisation/</guid><description>&lt;p>Im Workshop &amp;ldquo;Es spricht!&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
+wie man mit Scratch flüssige Animationen bestehend aus Einzelbildern machen kann.
+Bei dieser Art der Animation werden mehrere Bilder hintereinander abgespielt,
+sodass im Kopf eine Art &amp;ldquo;Film&amp;rdquo; entsteht - wie bei einem Daumenkino, aber digital!
+Eine besondere Art der Bild-für-Bild-Animation ist die Lippensynchronisation: Eine
+digitale Figur bewegt den Mund so, dass die Bewegungen zu den gesagten Worten passen.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Die Teilnehmenden können mit Scratch Tonaufnahmen machen.&lt;/li>
+&lt;li>Die Teilnehmenden können mit Hilfe des Scratch-Grafikeditors einfache Grafiken erstellen.&lt;/li>
+&lt;li>Die Teilnehmenden können bei Scratch die Kostüme einer Figur programmatisch kontrollieren.&lt;/li>
+&lt;li>Die Teilnehmenden verstehen den Zusammenhang zwischen gesagten Buchstaben und der Position der Lippe und Zunge dabei.&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Gemeinsame Geschichte</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/gemeinsame-geschichte/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/gemeinsame-geschichte/</guid><description>&lt;p>Im Workshop &amp;ldquo;Gemeinsame Geschichte&amp;rdquo; lernen die Teilnehmenden zunächst, was Programmieren
+ist. Mit dem Spiel &amp;ldquo;Lebendiger Roboter&amp;rdquo; lernen sie die Grundlagen algorithmischen Denkens
+kennen. Dann können sie mit Scratch erste Schritte in der Programmierung tun und die Programmierumgebung
+kennenlernen.&lt;/p>
+&lt;p>Separat vom Workshop (z.B. im Deutsch- und Kunstunterricht) wählen die Teilnehmenden
+eine Geschichte aus (z.B. eine behandelte Sage). Diese wird in kleine Abschnitte untergliedert und auf
+Teilnehmendengruppen verteilt. Die Teilnehmenden malen die Figuren und Objekte aus der Geschichte.
+Diese Grafiken werden eingescannt und in ein Template-Projekt eingefügt.&lt;/p></description></item><item><title>Ein Musikvideo animieren</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-musikvideo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-musikvideo/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Ein Musikvideo animieren&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
+wie man mit Scratch einfache Animationen machen kann.
+Die Animationen werden dabei durch die Bewegung und den Kostümwechsel von Figuren in Scratch erzeugt.
+Je nach Fortschritt der Teilnehmenden können zusätzliche Elemente wie Bühnenbilder hinzukommen.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Die Teilnehmenden können bei Scratch die Bewegung von Figuren kontrollieren.&lt;/li>
+&lt;li>Die Teilnehmenden verstehen den Unterschied zwischen Figuren und Kostümen.&lt;/li>
+&lt;li>Die Teilnehmenden können bei Scratch die Kostüme einer Figur programmatisch kontrollieren.&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Mit Spielen die Welt verbessern</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/computerspiele-und-gesellschaft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/computerspiele-und-gesellschaft/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Mit Spielen die Welt verbessern&amp;rdquo; erhalten die Teilnehmenden einen ersten Einblick in die Arbeit als Game Designer:in.
+Im ersten Teil diskutieren Teilnehmende, ob und wenn ja wie Spiele die Gesellschaft zum Guten beeinflussen können.
+Dann entwerfen Teilnehmende eine eigene Spielidee und erhalten die Gelegenheit, einen Teil der Idee mit Scratch umzusetzen.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Die Teilnehmenden haben einen Eindruck davon, was ein:e Game Designer:in tut&lt;/li>
+&lt;li>Die Teilnehmenden kennen grundlegende Elemente eines Spielkonzeptes: Story, Grafik, Klang, Mikro- und Makroziele, Steuerung&lt;/li>
+&lt;li>Die Teilnehmenden kennen die Grundbausteine der Spieleentwicklung: Idee - Design - Entwicklung - Test&lt;/li>
+&lt;li>Die Teilnehmenden können Scratch verwenden, um kleine Ideen umzusetzen&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Digitale Grußkarten basteln</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-grusskarten/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-grusskarten/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Digitale Grußkarten basteln&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
+wie man mit Scratch Animationen machen kann und schöne digitale Grußkarten bastelt.
+Die Animationen werden dabei durch die Bewegung, den Kostümwechsel und Grafikeffekte von Figuren in Scratch erzeugt.
+Je nach Fortschritt der Teilnehmenden können auch andere Mittel der Animation, wie das Klonen von Figuren oder die Nutzung des &amp;ldquo;Malstifts&amp;rdquo; verwendet werden.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Die Teilnehmenden können bei Scratch Klänge abspielen&lt;/li>
+&lt;li>Die Teilnehmenden können mit Hilfe des Scratch-Grafikeditors einfache Grafiken erstellen.&lt;/li>
+&lt;li>Die Teilnehmenden können bei Scratch die Kostüme einer Figur programmatisch kontrollieren.&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Dramas mit Lamas</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-theaterstueck/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-theaterstueck/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Dramas mit Lamas&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
+wie man mit Scratch einfache Animationen machen kann.
+Der Fokus des Workshops liegt darauf, dass Figuren sprechen und miteinander interagieren - wie bei einem Theaterstück.
+Damit das Gesagte sich nicht überschneidet, müssen die Interaktion zeitlich geplant werden:
+wer sagt was wie lange, und wer wartet also wie lange?
+Um die Interaktion der Figuren effizienter zu synchronisieren, lernen fortgeschrittenere Teilnehmende,
+wie sie die &amp;ldquo;senden&amp;rdquo;- und &amp;ldquo;emfangen&amp;rdquo;-Befehle von Scratch einsetzen.&lt;/p></description></item><item><title>Hallo Bot, wie gehts?</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/chatbot/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/chatbot/</guid><description>&lt;p>Im Online-Workshop &amp;ldquo;Hallo Bot, wie gehts?&amp;rdquo; erhalten die Teilnehmenden einen Einblick darin,
+wie man Chatbots programmiert. Chatbots sind Programme, die sich mit einem User unterhalten können.
+Teilnehmende können wahlweise Scratch oder Python verwenden.&lt;/p>
+&lt;p>Je nach Fortschritt der Teilnehmenden können bei der Verwendung von Scratch auch die &amp;ldquo;Text-zu-Sprache&amp;rdquo;-Erweiterung und
+eigene Blöcke (auch bekannt als &amp;ldquo;Funktionen&amp;rdquo; oder &amp;ldquo;Subroutinen&amp;rdquo;) benutzt werden.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Die Teilnehmenden verstehen, was ein Chatbot ist&lt;/li>
+&lt;li>Die Teilnehmenden können den Computer etwas sagen lassen&lt;/li>
+&lt;li>Die Teilnehmenden können User-Input abfragen und benutzen&lt;/li>
+&lt;li>Die Teilnehmenden können Bedingungen nutzen, um auf User-Input zu reagieren&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Storyboarding und Animationen mit Scratch</title><link>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-animationen/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/workshops/scratch-animationen/</guid><description>&lt;p>In diesem Workshop konzipieren die Teilnehmenden Animationen zu Themen, die sie im Alltag
+beschäftigen, wie z.B. Freundschaft und Umwelt. Die Teilnehmenden erhalten einen Einblick in
+Elemente eines Animationsfilms und wie er entsteht: Ideenfindung, Storyboarding, Animation und Test.&lt;/p>
+&lt;p>Lernziele:&lt;/p>
+&lt;ul>
+&lt;li>Die Teilnehmenden können Emotionen-transportierende Elemente eines Animationsfilmkonzepts identifizieren.&lt;/li>
+&lt;li>Die Teilnehmenden können ein Storyboard für eine Szene erstellen.&lt;/li>
+&lt;li>Die Teilnehmenden können mit Hilfe des Scratch-Grafikeditors einfache Grafiken erstellen.&lt;/li>
+&lt;li>Die Teilnehmenden können in Scratch die Kostüme einer Figur programmatisch kontrollieren.&lt;/li>
+&lt;li>Die Teilnehmenden können die Position von Figuren steuern.&lt;/li>
+&lt;/ul>
+&lt;p>Teilnehmende benötigen:&lt;/p></description></item><item><title>Sagen Workshop an der Grundschule Karlshorst</title><link>https://coderdojo-schoeneweide.github.io/de/blog/2023-06-16-sagen-workshop-an-der-grundschule-karlshorst/</link><pubDate>Fri, 16 Jun 2023 09:25:19 +0000</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/blog/2023-06-16-sagen-workshop-an-der-grundschule-karlshorst/</guid><description>&lt;p>Am 17.05.2023 und 24.05.2023 waren wir an der Grundschule Karlshorst und haben zusammen mit den Schüler*innen der 6. Klasse einen Scratch Workshop zum Thema Sagen veranstaltet. &lt;/p>
+&lt;p>Am 17.05. ging es nach einer kurzen Vorstellung direkt mit dem Roboter-Spiel los. Die Schüler*innen standen vor der schwierigen Aufgabe, unseren Roboter Ilja so zu programmieren, dass er seinen Hunger nach Toast mit Peanutbutter stillen kann. Dazu waren viele Zwischenschritte, wie das Auspacken des Toasts und das Messer in die Peanutbutter stecken, notwendig. Letzteres sorgte dafür, dass das Messer mit dem Knauf voran im Peanutbutterglas landete. Am Ende hat Ilja, nach erfolgreicher Programmierung, aber noch den Toast essen können.&lt;/p></description></item><item><title>Dezember-Workshop: Animationen mit Scratch</title><link>https://coderdojo-schoeneweide.github.io/de/blog/2022-11-27-dezember-workshop/</link><pubDate>Sun, 27 Nov 2022 00:00:00 +0100</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/blog/2022-11-27-dezember-workshop/</guid><description>&lt;p>Am 26. November fand der Workshop &amp;ldquo;Es spricht!&amp;rdquo; statt, bei dem Teilnehmende Animieren mit Scratch übten.
+Sie konnten ein Wort einsprechen, z.B. den Namen ihres Lieblingsdeserts, es mit Scratch abspielen
+und dann die Lippenbewegungen einer Strichfigur passend dazu animieren.&lt;/p>
+&lt;p>Mit Hilfe unseres Lip-Sync-Toolkits konnten sich die Teilnehmenden schnell über erste Erfolge freuen.&lt;/p>
+&lt;p>&lt;img src="https://coderdojo-schoeneweide.github.io/images/cms/teilnehmende.png" alt="" title="Teilnehmende des Workshops">&lt;/p>
+&lt;p>Nachdem wir diesen Workshop bereits zuvor online durchgeführt hatten, konnte er diesmal zum ersten mal in Präsenz stattfinden.
+Eine Kurzbeschreibung des Workshops findet sich auch unter &lt;a href="https://coderdojo-schoeneweide.github.io/workshops/scratch-lippensynchronisation/">Workshops &amp;gt; Es Spricht!&lt;/a>&lt;/p></description></item><item><title>Abzeichen im CoderDojo</title><link>https://coderdojo-schoeneweide.github.io/de/blog/2022-09-19-abzeichen-im-coderdojo/</link><pubDate>Mon, 19 Sep 2022 10:00:00 +0100</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/blog/2022-09-19-abzeichen-im-coderdojo/</guid><description>&lt;p>Heutzutage findet man in vielen Lernplattformen oder Lern-Apps, Abzeichen oder Trophäen-Systeme. Sie sollen Lernbegeisterte wie zum Beispiel Kinder motivieren, um so Spaß und Lernfortschritte zu fördern. Ich habe mich der Frage gestellt, inwiefern Abzeichen und Trophäen-Systeme Kinder fördern können, programmieren zu lernen und wie diese den Spaß und die Eigenmotivation eines Kindes beeinflussen.&lt;/p>
+&lt;p>&lt;img src="https://coderdojo-schoeneweide.github.io/images/cms/abzeichen_im_dojo_research_badges_im_coderdojo_1.png" alt="" title="Abzeichen Forschung">&lt;/p>
+&lt;p>Hierfür habe ich mich zunächst mit Forschungsarbeiten zum Thema „Verwendung von Abzeichen in der Bildung“ beschäftigt. Um meine Studie auf unseren CoderDojo und die Kinder zu beziehen, habe ich Erfahrungen aus unserem Coding im Dojo Workshop miteinbezogen.
+So stellte sich auch schnell heraus, dass sich Scratch als erste Umgebung für Überlegungen zur Gestaltung von Abzeichen eignet. Ich habe mir also die Funktionen von Scratch genauer angeschaut, um herauszufinden inwiefern Abzeichen hier eingebunden werden können. Herausgekommen ist zunächst eine riesiger Funktionsbaum – was man alles mit Scratch machen kann.&lt;/p></description></item><item><title>Coding im März</title><link>https://coderdojo-schoeneweide.github.io/de/blog/2022-03-19-coding-im-dojo/</link><pubDate>Sat, 19 Mar 2022 21:00:00 +0100</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/blog/2022-03-19-coding-im-dojo/</guid><description>&lt;p>Trotz des schönen Wetters haben wir diesen Samstag Vormittag indoor verbracht. Diesmal sind wir ganz ohne Vorstellungsrunde direkt in unsere Projekte eingestiegen. Fast fertige Spiele wurden um neue Spielelemente erweitert. Gerade gedachte Spiele wurden neu angefangen.&lt;/p>
+&lt;p>&lt;img src="https://coderdojo-schoeneweide.github.io/images/cms/coding_im_dojo_workinprogress.png" alt="">&lt;/p>
+&lt;p>Wer bestimmte Spielmechaniken umsetzen möchte, findet mit Scratch genauso die perfekte Grundlage, wie Designer:innen, die ihr Augenmerk auf Charakterbildung legen oder zukünftige Autor:innen, die spielerisch ihre Geschichte erzählen. Das größte Projekt - ein Discord Chat Bot - läuft in Python.&lt;/p></description></item><item><title>Neues Format: Coding im Dojo</title><link>https://coderdojo-schoeneweide.github.io/de/blog/2022-01-15-coding-im-dojo/</link><pubDate>Sat, 15 Jan 2022 13:00:00 +0100</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/blog/2022-01-15-coding-im-dojo/</guid><description>&lt;p>Um gleich mit einem guten Auftakt ins neue Jahr zu starten fand am 15.01. das erste Coding im Dojo des Jahres statt. Wie bei jedem Coding im Dojo steht das Machen und die Kreativät im Fokus. Alle Teilnehmer:innen können mit eigenen Themen zu uns kommen und die Mentor:innen bemühen sich mit Rat und Tat eure Projekte zu fördern und euch beim Entwickeln und Tüfteln zu unterstützen 🧑‍🏫.&lt;/p>
+&lt;p>An diesem &amp;ldquo;Coding im Dojo&amp;rdquo; konnten die Kinder sowohl vor Ort oder auch Online über BigBlue-Button teilnehmen.
+Aufgrund der Erfahrungen unser Mentor:innen mit dem Tool lief die Integration der Online-Teilnehmer:innen auch völlig reibungslos ab.&lt;/p></description></item><item><title>Chatbot mit Scratch 2021</title><link>https://coderdojo-schoeneweide.github.io/de/blog/2021-12-11-chatbot/</link><pubDate>Wed, 05 Jan 2022 13:00:00 +0100</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/blog/2021-12-11-chatbot/</guid><description>&lt;p>Auch letzte Woche haben wir uns gemeinsam auf dem Campus Wilhelminenhof der HTW Berlin getroffen und die Kinder mit Hilfe von Scratch einen Chatbot programmieren lassen.
+Als alle Kinder ihren Weg zu uns gefunden hatten, fingen wir, nach einer kleinen Vorstellungsrunde und der Frage &amp;ldquo;Was ist dein Lieblingsroboter (Bender Futurama!)&amp;rdquo;, auch schon an.&lt;/p>
+&lt;p>&lt;img src="https://coderdojo-schoeneweide.github.io/images/cms/chatbot_bild1.jpg" alt="" title="Unsere Mentoren unterstützen die Kinder beim Programmieren">&lt;/p>
+&lt;p>Die Kinder fanden sich gut in das Thema der Woche hinein. Die ersten Versuche, einen Chatbot zu gestalten, konnte mit der Unterstützung von Mentor:innen bewerkstelligt werden.&lt;/p></description></item><item><title>Gruselparty zum 10. Geburtstag vom CoderDojo</title><link>https://coderdojo-schoeneweide.github.io/de/blog/2021-11-01-grusel-geburtstagsparty-workshop/</link><pubDate>Mon, 01 Nov 2021 13:00:00 +0100</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/blog/2021-11-01-grusel-geburtstagsparty-workshop/</guid><description>&lt;p>Ist denn das zu fassen? CoderDojo feiert schon sein zehnjähriges Bestehen! Und wir, das CoderDojo Schöneweide, sind 2
+Jahre alt geworden. Diese Meilensteine müssen gefeiert werden! Pünktlich zu Halloween veranstalteten wir, das CoderDojo
+Schöneweide, einen ehrenamtlich veranstalteten Grusel-Geburtstagsparty-Workshop an der HTW Berlin auf dem Campus
+Wilhelminenhof.&lt;/p>
+&lt;p>Es gab leckere, selbst gebackene Muffins, Ballons, Kostüme und natürlich junge, entschlossene Programmierer:innen!
+Alles, was eine CoderDojo-Party braucht, um ein Erfolg zu werden.&lt;/p>
+&lt;p>&lt;img src="https://coderdojo-schoeneweide.github.io/images/cms/grusel-geburtstagsparty-workshop_dojosw_geburtstag1.png" alt="">&lt;/p></description></item><item><title>Sommer, Sonne, Spiele! Ein Erlebnisbericht</title><link>https://coderdojo-schoeneweide.github.io/de/blog/2021-07-29-juli-workshop/</link><pubDate>Thu, 05 Aug 2021 13:00:00 +0100</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/blog/2021-07-29-juli-workshop/</guid><description>&lt;p>Mitten in den Sommerferien hat am Donnerstag die Sonne zwar nur ab und zu durch die Wolken geschaut, Spaß am Spiele Programmieren gab es dafür ohne Ende.&lt;br>
+&lt;figure>&lt;img src="images/Picknick.jpeg" width="90%">&lt;figcaption>
+ &lt;h4>Programmieren unter freiem Himmel - ein erster Eindruck&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+&lt;/p>
+&lt;p>&lt;img src="https://coderdojo-schoeneweide.github.io/images/cms/juli-workshop_picknick.jpeg" alt="" title="Programmieren unter freiem Himmel - ein erster Eindruck">&lt;/p>
+&lt;p>Unter freiem Himmel in entspannter Picknick-Atmosphäre konnten sich alle Teilnehmende endlich mal persönlich austauschen. Erstmal kennenlernen war zwar etwas ungewohnt für alle, aber schließlich kam doch jede:r zu Wort (auch die Eltern! :)), um von seinen oder ihren Ferienerlebnissen zu erzählen.&lt;/p></description></item><item><title>Juni Workshop 2021</title><link>https://coderdojo-schoeneweide.github.io/de/blog/2021-06-juni-workshop/</link><pubDate>Mon, 28 Jun 2021 13:00:00 +0100</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/blog/2021-06-juni-workshop/</guid><description>&lt;p>Am 22.06.2021 haben wir uns zusammengefunden und einen Scratch-Workshop veranstaltet.
+So kurz vor den Sommerferien war es dieses mal ein recht kleiner Workshop, aber gerade durch die kleine Runde war die Stimmung sehr entspannt.&lt;/p>
+&lt;p>Wie immer zu Beginn eines Workshops stellten sich die Mentor:innen vor, damit die Teilnehmer:innen wissen, an wen sie sich bei Fragen wenden können.
+Dieses mal war es gut möglich, dass sich auch die Teilnehmer:innen direkt zu Beginn vorstellten. Das hatte den Vorteil, dass die Teilnehmer:innen früh eingebunden wurden
+und sich auf diese Weise auf der gleichen Ebene wie die Mentor:innen befanden.&lt;/p></description></item><item><title>Scratch Week 2021</title><link>https://coderdojo-schoeneweide.github.io/de/blog/2021-05-20-scratch-week/</link><pubDate>Thu, 20 May 2021 13:00:00 +0100</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/blog/2021-05-20-scratch-week/</guid><description>&lt;p>Pünktlich zur &lt;a href="https://sip.scratch.mit.edu/scratchweek/">Scratch Week&lt;/a> haben wir am 20.05.2021 einen Workshop durchgeführt, bei
+dem Kinder mithilfe von Scratch eigene Projekte verwirklichen konnten. Teilgenommen haben 8 Schüler:innen unterschiedlichen Alters
+sowie 4 Mentor:innen, die den Workshop organisiert und geleitet haben. Das Thema des Workshops war &amp;ldquo;Magical Arcade&amp;rdquo;, also &amp;ldquo;Magische Spielhalle&amp;rdquo;.
+Ein Thema an dem sich die Kinder orientieren konnten und das sehr viel Spielraum für Ideen gab.&lt;/p>
+&lt;p>&lt;img src="https://coderdojo-schoeneweide.github.io/images/cms/scratch-week_moinmoin.png" alt="" title="\&amp;#34;Moin Moin\&amp;#34; sagt der Käfer">&lt;/p>
+&lt;p>Zu Beginn des Workshops stellten sich die Mentor:innen vor, damit die Teilnehmer:innen wussten wen man fragen konnte, falls etwas unklar sein sollte.
+Anschließend wurden zwei Gruppen gebildet. In den Gruppen ging es erst mal darum, sich gegenseitig kennenzulernen. Interessant wurde der Workshop gerade
+dadurch, dass Teilnehmer:innen mit unterschiedlichem Vorwissen teilnahmen. Einige hatten schon viele Projekte gemacht und kannten sich sehr gut mit Scratch aus,
+während Andere zum ersten mal dabei waren. Bevor es dann endlich los gehen sollte, gab es noch eine kurze Einführung in Scratch, sodass sich alle grundlegend
+orientieren konnten.&lt;/p></description></item><item><title>Girls Day 2021</title><link>https://coderdojo-schoeneweide.github.io/de/blog/2021-04-22-girls-day/</link><pubDate>Thu, 22 Apr 2021 13:00:00 +0100</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/blog/2021-04-22-girls-day/</guid><description>&lt;p>Bei unserem Workshop zum Girls Day 2021 haben wir vor allem das Zusammenspiel zwischen Software und Gesellschaft erforscht.
+Am 22. April 2021 haben sich 18 Schülerinnen zusammen mit 7 Mentor:innen zusammen gesetzt (virtuell natürlich) und sind
+der Frage nachgegangen, wie Software unser gesellschaftliches Leben beeinflusst. Tut sie das überhaupt? Wo tut sie es?
+Und ist es überhaupt gut so wie sie es tut?&lt;/p>
+&lt;p>&lt;img src="https://coderdojo-schoeneweide.github.io/images/cms/girls-day_wiekommstduzurschule.png" alt="" title="Eine Projektidee: Wie kommst du zur Schule?">&lt;/p></description></item><item><title>Spiele Selber Machen - Unser erster Online-Workshop</title><link>https://coderdojo-schoeneweide.github.io/de/blog/2020-09-08-workshop-game-design/</link><pubDate>Tue, 08 Sep 2020 13:31:00 +0100</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/blog/2020-09-08-workshop-game-design/</guid><description>&lt;p>Ein Spiel zu designen ist ganz schön kompliziert: Man muss sich überlegen, welche Geschichte erzählt werden soll,
+welche Grafiken oder Musik man braucht, man muss Menüs und Steuerung benutzerfreundlich gestalten und natürlich
+muss man es auch schaffen, die User zu motivieren! All das lernt man natürlich nicht in einem einzigen Workshop,
+aber immerhin einen Einstieg konnten wir den Teilnehmer:innen unseres Online-Workshops am 5. September 2020 bieten.&lt;/p>
+&lt;p>Nachdem wir zusammen unsere Lieblingsspiele auf ihre Story, Ziel, Funktion und künstlerische Aspekte untersucht haben,
+haben die Teilnehmer:innen auf Papier ihr eigenes Spiel entworfen. Nach einer kurzen Einführung in Scratch nutzten sie die block-basierte Programmiersprache
+als Werkzeug, um einen Prototypen für einzelne Teile ihrer Spiele zu programmieren. &lt;a href="https://de.wikipedia.org/wiki/Prototyp_%28Technik%29">Prototypen&lt;/a>
+helfen Ideen greifbarer zu machen und durch Testen Probleme im Design zu erkennen.&lt;/p></description></item><item><title>Einstieg in die Informatik für Grundschüler*innen - Auch ohne Computer kann man viel lernen!</title><link>https://coderdojo-schoeneweide.github.io/de/blog/2020-04-03-workshop-einstieg-in-die-informatik/</link><pubDate>Fri, 03 Apr 2020 13:51:00 +0100</pubDate><guid>https://coderdojo-schoeneweide.github.io/de/blog/2020-04-03-workshop-einstieg-in-die-informatik/</guid><description>&lt;p>Wie sage ich einem Roboter, wie er sich ein Brötchen schmiert, im Park Müll beiseite räumt oder einen Luftballon fängt?
+Das konnte am 5. März 2020 eine sechste Klasse der Grundschule an der Wuhlheide bei unserem Workshop zum Einstieg in die
+Programmierung an der HTW herausfinden. Eine der wichtigsten Erkenntnisse aus diesem Workshop war sicherlich:
+Informatische Bildung geht mit analogen Spielen auch ohne teure technische Ausstattung!&lt;/p>
+&lt;p>Da die Teilnehmer:innen keine Vorkenntnisse in Informatik hatten, begann der Workshop mit einer Einführung.
+Dabei haben wir überlegt, was Computer überhaupt sind, und wo überall ein Computer drin steckt.
+Es folgte ein kleines Experiment: Eine unserer Mentorinnen spielte einen Roboter, der von den Teilnehmer:innen
+Befehle entgegennahm. Ziel war es, eine Käsestulle zuzubereiten. Wenn dann die Butter auf der Unterseite des Brötchens
+verteilt wurde, statt auf der aufgeschnittenen Seite, sorgte dass nicht nur für Spaß, sondern auch die Erkenntniss,
+dass man bei Computerbefehlen wirklich ganz genau sein muss, denn der Computer macht genau das, was man befiehlt.&lt;/p></description></item></channel></rss>
